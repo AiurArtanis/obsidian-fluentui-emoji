@@ -1,0 +1,27 @@
+name: Sync src with upstream
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-src-with-upstream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
+        with:
+          fetch-depth: 0
+      - name: Mirror Microsoft upstream main to src
+        shell: bash
+        run: |
+          git remote add upstream https://github.com/microsoft/fluentui-emoji.git
+          git fetch --no-tags upstream main
+          git push --force origin upstream/main:refs/heads/src
