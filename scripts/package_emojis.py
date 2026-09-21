@@ -73,6 +73,7 @@ class AssetFile:
 
     source_path: Path
     source_relative_path: str
+    emoji_name: str
     group: str
     style: str
     skin_tone: str
@@ -156,6 +157,7 @@ def discover_assets(
                 AssetFile(
                     source_path=source_path,
                     source_relative_path=source_relative_path,
+                    emoji_name=asset_directory.name,
                     group=group,
                     style=style,
                     skin_tone=skin_tone,
@@ -291,30 +293,39 @@ def build_plan(
     return plan
 
 
-def sha256_file(path: Path) -> str:
-    digest = hashlib.sha256()
-    with path.open("rb") as source_file:
-        for chunk in iter(lambda: source_file.read(1024 * 1024), b""):
-            digest.update(chunk)
-    return digest.hexdigest()
+def _metadata_jsonl(files: Iterable[PlannedFile]) -> str:
+    """Merge original metadata once per Emoji/style as deterministically sorted JSONL."""
 
-
-def _metadata_payload(files: Iterable[PlannedFile]) -> dict[str, Any]:
-    items = []
-    for planned_file in sorted(files, key=lambda item: item.archive_path.name.casefold()):
+    unique_assets: dict[tuple[str, str], AssetFile] = {}
+    for planned_file in files:
         asset = planned_file.asset
-        items.append(
-            {
-                "file": planned_file.archive_path.name,
-                "style": asset.style,
-                "skinTone": asset.skin_tone,
-                "sourcePath": asset.source_relative_path,
-                "sizeBytes": asset.source_path.stat().st_size,
-                "sha256": sha256_file(asset.source_path),
-                "sourceMetadata": asset.metadata,
-            }
-        )
-    return {"schemaVersion": 1, "count": len(items), "items": items}
+        key = (asset.emoji_name, asset.style)
+        prior_asset = unique_assets.get(key)
+        if prior_asset is not None and prior_asset.metadata != asset.metadata:
+            raise PackageError(
+                f"同一 Emoji/风格存在互相冲突的元数据：{asset.emoji_name} ({asset.style})"
+            )
+        unique_assets[key] = asset
+
+    style_positions = {style: index for index, style in enumerate(STYLE_ORDER)}
+    lines: list[str] = []
+    for _, asset in sorted(
+        unique_assets.items(),
+        key=lambda item: (item[0][0].casefold(), style_positions[item[0][1]]),
+    ):
+        # Keep the upstream object intact and in its native field order.  The
+        # two reserved fields are deliberately reconstructed so emojiName is
+        # first and emojiStyle is last on every JSONL line.
+        upstream_metadata = dict(asset.metadata)
+        upstream_metadata.pop("emojiName", None)
+        upstream_metadata.pop("emojiStyle", None)
+        record = {
+            "emojiName": asset.emoji_name,
+            **upstream_metadata,
+            "emojiStyle": asset.style,
+        }
+        lines.append(json.dumps(record, ensure_ascii=False, separators=(",", ":")))
+    return "\n".join(lines) + "\n"
 
 
 def _metadata_members(plan: Iterable[PlannedFile]) -> dict[PurePosixPath, list[PlannedFile]]:
@@ -359,14 +370,8 @@ def write_archive(
             for planned_file in plan:
                 archive.write(planned_file.asset.source_path, planned_file.archive_path.as_posix())
             for directory, files in sorted(_metadata_members(plan).items(), key=lambda item: item[0].as_posix()):
-                metadata_member = directory / "metadata.json"
-                payload = json.dumps(
-                    _metadata_payload(files),
-                    ensure_ascii=False,
-                    indent=2,
-                    sort_keys=True,
-                ) + "\n"
-                archive.writestr(metadata_member.as_posix(), payload)
+                metadata_member = directory / "metadata.jsonl"
+                archive.writestr(metadata_member.as_posix(), _metadata_jsonl(files))
 
         with zipfile.ZipFile(temporary_path, mode="r") as archive:
             damaged_member = archive.testzip()

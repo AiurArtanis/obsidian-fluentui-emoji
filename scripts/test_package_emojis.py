@@ -5,7 +5,6 @@ Run with: py scripts/test_package_emojis.py
 
 from __future__ import annotations
 
-import hashlib
 import json
 import tempfile
 import unittest
@@ -166,36 +165,38 @@ class PackageEmojiTests(unittest.TestCase):
             self.assertIn("color/game_color.svg", archive.namelist())
             self.assertNotIn("flat/Activities/game_flat.svg", archive.namelist())
 
-    def test_archive_includes_license_resources_and_leaf_metadata(self) -> None:
+    def test_archive_includes_license_resources_and_leaf_jsonl(self) -> None:
         output = self._write(self._plan("flat,color", "ALL"))
         with zipfile.ZipFile(output) as archive:
             names = set(archive.namelist())
             self.assertIn("LICENSE", names)
             self.assertIn("flat/Activities/game_flat.svg", names)
-            self.assertIn("flat/Activities/metadata.json", names)
-            self.assertIn("color/People & Body/metadata.json", names)
+            self.assertIn("flat/Activities/metadata.jsonl", names)
+            self.assertIn("color/People & Body/metadata.jsonl", names)
             self.assertIsNone(archive.testzip())
 
-    def test_leaf_metadata_matches_the_files_in_its_directory(self) -> None:
+    def test_leaf_jsonl_preserves_upstream_metadata_with_required_boundary_fields(self) -> None:
         output = self._write(self._plan("flat", "Activities"))
         with zipfile.ZipFile(output) as archive:
-            metadata = json.loads(archive.read("flat/Activities/metadata.json"))
-        self.assertEqual(1, metadata["schemaVersion"])
-        self.assertEqual(1, metadata["count"])
-        item = metadata["items"][0]
-        self.assertEqual("game_flat.svg", item["file"])
-        self.assertEqual("flat", item["style"])
-        self.assertEqual("Activities", item["sourceMetadata"]["group"])
-        self.assertEqual(
-            hashlib.sha256(b"<svg>game flat</svg>").hexdigest(), item["sha256"]
-        )
+            lines = archive.read("flat/Activities/metadata.jsonl").decode("utf-8").splitlines()
+        self.assertEqual(1, len(lines))
+        item = json.loads(lines[0])
+        self.assertEqual("Game", item["emojiName"])
+        self.assertEqual("Activities", item["group"])
+        self.assertEqual("flat", item["emojiStyle"])
+        self.assertEqual("emojiName", next(iter(item)))
+        self.assertEqual("emojiStyle", next(reversed(item)))
 
-    def test_flattened_root_writes_one_root_metadata_file(self) -> None:
+    def test_flattened_root_writes_one_sorted_jsonl_without_skin_tone_duplicates(self) -> None:
         output = self._write(self._plan("NONE", "NONE"))
         with zipfile.ZipFile(output) as archive:
-            metadata = json.loads(archive.read("metadata.json"))
-            self.assertNotIn("./metadata.json", archive.namelist())
-        self.assertEqual(len(self.records), metadata["count"])
+            records = [
+                json.loads(line)
+                for line in archive.read("metadata.jsonl").decode("utf-8").splitlines()
+            ]
+            self.assertNotIn("./metadata.jsonl", archive.namelist())
+        self.assertEqual(["Game", "Game", "Hand", "Hand", "Tool", "Tool"], [record["emojiName"] for record in records])
+        self.assertEqual(1, sum(record["emojiName"] == "Hand" and record["emojiStyle"] == "flat" for record in records))
 
     def test_existing_output_requires_force(self) -> None:
         plan = self._plan("flat", "Activities")

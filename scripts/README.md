@@ -2,7 +2,7 @@
 
 `package_emojis.py` 会扫描仓库的 `assets/`，根据上游每个 Emoji 的 `metadata.json` 读取 `group`，再把实际存在的 SVG 和 PNG 资源写入一个 ZIP。它不改动上游资源，也不需要安装第三方 Python 包。
 
-打包结果适合被 Obsidian 插件作为离线图标包下载、校验和解压。每个包含图片的叶子目录都会有一份汇总 `metadata.json`；ZIP 根目录还会保留 Microsoft Fluent Emoji 的 `LICENSE`。
+打包结果适合被 Obsidian 插件作为离线图标包下载、校验和解压。每个包含图片的叶子目录都会有一份合并后的 `metadata.jsonl`；ZIP 根目录还会保留 Microsoft Fluent Emoji 的 `LICENSE`。
 
 ## 快速开始
 
@@ -35,17 +35,17 @@ flat-color.zip
 ├── flat/
 │   ├── Activities/
 │   │   ├── video_game_flat.svg
-│   │   └── metadata.json
+│   │   └── metadata.jsonl
 │   └── People & Body/
 │       ├── thumbs_up_flat.svg
-│       └── metadata.json
+│       └── metadata.jsonl
 └── color/
     ├── Activities/
     │   ├── video_game_color.svg
-    │   └── metadata.json
+    │   └── metadata.jsonl
     └── People & Body/
         ├── thumbs_up_color.svg
-        └── metadata.json
+        └── metadata.jsonl
 ```
 
 ## 选择规则
@@ -62,10 +62,10 @@ flat-color.zip
 
 | emoji-style | group | ZIP 布局 |
 | --- | --- | --- |
-| `flat,color` | `ALL` | `风格/分组/图片 + metadata.json` |
-| `flat,color` | `NONE` | `风格/图片 + metadata.json` |
-| `NONE` | `ALL` | `分组/图片 + metadata.json` |
-| `NONE` | `NONE` | 根目录下的图片 + `metadata.json` |
+| `flat,color` | `ALL` | `风格/分组/图片 + metadata.jsonl` |
+| `flat,color` | `NONE` | `风格/图片 + metadata.jsonl` |
+| `NONE` | `ALL` | `分组/图片 + metadata.jsonl` |
+| `NONE` | `NONE` | 根目录下的图片 + `metadata.jsonl` |
 
 若需要保留筛选范围、但让所选维度不再创建目录，可以追加 `--no-style-directory` 或 `--no-group-directory`。例如为 `Activities` 创建一个根目录直接包含四种风格的主题包：
 
@@ -103,31 +103,15 @@ py scripts/package_emojis.py --emoji-style 3d --group Objects --output "dist/obj
 py scripts/package_emojis.py --emoji-style flat --group ALL --output "dist/flat.zip" --force
 ```
 
-## ZIP 内的 metadata
+## ZIP 内的 metadata.jsonl
 
-每个叶子目录的 `metadata.json` 结构如下：
+每个包含图片的叶子目录只会生成一个 `metadata.jsonl`。这是 UTF-8 的 JSON Lines 文件：一行代表一个 Emoji／风格组合，按 `emojiName` 升序排列；肤色变体不会重复写同一条元数据。每行保留完整的上游 `metadata.json`，并额外遵守两个固定字段位置：首字段为 `emojiName`，末字段为 `emojiStyle`。
 
-```json
-{
-  "schemaVersion": 1,
-  "count": 1,
-  "items": [
-    {
-      "file": "video_game_flat.svg",
-      "style": "flat",
-      "skinTone": "Default",
-      "sourcePath": "assets/Video game/Flat/video_game_flat.svg",
-      "sizeBytes": 1234,
-      "sha256": "…",
-      "sourceMetadata": {
-        "group": "Activities"
-      }
-    }
-  ]
-}
+```jsonl
+{"emojiName":"Video game","cldr":"video game","fromVersion":"0.6","glyph":"🎮","group":"Activities","keywords":["controller","game","video game"],"tts":"video game","unicode":"1f3ae","emojiStyle":"flat"}
 ```
 
-`sourceMetadata` 是上游 `metadata.json` 的完整对象，便于下游索引 Emoji 名称、Unicode、关键词和分组。若取消目录层级后两个源文件的文件名相同，脚本会为后一个文件追加来源路径的短哈希；两个文件都不会被覆盖，且汇总 metadata 会记录最终文件名。
+若取消目录层级后两个源文件的文件名相同，脚本会为后一个文件追加来源路径的短哈希；两个文件都不会被覆盖。JSONL 合并基于 Emoji 名称与风格，不受这类文件名改写影响。
 
 写入时先创建临时 ZIP，完成 CRC 校验后才原子替换目标文件。已有目标 ZIP 默认不会被覆盖。
 
