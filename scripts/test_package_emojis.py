@@ -165,6 +165,34 @@ class PackageEmojiTests(unittest.TestCase):
             self.assertIn("color/game_color.svg", archive.namelist())
             self.assertNotIn("flat/Activities/game_flat.svg", archive.namelist())
 
+    def test_obsidian_plugin_pack_has_three_svg_styles_and_one_root_jsonl(self) -> None:
+        self._add_asset(
+            "Game",
+            "Activities",
+            {"High Contrast/game_high_contrast.svg": b"<svg>high contrast</svg>"},
+        )
+        output = self.root / "dist" / "fluent-emoji-for-obsidian-plugin.zip"
+        result = main(
+            ["--obsidian-plugin", "--output", str(output)],
+            repository_root=self.root,
+        )
+        self.assertEqual(0, result)
+        with zipfile.ZipFile(output) as archive:
+            names = archive.namelist()
+            self.assertIn("LICENSE", names)
+            self.assertIn("metadata.json", names)
+            self.assertIn("3d/game_color.svg", names)
+            self.assertIn("flat/game_flat.svg", names)
+            self.assertIn("high-contrast/game_high_contrast.svg", names)
+            self.assertNotIn("color/game_color.svg", names)
+            self.assertFalse(any(name.endswith((".png", ".jsonl")) for name in names))
+            records = [json.loads(line) for line in archive.read("metadata.json").decode("utf-8").splitlines()]
+            self.assertIsNone(archive.testzip())
+        self.assertEqual(3, len([item for item in records if item["emojiName"] == "Game"]))
+        self.assertEqual({"3d", "flat", "high-contrast"}, {item["emojiStyle"] for item in records if item["emojiName"] == "Game"})
+        self.assertEqual(["Game", "Game", "Game", "Hand", "Hand", "Tool"], [item["emojiName"] for item in records])
+        self.assertTrue(all(next(iter(item)) == "emojiName" and next(reversed(item)) == "emojiStyle" for item in records))
+
     def test_archive_includes_license_resources_and_leaf_jsonl(self) -> None:
         output = self._write(self._plan("flat,color", "ALL"))
         with zipfile.ZipFile(output) as archive:

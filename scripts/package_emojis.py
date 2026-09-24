@@ -293,7 +293,37 @@ def build_plan(
     return plan
 
 
-def _metadata_jsonl(files: Iterable[PlannedFile]) -> str:
+def build_obsidian_plugin_plan(records: Iterable[AssetFile]) -> list[PlannedFile]:
+    """Build the three SVG-only style directories expected by the plugin."""
+
+    selected_records = [
+        record for record in records
+        if record.style in {"color", "flat", "high-contrast"}
+    ]
+    groups = tuple(sorted({record.group for record in selected_records}, key=str.casefold))
+    plan = build_plan(
+        selected_records,
+        Selection(("color", "flat", "high-contrast"), create_directory=True),
+        Selection(groups, create_directory=False),
+    )
+    result: list[PlannedFile] = []
+    for planned_file in plan:
+        if planned_file.asset.source_path.suffix.lower() != ".svg":
+            raise PackageError(
+                f"Obsidian 插件资源包只接受 SVG：{planned_file.asset.source_relative_path}"
+            )
+        archive_path = planned_file.archive_path
+        if planned_file.asset.style == "color":
+            archive_path = PurePosixPath("3d", archive_path.name)
+        result.append(PlannedFile(planned_file.asset, archive_path))
+    return result
+
+
+def _metadata_jsonl(
+    files: Iterable[PlannedFile],
+    *,
+    style_aliases: dict[str, str] | None = None,
+) -> str:
     """Merge original metadata once per Emoji/style as deterministically sorted JSONL."""
 
     unique_assets: dict[tuple[str, str], AssetFile] = {}
@@ -322,7 +352,7 @@ def _metadata_jsonl(files: Iterable[PlannedFile]) -> str:
         record = {
             "emojiName": asset.emoji_name,
             **upstream_metadata,
-            "emojiStyle": asset.style,
+            "emojiStyle": (style_aliases or {}).get(asset.style, asset.style),
         }
         lines.append(json.dumps(record, ensure_ascii=False, separators=(",", ":")))
     return "\n".join(lines) + "\n"
@@ -341,6 +371,7 @@ def write_archive(
     *,
     license_path: Path = LICENSE_PATH,
     force: bool = False,
+    obsidian_plugin: bool = False,
 ) -> None:
     """Create and CRC-check an archive, then atomically publish it."""
 
@@ -369,9 +400,15 @@ def write_archive(
             archive.write(license_path, arcname="LICENSE")
             for planned_file in plan:
                 archive.write(planned_file.asset.source_path, planned_file.archive_path.as_posix())
-            for directory, files in sorted(_metadata_members(plan).items(), key=lambda item: item[0].as_posix()):
-                metadata_member = directory / "metadata.jsonl"
-                archive.writestr(metadata_member.as_posix(), _metadata_jsonl(files))
+            if obsidian_plugin:
+                archive.writestr(
+                    "metadata.json",
+                    _metadata_jsonl(plan, style_aliases={"color": "3d"}),
+                )
+            else:
+                for directory, files in sorted(_metadata_members(plan).items(), key=lambda item: item[0].as_posix()):
+                    metadata_member = directory / "metadata.jsonl"
+                    archive.writestr(metadata_member.as_posix(), _metadata_jsonl(files))
 
         with zipfile.ZipFile(temporary_path, mode="r") as archive:
             damaged_member = archive.testzip()
@@ -456,6 +493,11 @@ def build_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("--dry-run", action="store_true", help="仅预览，不写入 ZIP。")
     parser.add_argument("--force", action="store_true", help="允许覆盖已有 ZIP。")
     parser.add_argument("--list", action="store_true", help="列出可选风格和分组后退出。")
+    parser.add_argument(
+        "--obsidian-plugin",
+        action="store_true",
+        help="生成 SVG-only 插件包：3d(Color)、flat、high-contrast 和根目录 JSONL。",
+    )
     return parser
 
 
@@ -470,6 +512,28 @@ def main(
     license_path = repository_root / "LICENSE"
     try:
         records = discover_assets(assets_directory, repository_root)
+        if arguments.obsidian_plugin:
+            if (
+                arguments.emoji_style is not None
+                or arguments.group is not None
+                or arguments.no_style_directory
+                or arguments.no_group_directory
+                or arguments.list
+            ):
+                raise PackageError("--obsidian-plugin 不能与风格/分组选择参数或 --list 混用")
+            plan = build_obsidian_plugin_plan(records)
+            output_path = arguments.output or repository_root / "dist" / "fluent-emoji-for-obsidian-plugin.zip"
+            if not arguments.dry_run:
+                write_archive(
+                    plan,
+                    output_path,
+                    license_path=license_path,
+                    force=arguments.force,
+                    obsidian_plugin=True,
+                )
+            print(f"已选择 {len(plan)} 个 SVG 文件；目录：3d（Color）、flat、high-contrast")
+            print(f"{'预览完成，未生成' if arguments.dry_run else '已生成'} ZIP：{output_path}")
+            return 0
         if arguments.list:
             print_catalog(records)
             return 0

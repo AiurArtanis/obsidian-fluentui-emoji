@@ -14,7 +14,7 @@ Fluent Emoji are a collection of familiar, friendly, and modern emoji from Micro
 - `src` is an unmodified mirror of `microsoft/fluentui-emoji`'s `main` branch. A GitHub Actions workflow force-synchronizes it every six hours and can also be run manually. Do not add fork-specific changes there.
 - `scripts/package_emojis.py` builds complete SVG/PNG archives by visual style and `metadata.group`, including a per-directory merged `metadata.jsonl` file and the upstream MIT license.
 
-The first release, [`icon-pack-v1`](../../releases/tag/icon-pack-v1), contains one complete ZIP for each style and one ZIP per upstream group. Group ZIPs place `3d/`, `color/`, `flat/`, and `high-contrast/` directly at their root, making them suitable as independent download packs.
+The first release, [`icon-pack-v1`](../../releases/tag/icon-pack-v1), contains one complete ZIP for each style, one ZIP per upstream group, and `fluent-emoji-for-obsidian-plugin.zip`. The plugin pack contains only SVGs in `3d/` (upstream Color), `flat/`, and `high-contrast/`, with one root `metadata.json` containing all metadata as JSONL.
 
 ### Build a pack locally
 
@@ -22,6 +22,7 @@ Python 3.10+ is sufficient; no third-party dependency is required.
 
 ```powershell
 py scripts/package_emojis.py --emoji-style "flat,color" --group ALL --output "dist/flat-color.zip"
+py scripts/package_emojis.py --obsidian-plugin
 py scripts/test_package_emojis.py
 ```
 
@@ -47,7 +48,7 @@ Fluent Emoji 是 Microsoft 提供的一套熟悉、友好且现代的 Emoji。�
 - `src` 是 `microsoft/fluentui-emoji` 的 `main` 分支镜像，不包含本 Fork 改动。GitHub Actions 每六小时强制同步一次，也可手动运行；请不要直接向此分支添加改动。
 - `scripts/package_emojis.py` 按视觉风格和 `metadata.group` 打包完整 SVG/PNG 资源，并在每个资源目录写入合并的 `metadata.jsonl`，同时保留上游 MIT 许可证。
 
-首个发布版本 [`icon-pack-v1`](../../releases/tag/icon-pack-v1) 包含四个全量风格包，以及每个上游主题各一个 ZIP。主题包根目录直接使用 `3d/`、`color/`、`flat/`、`high-contrast/` 四个目录，适合插件按需下载安装。
+首个发布版本 [`icon-pack-v1`](../../releases/tag/icon-pack-v1) 包含四个全量风格包、每个上游主题各一个 ZIP，以及 `fluent-emoji-for-obsidian-plugin.zip`。插件专用包仅收录 SVG，目录为 `3d/`（上游 Color）、`flat/`、`high-contrast/`；根目录的 `metadata.json` 保存全量 JSONL 元数据。
 
 ### 本地打包
 
@@ -55,6 +56,7 @@ Fluent Emoji 是 Microsoft 提供的一套熟悉、友好且现代的 Emoji。�
 
 ```powershell
 py scripts/package_emojis.py --emoji-style "flat,color" --group ALL --output "dist/flat-color.zip"
+py scripts/package_emojis.py --obsidian-plugin
 py scripts/test_package_emojis.py
 ```
 

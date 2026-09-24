@@ -103,6 +103,27 @@ py scripts/package_emojis.py --emoji-style 3d --group Objects --output "dist/obj
 py scripts/package_emojis.py --emoji-style flat --group ALL --output "dist/flat.zip" --force
 ```
 
+## Obsidian 插件专用包
+
+以下命令生成 `fluent-emoji-for-obsidian-plugin.zip`：
+
+```powershell
+py scripts/package_emojis.py --obsidian-plugin
+```
+
+```text
+fluent-emoji-for-obsidian-plugin.zip
+├── LICENSE
+├── metadata.json
+├── 3d/                 # 上游 Color 风格 SVG；文件名保持上游原样
+├── flat/               # 上游 Flat 风格 SVG
+└── high-contrast/      # 上游 High Contrast 风格 SVG
+```
+
+三个风格目录只包含 SVG，不包含上游 3D PNG。`metadata.json` 是按要求命名的**全量 JSONL**，不是单个 JSON 对象：每行一条 Emoji／风格元数据，按 `emojiName` 升序；Color 的 `emojiStyle` 在此包中写为 `3d`，与目录名一致。每个 Emoji／风格只写一条元数据，肤色文件仍全部保留。
+
+此模式不接受 `--emoji-style`、`--group` 或目录层级开关；可以使用 `--output`、`--dry-run` 和 `--force`。
+
 ## ZIP 内的 metadata.jsonl
 
 每个包含图片的叶子目录只会生成一个 `metadata.jsonl`。这是 UTF-8 的 JSON Lines 文件：一行代表一个 Emoji／风格组合，按 `emojiName` 升序排列；肤色变体不会重复写同一条元数据。每行保留完整的上游 `metadata.json`，并额外遵守两个固定字段位置：首字段为 `emojiName`，末字段为 `emojiStyle`。
