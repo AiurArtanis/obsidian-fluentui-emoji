@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"beer",
+		"ginger root",
+		"root",
+		"spice",
+		"生姜",
+		"姜",
+		"食物与饮品"
+	],
 	"cldr": "ginger root",
 	"fromVersion": "15.0",
 	"glyph": "🫚",

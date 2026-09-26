@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "houses",
+    "房屋建筑",
+    "旅行与地点"
+  ],
   "cldr": "houses",
   "fromVersion": "0.7",
   "glyph": "🏘️",

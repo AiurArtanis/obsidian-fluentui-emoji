@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“prohibited”",
+    "ideograph",
+    "Japanese",
+    "Japanese “prohibited” button",
+    "禁",
+    "日文禁止按钮",
+    "禁止",
+    "符号"
+  ],
   "cldr": "Japanese “prohibited” button",
   "fromVersion": "0.6",
   "glyph": "🈲",

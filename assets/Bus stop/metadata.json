@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bus",
+    "stop",
+    "公交车站",
+    "旅行与地点"
+  ],
   "cldr": "bus stop",
   "fromVersion": "0.6",
   "glyph": "🚏",

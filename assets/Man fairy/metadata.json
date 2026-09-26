@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "man fairy",
+    "Oberon",
+    "Puck",
+    "男精灵",
+    "人物与身体"
+  ],
   "cldr": "man fairy",
   "fromVersion": "5.0",
   "glyph": "🧚‍♂️",

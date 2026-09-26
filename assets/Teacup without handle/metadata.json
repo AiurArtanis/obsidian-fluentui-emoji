@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "beverage",
+    "cup",
+    "drink",
+    "tea",
+    "teacup",
+    "teacup without handle",
+    "热茶",
+    "茶",
+    "食物与饮品"
+  ],
   "cldr": "teacup without handle",
   "fromVersion": "0.6",
   "glyph": "🍵",

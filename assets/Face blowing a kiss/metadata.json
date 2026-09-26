@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "face blowing a kiss",
+    "kiss",
+    "飞吻",
+    "送飞吻的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face blowing a kiss",
   "fromVersion": "0.6",
   "glyph": "😘",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "dolphin",
+    "flipper",
+    "海豚",
+    "动物与自然"
+  ],
   "cldr": "dolphin",
   "fromVersion": "0.6",
   "glyph": "🐬",

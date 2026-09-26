@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "fruit",
+    "watermelon",
+    "西瓜",
+    "食物与饮品"
+  ],
   "cldr": "watermelon",
   "fromVersion": "0.6",
   "glyph": "🍉",

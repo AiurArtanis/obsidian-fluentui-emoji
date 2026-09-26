@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "food",
+    "fruit",
+    "kiwi",
+    "猕猴桃",
+    "奇异果",
+    "食物与饮品"
+  ],
   "cldr": "kiwi fruit",
   "fromVersion": "3.0",
   "glyph": "🥝",

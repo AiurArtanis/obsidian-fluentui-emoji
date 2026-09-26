@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "undead",
+    "woman vampire",
+    "女吸血鬼",
+    "人物与身体"
+  ],
   "cldr": "woman vampire",
   "fromVersion": "5.0",
   "glyph": "🧛‍♀️",

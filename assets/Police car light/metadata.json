@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "beacon",
+    "car",
+    "light",
+    "police",
+    "revolving",
+    "警车灯",
+    "警灯",
+    "旅行与地点"
+  ],
   "cldr": "police car light",
   "fromVersion": "0.6",
   "glyph": "🚨",

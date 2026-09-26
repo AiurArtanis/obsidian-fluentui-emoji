@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "dango",
+    "dessert",
+    "Japanese",
+    "skewer",
+    "stick",
+    "sweet",
+    "团子",
+    "日式团子",
+    "食物与饮品"
+  ],
   "cldr": "dango",
   "fromVersion": "0.6",
   "glyph": "🍡",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "comic",
+    "splashing",
+    "sweat",
+    "sweat droplets",
+    "汗滴",
+    "飞溅的汗水",
+    "笑脸与情感"
+  ],
   "cldr": "sweat droplets",
   "fromVersion": "0.6",
   "glyph": "💦",

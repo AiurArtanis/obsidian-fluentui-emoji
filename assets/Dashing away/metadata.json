@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "comic",
+    "dash",
+    "dashing away",
+    "running",
+    "疾风",
+    "尾气",
+    "笑脸与情感"
+  ],
   "cldr": "dashing away",
   "fromVersion": "0.6",
   "glyph": "💨",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "clock",
+    "stopwatch",
+    "秒表",
+    "旅行与地点"
+  ],
   "cldr": "stopwatch",
   "fromVersion": "1.0",
   "glyph": "⏱️",

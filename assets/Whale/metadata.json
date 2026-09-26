@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "whale",
+    "鲸鱼",
+    "动物与自然"
+  ],
   "cldr": "whale",
   "fromVersion": "1.0",
   "glyph": "🐋",

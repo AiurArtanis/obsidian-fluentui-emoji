@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "coat",
+    "jacket",
+    "外套",
+    "大衣",
+    "物品"
+  ],
   "cldr": "coat",
   "fromVersion": "5.0",
   "glyph": "🧥",

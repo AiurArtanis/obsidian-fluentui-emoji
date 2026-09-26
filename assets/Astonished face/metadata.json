@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "astonished",
+    "face",
+    "shocked",
+    "totally",
+    "震惊",
+    "惊讶的脸",
+    "笑脸与情感"
+  ],
   "cldr": "astonished face",
   "fromVersion": "0.6",
   "glyph": "😲",

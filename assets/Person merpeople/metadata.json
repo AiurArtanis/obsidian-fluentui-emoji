@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "mermaid",
+    "merman",
+    "merperson",
+    "merwoman",
+    "人鱼",
+    "半人半鱼",
+    "人物与身体"
+  ],
   "cldr": "merperson",
   "fromVersion": "5.0",
   "glyph": "🧜",

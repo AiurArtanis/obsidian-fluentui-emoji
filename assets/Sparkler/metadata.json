@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "celebration",
+    "fireworks",
+    "sparkle",
+    "sparkler",
+    "烟花棒",
+    "活动"
+  ],
   "cldr": "sparkler",
   "fromVersion": "0.6",
   "glyph": "🎇",

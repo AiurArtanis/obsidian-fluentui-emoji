@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "girl",
+    "Virgo",
+    "young",
+    "zodiac",
+    "女孩",
+    "小女孩",
+    "人物与身体"
+  ],
   "cldr": "girl",
   "fromVersion": "0.6",
   "glyph": "👧",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "clothing",
+    "jeans",
+    "pants",
+    "trousers",
+    "牛仔裤",
+    "物品"
+  ],
   "cldr": "jeans",
   "fromVersion": "0.6",
   "glyph": "👖",

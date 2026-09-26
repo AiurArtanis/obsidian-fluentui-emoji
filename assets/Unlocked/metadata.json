@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "lock",
+    "open",
+    "unlock",
+    "unlocked",
+    "打开的锁",
+    "未上锁的锁",
+    "物品"
+  ],
   "cldr": "unlocked",
   "fromVersion": "0.6",
   "glyph": "🔓",

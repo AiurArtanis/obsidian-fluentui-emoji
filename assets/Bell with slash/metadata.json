@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bell",
+    "bell with slash",
+    "forbidden",
+    "mute",
+    "quiet",
+    "silent",
+    "静音铃铛",
+    "禁止响铃",
+    "物品"
+  ],
   "cldr": "bell with slash",
   "fromVersion": "1.0",
   "glyph": "🔕",

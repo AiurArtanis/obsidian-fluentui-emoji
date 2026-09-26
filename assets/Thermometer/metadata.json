@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "thermometer",
+    "weather",
+    "温度计",
+    "旅行与地点"
+  ],
   "cldr": "thermometer",
   "fromVersion": "0.7",
   "glyph": "🌡️",

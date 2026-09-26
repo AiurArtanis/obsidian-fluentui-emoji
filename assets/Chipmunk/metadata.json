@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "chipmunk",
+    "squirrel",
+    "花栗鼠",
+    "动物与自然"
+  ],
   "cldr": "chipmunk",
   "fromVersion": "0.7",
   "glyph": "🐿️",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "smoking",
+    "禁止吸烟",
+    "禁止抽烟",
+    "符号"
+  ],
   "cldr": "no smoking",
   "fromVersion": "0.6",
   "glyph": "🚭",

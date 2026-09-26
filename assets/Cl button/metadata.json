@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cl",
+    "CL button",
+    "CL按钮",
+    "清除按钮",
+    "符号"
+  ],
   "cldr": "CL button",
   "fromVersion": "0.6",
   "glyph": "🆑",

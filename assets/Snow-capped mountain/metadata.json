@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cold",
+    "mountain",
+    "snow",
+    "snow-capped mountain",
+    "雪山",
+    "积雪的山峰",
+    "旅行与地点"
+  ],
   "cldr": "snow-capped mountain",
   "fromVersion": "0.7",
   "glyph": "🏔️",

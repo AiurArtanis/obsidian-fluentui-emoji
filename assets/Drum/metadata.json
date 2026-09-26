@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "drum",
+    "drumsticks",
+    "music",
+    "鼓",
+    "鼓乐器",
+    "物品"
+  ],
   "cldr": "drum",
   "fromVersion": "3.0",
   "glyph": "🥁",

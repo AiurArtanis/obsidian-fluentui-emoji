@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "dog",
+    "face",
+    "pet",
+    "狗脸",
+    "动物与自然"
+  ],
   "cldr": "dog face",
   "fromVersion": "0.6",
   "glyph": "🐶",

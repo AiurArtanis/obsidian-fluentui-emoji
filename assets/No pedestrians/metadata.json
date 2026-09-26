@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "forbidden",
+    "no",
+    "no pedestrians",
+    "not",
+    "pedestrian",
+    "prohibited",
+    "禁止行人通行",
+    "禁止行人",
+    "符号"
+  ],
   "cldr": "no pedestrians",
   "fromVersion": "1.0",
   "glyph": "🚷",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "hippo",
+    "hippopotamus",
+    "河马",
+    "动物与自然"
+  ],
   "cldr": "hippopotamus",
   "fromVersion": "11.0",
   "glyph": "🦛",

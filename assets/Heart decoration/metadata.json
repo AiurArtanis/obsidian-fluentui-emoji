@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "heart",
+    "heart decoration",
+    "心形装饰",
+    "爱心装饰",
+    "笑脸与情感"
+  ],
   "cldr": "heart decoration",
   "fromVersion": "0.6",
   "glyph": "💟",

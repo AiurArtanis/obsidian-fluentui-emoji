@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "equestrian",
+    "horse",
+    "racehorse",
+    "racing",
+    "马",
+    "动物与自然"
+  ],
   "cldr": "horse",
   "fromVersion": "0.6",
   "glyph": "🐎",

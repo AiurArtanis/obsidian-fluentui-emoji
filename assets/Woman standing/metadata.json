@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "standing",
+    "woman",
+    "站着的女人",
+    "站立的女人",
+    "人物与身体"
+  ],
   "cldr": "woman standing",
   "fromVersion": "12.0",
   "glyph": "🧍‍♀️",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bunny ear",
+    "dancer",
+    "partying",
+    "people with bunny ears",
+    "戴兔耳朵的人",
+    "戴兔耳头饰的人",
+    "人物与身体"
+  ],
   "cldr": "people with bunny ears",
   "fromVersion": "0.6",
   "glyph": "👯",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "firefighter",
+    "firetruck",
+    "woman",
+    "女消防员",
+    "人物与身体"
+  ],
   "cldr": "woman firefighter",
   "fromVersion": "4.0",
   "glyph": "👩‍🚒",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "good",
+    "hero",
+    "man",
+    "man superhero",
+    "superpower",
+    "男超级英雄",
+    "人物与身体"
+  ],
   "cldr": "man superhero",
   "fromVersion": "11.0",
   "glyph": "🦸‍♂️",

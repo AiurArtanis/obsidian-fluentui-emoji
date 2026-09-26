@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "music",
+    "musical score",
+    "score",
+    "乐谱",
+    "物品"
+  ],
   "cldr": "musical score",
   "fromVersion": "0.6",
   "glyph": "🎼",

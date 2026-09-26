@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bath",
+    "bathtub",
+    "浴缸",
+    "浴盆",
+    "物品"
+  ],
   "cldr": "bathtub",
   "fromVersion": "1.0",
   "glyph": "🛁",

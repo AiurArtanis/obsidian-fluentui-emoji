@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "arrow",
+    "double",
+    "fast up button",
+    "快速上升按钮",
+    "双三角向上按钮",
+    "符号"
+  ],
   "cldr": "fast up button",
   "fromVersion": "0.6",
   "glyph": "⏫",

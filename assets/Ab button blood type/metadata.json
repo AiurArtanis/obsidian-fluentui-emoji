@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ab",
+    "AB button (blood type)",
+    "blood type",
+    "AB型血",
+    "AB型血按钮",
+    "符号"
+  ],
   "cldr": "AB button (blood type)",
   "fromVersion": "0.6",
   "glyph": "🆎",

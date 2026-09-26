@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cold",
+    "doctor",
+    "face",
+    "face with medical mask",
+    "mask",
+    "sick",
+    "感冒",
+    "戴口罩的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with medical mask",
   "fromVersion": "0.6",
   "glyph": "😷",

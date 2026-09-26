@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "door",
+    "门",
+    "房门",
+    "物品"
+  ],
   "cldr": "door",
   "fromVersion": "0.6",
   "glyph": "🚪",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "aeroplane",
+    "airplane",
+    "飞机",
+    "旅行与地点"
+  ],
   "cldr": "airplane",
   "fromVersion": "0.6",
   "glyph": "✈️",

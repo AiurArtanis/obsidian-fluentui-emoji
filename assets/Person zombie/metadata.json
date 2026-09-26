@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "undead",
+    "walking dead",
+    "zombie",
+    "僵尸",
+    "丧尸",
+    "人物与身体"
+  ],
   "cldr": "zombie",
   "fromVersion": "5.0",
   "glyph": "🧟",

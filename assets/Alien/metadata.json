@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "fantasy",
+    "ufo",
+    "外星人",
+    "笑脸与情感"
+  ],
   "cldr": "alien",
   "fromVersion": "0.6",
   "glyph": "👽",

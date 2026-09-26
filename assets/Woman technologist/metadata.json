@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "coder",
+    "developer",
+    "inventor",
+    "software",
+    "technologist",
+    "woman",
+    "女程序员",
+    "女技术专家",
+    "人物与身体"
+  ],
   "cldr": "woman technologist",
   "fromVersion": "4.0",
   "glyph": "👩‍💻",

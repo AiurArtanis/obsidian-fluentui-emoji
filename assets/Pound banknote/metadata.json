@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "banknote",
+    "bill",
+    "currency",
+    "money",
+    "note",
+    "pound",
+    "英镑",
+    "英镑钞票",
+    "物品"
+  ],
   "cldr": "pound banknote",
   "fromVersion": "1.0",
   "glyph": "💷",

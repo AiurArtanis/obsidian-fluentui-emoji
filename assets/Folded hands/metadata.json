@@ -1,4 +1,17 @@
 {
+  "alias": [
+    "ask",
+    "folded hands",
+    "hand",
+    "high 5",
+    "high five",
+    "please",
+    "pray",
+    "thanks",
+    "双手合十",
+    "合掌",
+    "人物与身体"
+  ],
   "cldr": "folded hands",
   "fromVersion": "0.6",
   "glyph": "🙏",

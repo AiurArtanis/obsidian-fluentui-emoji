@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "tractor",
+    "vehicle",
+    "拖拉机",
+    "旅行与地点"
+  ],
   "cldr": "tractor",
   "fromVersion": "1.0",
   "glyph": "🚜",

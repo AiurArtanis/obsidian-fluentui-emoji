@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "anger",
+    "angry",
+    "face",
+    "mad",
+    "生气",
+    "愤怒的脸",
+    "笑脸与情感"
+  ],
   "cldr": "angry face",
   "fromVersion": "0.6",
   "glyph": "😠",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“discount”",
+    "ideograph",
+    "Japanese",
+    "Japanese “discount” button",
+    "割",
+    "日文打折按钮",
+    "折扣",
+    "符号"
+  ],
   "cldr": "Japanese “discount” button",
   "fromVersion": "0.6",
   "glyph": "🈹",

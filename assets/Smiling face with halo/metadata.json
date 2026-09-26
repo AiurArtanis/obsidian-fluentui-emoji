@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "angel",
+    "face",
+    "fantasy",
+    "halo",
+    "innocent",
+    "smiling face with halo",
+    "微笑天使",
+    "头顶光环的笑脸",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with halo",
   "fromVersion": "1.0",
   "glyph": "😇",

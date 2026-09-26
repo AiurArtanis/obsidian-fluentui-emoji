@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bank",
+    "building",
+    "银行",
+    "旅行与地点"
+  ],
   "cldr": "bank",
   "fromVersion": "0.6",
   "glyph": "🏦",

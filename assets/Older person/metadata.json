@@ -13,6 +13,16 @@
     "older person",
     "unspecified gender"
   ],
+  "alias": [
+    "adult",
+    "gender-neutral",
+    "old",
+    "older person",
+    "unspecified gender",
+    "老年人",
+    "长者",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "1f9d3_olderadult"
   ],

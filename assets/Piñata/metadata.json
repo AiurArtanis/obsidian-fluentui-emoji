@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "celebration",
+    "party",
+    "piñata",
+    "皮纳塔",
+    "活动"
+  ],
   "cldr": "piñata",
   "fromVersion": "13.0",
   "glyph": "🪅",

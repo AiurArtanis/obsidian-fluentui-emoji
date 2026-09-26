@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "hamster",
+    "pet",
+    "仓鼠",
+    "动物与自然"
+  ],
   "cldr": "hamster",
   "fromVersion": "0.6",
   "glyph": "🐹",

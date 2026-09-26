@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "dance",
+    "dancing",
+    "man",
+    "跳舞的男人",
+    "人物与身体"
+  ],
   "cldr": "man dancing",
   "fromVersion": "3.0",
   "glyph": "🕺",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "Americas",
+    "earth",
+    "globe",
+    "globe showing Americas",
+    "world",
+    "地球上的美洲",
+    "旅行与地点"
+  ],
   "cldr": "globe showing Americas",
   "fromVersion": "0.7",
   "glyph": "🌎",

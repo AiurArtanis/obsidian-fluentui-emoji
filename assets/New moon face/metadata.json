@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "moon",
+    "new moon face",
+    "微笑的朔月",
+    "旅行与地点"
+  ],
   "cldr": "new moon face",
   "fromVersion": "1.0",
   "glyph": "🌚",

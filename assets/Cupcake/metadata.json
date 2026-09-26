@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bakery",
+    "cupcake",
+    "sweet",
+    "纸杯蛋糕",
+    "杯子蛋糕",
+    "食物与饮品"
+  ],
   "cldr": "cupcake",
   "fromVersion": "11.0",
   "glyph": "🧁",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bar",
+    "beer",
+    "drink",
+    "mug",
+    "啤酒",
+    "啤酒杯",
+    "食物与饮品"
+  ],
   "cldr": "beer mug",
   "fromVersion": "0.6",
   "glyph": "🍺",

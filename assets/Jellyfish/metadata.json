@@ -1,4 +1,16 @@
 {
+	"alias": [
+		"burn",
+		"invertebrate",
+		"jelly",
+		"jellyfish",
+		"marine",
+		"ouch",
+		"stinger",
+		"水母",
+		"海蜇",
+		"动物与自然"
+	],
 	"cldr": "jellyfish",
 	"fromVersion": "15.0",
 	"glyph": "🪼",

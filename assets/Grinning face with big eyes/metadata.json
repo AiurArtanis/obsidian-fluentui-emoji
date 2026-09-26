@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "face",
+    "grinning face with big eyes",
+    "mouth",
+    "open",
+    "smile",
+    "哈哈",
+    "大眼睛笑脸",
+    "笑脸与情感"
+  ],
   "cldr": "grinning face with big eyes",
   "fromVersion": "0.6",
   "glyph": "😃",

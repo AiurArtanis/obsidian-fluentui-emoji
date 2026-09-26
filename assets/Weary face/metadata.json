@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "tired",
+    "weary",
+    "累死了",
+    "疲倦",
+    "笑脸与情感"
+  ],
   "cldr": "weary face",
   "fromVersion": "0.6",
   "glyph": "😩",

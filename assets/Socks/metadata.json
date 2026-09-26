@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "socks",
+    "stocking",
+    "袜子",
+    "物品"
+  ],
   "cldr": "socks",
   "fromVersion": "5.0",
   "glyph": "🧦",

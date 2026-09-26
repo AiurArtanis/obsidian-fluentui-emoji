@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cat",
+    "cat with wry smile",
+    "face",
+    "ironic",
+    "smile",
+    "wry",
+    "奸笑的猫",
+    "坏笑的猫",
+    "笑脸与情感"
+  ],
   "cldr": "cat with wry smile",
   "fromVersion": "0.6",
   "glyph": "😼",

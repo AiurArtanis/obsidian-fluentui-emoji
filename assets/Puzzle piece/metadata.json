@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clue",
+    "interlocking",
+    "jigsaw",
+    "piece",
+    "puzzle",
+    "拼图",
+    "活动"
+  ],
   "cldr": "puzzle piece",
   "fromVersion": "11.0",
   "glyph": "🧩",

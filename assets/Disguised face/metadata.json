@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "disguise",
+    "disguised face",
+    "face",
+    "glasses",
+    "incognito",
+    "nose",
+    "伪装的脸",
+    "乔装",
+    "笑脸与情感"
+  ],
   "cldr": "disguised face",
   "fromVersion": "13.0",
   "glyph": "🥸",

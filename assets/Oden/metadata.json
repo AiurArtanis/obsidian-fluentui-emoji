@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "kebab",
+    "oden",
+    "seafood",
+    "skewer",
+    "stick",
+    "关东煮",
+    "食物与饮品"
+  ],
   "cldr": "oden",
   "fromVersion": "0.6",
   "glyph": "🍢",

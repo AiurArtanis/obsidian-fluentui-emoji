@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ski",
+    "skis",
+    "snow",
+    "滑雪板",
+    "活动"
+  ],
   "cldr": "skis",
   "fromVersion": "0.6",
   "glyph": "🎿",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "gesture",
+    "hand",
+    "OK",
+    "woman",
+    "woman gesturing OK",
+    "打OK手势的女人",
+    "表示同意的女人",
+    "人物与身体"
+  ],
   "cldr": "woman gesturing OK",
   "fromVersion": "4.0",
   "glyph": "🙆‍♀️",

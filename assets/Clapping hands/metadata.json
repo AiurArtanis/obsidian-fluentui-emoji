@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "clap",
+    "clapping hands",
+    "hand",
+    "鼓掌",
+    "拍手",
+    "人物与身体"
+  ],
   "cldr": "clapping hands",
   "fromVersion": "0.6",
   "glyph": "👏",

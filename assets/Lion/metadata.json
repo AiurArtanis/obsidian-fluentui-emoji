@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "Leo",
+    "lion",
+    "zodiac",
+    "狮子",
+    "动物与自然"
+  ],
   "cldr": "lion",
   "fromVersion": "1.0",
   "glyph": "🦁",

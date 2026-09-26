@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cane",
+    "crutch",
+    "disability",
+    "hurt",
+    "mobility aid",
+    "stick",
+    "拐杖",
+    "腋杖",
+    "物品"
+  ],
   "cldr": "crutch",
   "fromVersion": "14.0",
   "glyph": "🩼",

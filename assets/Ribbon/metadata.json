@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "celebration",
+    "ribbon",
+    "蝴蝶结",
+    "活动"
+  ],
   "cldr": "ribbon",
   "fromVersion": "0.6",
   "glyph": "🎀",

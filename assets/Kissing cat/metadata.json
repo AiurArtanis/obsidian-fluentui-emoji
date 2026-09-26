@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cat",
+    "eye",
+    "face",
+    "kiss",
+    "kissing cat",
+    "亲亲猫",
+    "亲吻的猫",
+    "笑脸与情感"
+  ],
   "cldr": "kissing cat",
   "fromVersion": "0.6",
   "glyph": "😽",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "climb",
+    "ladder",
+    "rung",
+    "step",
+    "梯子",
+    "物品"
+  ],
   "cldr": "ladder",
   "fromVersion": "13.0",
   "glyph": "🪜",

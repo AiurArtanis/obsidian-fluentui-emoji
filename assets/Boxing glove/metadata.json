@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "boxing",
+    "glove",
+    "拳击手套",
+    "活动"
+  ],
   "cldr": "boxing glove",
   "fromVersion": "3.0",
   "glyph": "🥊",

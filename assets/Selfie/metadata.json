@@ -11,6 +11,13 @@
     "phone",
     "selfie"
   ],
+  "alias": [
+    "camera",
+    "phone",
+    "selfie",
+    "自拍",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "selfiehand"
   ],

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "djinn",
+    "man genie",
+    "男妖怪",
+    "男灯神",
+    "人物与身体"
+  ],
   "cldr": "man genie",
   "fromVersion": "5.0",
   "glyph": "🧞‍♂️",

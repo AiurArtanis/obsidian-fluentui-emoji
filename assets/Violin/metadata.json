@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "instrument",
+    "music",
+    "violin",
+    "小提琴",
+    "物品"
+  ],
   "cldr": "violin",
   "fromVersion": "0.6",
   "glyph": "🎻",

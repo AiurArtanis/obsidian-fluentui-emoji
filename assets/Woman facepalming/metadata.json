@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "disbelief",
+    "exasperation",
+    "facepalm",
+    "woman",
+    "woman facepalming",
+    "捂脸的女人",
+    "掩面的女人",
+    "人物与身体"
+  ],
   "cldr": "woman facepalming",
   "fromVersion": "4.0",
   "glyph": "🤦‍♀️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "frown",
+    "gesture",
+    "person frowning",
+    "皱眉的人",
+    "表情不悦的人",
+    "人物与身体"
+  ],
   "cldr": "person frowning",
   "fromVersion": "0.6",
   "glyph": "🙍",

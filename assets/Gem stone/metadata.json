@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "diamond",
+    "gem",
+    "gem stone",
+    "jewel",
+    "宝石",
+    "钻石",
+    "物品"
+  ],
   "cldr": "gem stone",
   "fromVersion": "0.6",
   "glyph": "💎",

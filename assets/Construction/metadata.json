@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "barrier",
+    "construction",
+    "施工",
+    "路障",
+    "旅行与地点"
+  ],
   "cldr": "construction",
   "fromVersion": "0.6",
   "glyph": "🚧",

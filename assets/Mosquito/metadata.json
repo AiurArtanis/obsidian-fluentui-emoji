@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "disease",
+    "fever",
+    "malaria",
+    "mosquito",
+    "pest",
+    "virus",
+    "蚊子",
+    "动物与自然"
+  ],
   "cldr": "mosquito",
   "fromVersion": "11.0",
   "glyph": "🦟",

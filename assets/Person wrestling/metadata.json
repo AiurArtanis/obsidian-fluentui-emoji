@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "people wrestling",
+    "wrestle",
+    "wrestler",
+    "摔跤的人",
+    "摔跤选手",
+    "人物与身体"
+  ],
   "cldr": "people wrestling",
   "fromVersion": "3.0",
   "glyph": "🤼",

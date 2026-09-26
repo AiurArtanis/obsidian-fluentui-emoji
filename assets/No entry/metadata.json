@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "entry",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "traffic",
+    "禁止通行",
+    "禁止入内",
+    "符号"
+  ],
   "cldr": "no entry",
   "fromVersion": "0.6",
   "glyph": "⛔",

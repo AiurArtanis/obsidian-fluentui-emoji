@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "mark",
+    "tm",
+    "trade mark",
+    "trademark",
+    "商标",
+    "商标符号",
+    "符号"
+  ],
   "cldr": "trade mark",
   "fromVersion": "0.6",
   "glyph": "™️",

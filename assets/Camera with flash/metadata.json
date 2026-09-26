@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "camera",
+    "camera with flash",
+    "flash",
+    "video",
+    "带闪光灯的相机",
+    "开闪光灯的相机",
+    "物品"
+  ],
   "cldr": "camera with flash",
   "fromVersion": "1.0",
   "glyph": "📸",

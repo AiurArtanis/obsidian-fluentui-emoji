@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "atm",
+    "ATM sign",
+    "automated",
+    "bank",
+    "teller",
+    "取款机",
+    "自动取款机",
+    "符号"
+  ],
   "cldr": "ATM sign",
   "fromVersion": "0.6",
   "glyph": "🏧",

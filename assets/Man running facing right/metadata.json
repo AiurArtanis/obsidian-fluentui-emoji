@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man",
+    "marathon",
+    "racing",
+    "running",
+    "男生跑步: 面向右边",
+    "人物与身体"
+  ],
   "cldr": "man running facing right",
   "fromVersion": "15.1",
   "glyph": "🏃‍♂️‍➡️",

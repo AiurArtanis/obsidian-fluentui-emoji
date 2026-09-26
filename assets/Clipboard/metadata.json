@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "clipboard",
+    "剪贴板",
+    "写字板",
+    "物品"
+  ],
   "cldr": "clipboard",
   "fromVersion": "0.6",
   "glyph": "📋",

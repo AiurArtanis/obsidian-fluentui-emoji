@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "waving",
+    "white flag",
+    "白旗",
+    "旗帜"
+  ],
   "cldr": "white flag",
   "fromVersion": "0.7",
   "glyph": "🏳️",

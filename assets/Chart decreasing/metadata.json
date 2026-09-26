@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "chart",
+    "chart decreasing",
+    "down",
+    "graph",
+    "trend",
+    "下降趋势图表",
+    "下跌图表",
+    "物品"
+  ],
   "cldr": "chart decreasing",
   "fromVersion": "0.6",
   "glyph": "📉",

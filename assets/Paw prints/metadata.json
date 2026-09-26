@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "feet",
+    "paw",
+    "paw prints",
+    "print",
+    "爪印",
+    "动物脚印",
+    "动物与自然"
+  ],
   "cldr": "paw prints",
   "fromVersion": "0.6",
   "glyph": "🐾",

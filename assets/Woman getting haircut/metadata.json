@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "haircut",
+    "woman",
+    "woman getting haircut",
+    "理发的女人",
+    "剪头发的女人",
+    "人物与身体"
+  ],
   "cldr": "woman getting haircut",
   "fromVersion": "4.0",
   "glyph": "💇‍♀️",

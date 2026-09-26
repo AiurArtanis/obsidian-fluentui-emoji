@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "boat",
+    "rowboat",
+    "woman",
+    "woman rowing boat",
+    "划船的女人",
+    "人物与身体"
+  ],
   "cldr": "woman rowing boat",
   "fromVersion": "4.0",
   "glyph": "🚣‍♀️",

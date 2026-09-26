@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "frown",
+    "slightly frowning face",
+    "微微不满",
+    "微微皱眉",
+    "笑脸与情感"
+  ],
   "cldr": "slightly frowning face",
   "fromVersion": "1.0",
   "glyph": "🙁",

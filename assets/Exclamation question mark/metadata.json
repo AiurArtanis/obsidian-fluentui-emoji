@@ -1,4 +1,17 @@
 {
+  "alias": [
+    "!",
+    "!?",
+    "?",
+    "exclamation",
+    "interrobang",
+    "mark",
+    "punctuation",
+    "question",
+    "感叹疑问号",
+    "感叹号加问号",
+    "符号"
+  ],
   "cldr": "exclamation question mark",
   "fromVersion": "0.6",
   "glyph": "⁉️",

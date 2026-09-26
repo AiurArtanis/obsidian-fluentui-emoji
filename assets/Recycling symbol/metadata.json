@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "recycle",
+    "recycling symbol",
+    "回收标志",
+    "循环利用",
+    "符号"
+  ],
   "cldr": "recycling symbol",
   "fromVersion": "0.6",
   "glyph": "♻️",

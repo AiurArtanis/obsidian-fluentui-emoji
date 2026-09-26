@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "exhale",
+    "face exhaling",
+    "gasp",
+    "groan",
+    "relief",
+    "whisper",
+    "whistle",
+    "呼气",
+    "叹气",
+    "笑脸与情感"
+  ],
   "cldr": "face exhaling",
   "fromVersion": "13.1",
   "glyph": "😮‍💨",

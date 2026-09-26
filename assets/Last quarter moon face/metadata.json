@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "last quarter moon face",
+    "moon",
+    "quarter",
+    "微笑的下弦月",
+    "旅行与地点"
+  ],
   "cldr": "last quarter moon face",
   "fromVersion": "0.7",
   "glyph": "🌜",

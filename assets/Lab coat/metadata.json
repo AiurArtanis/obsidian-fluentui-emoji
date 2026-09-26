@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "doctor",
+    "experiment",
+    "lab coat",
+    "scientist",
+    "白大褂",
+    "实验服",
+    "物品"
+  ],
   "cldr": "lab coat",
   "fromVersion": "11.0",
   "glyph": "🥼",

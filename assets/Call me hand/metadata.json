@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "call",
+    "call me hand",
+    "hand",
+    "给我打电话",
+    "打电话手势",
+    "人物与身体"
+  ],
   "cldr": "call me hand",
   "fromVersion": "3.0",
   "glyph": "🤙",

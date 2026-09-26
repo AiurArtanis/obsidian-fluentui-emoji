@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flower",
+    "sun",
+    "sunflower",
+    "向日葵",
+    "动物与自然"
+  ],
   "cldr": "sunflower",
   "fromVersion": "0.6",
   "glyph": "🌻",

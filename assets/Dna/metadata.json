@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "biologist",
+    "dna",
+    "evolution",
+    "gene",
+    "genetics",
+    "life",
+    "脱氧核糖核酸",
+    "DNA双螺旋",
+    "物品"
+  ],
   "cldr": "dna",
   "fromVersion": "11.0",
   "glyph": "🧬",

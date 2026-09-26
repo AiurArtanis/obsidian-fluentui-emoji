@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bar",
+    "double",
+    "pause",
+    "pause button",
+    "vertical",
+    "暂停按钮",
+    "暂停",
+    "符号"
+  ],
   "cldr": "pause button",
   "fromVersion": "0.7",
   "glyph": "⏸️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "finger",
+    "hand",
+    "middle finger",
+    "竖中指",
+    "中指",
+    "人物与身体"
+  ],
   "cldr": "middle finger",
   "fromVersion": "1.0",
   "glyph": "🖕",

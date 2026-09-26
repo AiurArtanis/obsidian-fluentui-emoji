@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "gesture",
+    "man",
+    "pouting",
+    "撅嘴的男人",
+    "人物与身体"
+  ],
   "cldr": "man pouting",
   "fromVersion": "4.0",
   "glyph": "🙎‍♂️",

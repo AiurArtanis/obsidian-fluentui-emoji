@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "blue-faced",
+    "cold",
+    "cold face",
+    "freezing",
+    "frostbite",
+    "icicles",
+    "冷脸",
+    "冻僵的脸",
+    "笑脸与情感"
+  ],
   "cldr": "cold face",
   "fromVersion": "11.0",
   "glyph": "🥶",

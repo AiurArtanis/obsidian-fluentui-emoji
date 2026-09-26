@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bride",
+    "person",
+    "person with veil",
+    "veil",
+    "wedding",
+    "戴头纱的人",
+    "戴新娘头纱的人",
+    "人物与身体"
+  ],
   "cldr": "person with veil",
   "fromVersion": "0.6",
   "glyph": "👰",

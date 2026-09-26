@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "00",
+    "12",
+    "12:00",
+    "clock",
+    "o’clock",
+    "twelve",
+    "十二点",
+    "十二点整",
+    "旅行与地点"
+  ],
   "cldr": "twelve o’clock",
   "fromVersion": "0.6",
   "glyph": "🕛",

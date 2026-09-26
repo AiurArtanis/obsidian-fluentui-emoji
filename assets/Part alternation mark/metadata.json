@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mark",
+    "part",
+    "part alternation mark",
+    "庵点",
+    "段落交替标记",
+    "符号"
+  ],
   "cldr": "part alternation mark",
   "fromVersion": "0.6",
   "glyph": "〽️",

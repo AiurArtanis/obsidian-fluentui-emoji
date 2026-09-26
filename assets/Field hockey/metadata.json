@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "ball",
+    "field",
+    "game",
+    "hockey",
+    "stick",
+    "曲棍球",
+    "活动"
+  ],
   "cldr": "field hockey",
   "fromVersion": "1.0",
   "glyph": "🏑",

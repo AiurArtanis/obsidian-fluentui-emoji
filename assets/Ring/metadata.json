@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "diamond",
+    "ring",
+    "戒指",
+    "钻戒",
+    "物品"
+  ],
   "cldr": "ring",
   "fromVersion": "0.6",
   "glyph": "💍",

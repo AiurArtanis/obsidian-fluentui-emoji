@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "autumn",
+    "festival",
+    "moon cake",
+    "yuèbǐng",
+    "月饼",
+    "食物与饮品"
+  ],
   "cldr": "moon cake",
   "fromVersion": "11.0",
   "glyph": "🥮",

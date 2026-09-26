@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "monkey",
+    "猴子",
+    "动物与自然"
+  ],
   "cldr": "monkey",
   "fromVersion": "0.6",
   "glyph": "🐒",

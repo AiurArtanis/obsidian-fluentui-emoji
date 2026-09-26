@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bento",
+    "box",
+    "盒饭",
+    "便当",
+    "食物与饮品"
+  ],
   "cldr": "bento box",
   "fromVersion": "0.6",
   "glyph": "🍱",

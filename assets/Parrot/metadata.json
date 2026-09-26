@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bird",
+    "parrot",
+    "pirate",
+    "talk",
+    "鹦鹉",
+    "动物与自然"
+  ],
   "cldr": "parrot",
   "fromVersion": "11.0",
   "glyph": "🦜",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "00",
+    "10",
+    "10:00",
+    "clock",
+    "o’clock",
+    "ten",
+    "十点",
+    "十点整",
+    "旅行与地点"
+  ],
   "cldr": "ten o’clock",
   "fromVersion": "0.6",
   "glyph": "🕙",

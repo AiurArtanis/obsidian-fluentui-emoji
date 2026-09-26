@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "grin",
+    "grinning face",
+    "嘿嘿",
+    "咧嘴笑的脸",
+    "笑脸与情感"
+  ],
   "cldr": "grinning face",
   "fromVersion": "1.0",
   "glyph": "😀",

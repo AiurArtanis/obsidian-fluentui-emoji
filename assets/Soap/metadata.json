@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bar",
+    "bathing",
+    "cleaning",
+    "lather",
+    "soap",
+    "soapdish",
+    "肥皂",
+    "香皂",
+    "物品"
+  ],
   "cldr": "soap",
   "fromVersion": "11.0",
   "glyph": "🧼",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bactrian",
+    "camel",
+    "hump",
+    "two-hump camel",
+    "双峰骆驼",
+    "双峰驼",
+    "动物与自然"
+  ],
   "cldr": "two-hump camel",
   "fromVersion": "0.6",
   "glyph": "🐫",

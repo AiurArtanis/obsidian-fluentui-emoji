@@ -10,6 +10,16 @@
     "singer",
     "star"
   ],
+  "alias": [
+    "actor",
+    "entertainer",
+    "rock",
+    "singer",
+    "star",
+    "歌手",
+    "歌唱演员",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "personsinger"
   ],

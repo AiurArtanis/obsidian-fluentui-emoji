@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "kneeling",
+    "man",
+    "跪下的男人",
+    "下跪的男人",
+    "人物与身体"
+  ],
   "cldr": "man kneeling",
   "fromVersion": "12.0",
   "glyph": "🧎‍♂️",

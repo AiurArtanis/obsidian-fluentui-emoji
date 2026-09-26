@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "eject",
+    "eject button",
+    "推出按钮",
+    "弹出按钮",
+    "符号"
+  ],
   "cldr": "eject button",
   "fromVersion": "1.0",
   "glyph": "⏏️",

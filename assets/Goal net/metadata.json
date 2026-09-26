@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "goal",
+    "net",
+    "球门",
+    "活动"
+  ],
   "cldr": "goal net",
   "fromVersion": "3.0",
   "glyph": "🥅",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "closed umbrella",
+    "clothing",
+    "rain",
+    "umbrella",
+    "收起的伞",
+    "旅行与地点"
+  ],
   "cldr": "closed umbrella",
   "fromVersion": "0.6",
   "glyph": "🌂",

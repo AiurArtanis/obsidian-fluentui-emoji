@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flamboyant",
+    "flamingo",
+    "tropical",
+    "火烈鸟",
+    "动物与自然"
+  ],
   "cldr": "flamingo",
   "fromVersion": "12.0",
   "glyph": "🦩",

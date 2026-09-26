@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "cell",
+    "mobile",
+    "mobile phone with arrow",
+    "phone",
+    "receive",
+    "带有箭头的手机",
+    "物品"
+  ],
   "cldr": "mobile phone with arrow",
   "fromVersion": "0.6",
   "glyph": "📲",

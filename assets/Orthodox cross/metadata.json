@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "Christian",
+    "cross",
+    "orthodox cross",
+    "religion",
+    "东正教十字架",
+    "东正教十字",
+    "符号"
+  ],
   "cldr": "orthodox cross",
   "fromVersion": "1.0",
   "glyph": "☦️",

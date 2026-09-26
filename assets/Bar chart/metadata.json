@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bar",
+    "chart",
+    "graph",
+    "条形图",
+    "柱状图",
+    "物品"
+  ],
   "cldr": "bar chart",
   "fromVersion": "0.6",
   "glyph": "📊",

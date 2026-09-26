@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "celebration",
+    "ceremony",
+    "moon",
+    "moon viewing ceremony",
+    "赏月",
+    "活动"
+  ],
   "cldr": "moon viewing ceremony",
   "fromVersion": "0.6",
   "glyph": "🎑",

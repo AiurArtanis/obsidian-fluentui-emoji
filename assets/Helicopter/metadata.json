@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "helicopter",
+    "vehicle",
+    "直升机",
+    "旅行与地点"
+  ],
   "cldr": "helicopter",
   "fromVersion": "1.0",
   "glyph": "🚁",

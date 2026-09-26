@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dazed",
+    "face",
+    "flushed",
+    "脸红",
+    "涨红的脸",
+    "笑脸与情感"
+  ],
   "cldr": "flushed face",
   "fromVersion": "0.6",
   "glyph": "😳",

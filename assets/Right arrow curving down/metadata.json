@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "arrow",
+    "down",
+    "right arrow curving down",
+    "右下弯箭头",
+    "符号"
+  ],
   "cldr": "right arrow curving down",
   "fromVersion": "0.6",
   "glyph": "⤵️",

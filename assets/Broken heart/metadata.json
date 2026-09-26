@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "break",
+    "broken",
+    "broken heart",
+    "心碎",
+    "破碎的心",
+    "笑脸与情感"
+  ],
   "cldr": "broken heart",
   "fromVersion": "0.6",
   "glyph": "💔",

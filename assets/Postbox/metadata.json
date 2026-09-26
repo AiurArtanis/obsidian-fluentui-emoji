@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mail",
+    "mailbox",
+    "postbox",
+    "邮筒",
+    "邮箱",
+    "物品"
+  ],
   "cldr": "postbox",
   "fromVersion": "0.6",
   "glyph": "📮",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "balance",
+    "justice",
+    "Libra",
+    "scales",
+    "zodiac",
+    "天秤座",
+    "天平",
+    "符号"
+  ],
   "cldr": "Libra",
   "fromVersion": "0.6",
   "glyph": "♎",

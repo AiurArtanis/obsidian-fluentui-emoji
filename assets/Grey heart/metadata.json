@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"gray",
+		"grey heart",
+		"heart",
+		"silver",
+		"slate",
+		"灰色爱心",
+		"笑脸与情感"
+	],
 	"cldr": "grey heart",
 	"fromVersion": "15.0",
 	"glyph": "🩶",

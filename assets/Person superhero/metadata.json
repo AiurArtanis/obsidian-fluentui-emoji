@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "good",
+    "hero",
+    "heroine",
+    "superhero",
+    "superpower",
+    "超级英雄",
+    "拥有超能力的人",
+    "人物与身体"
+  ],
   "cldr": "superhero",
   "fromVersion": "11.0",
   "glyph": "🦸",

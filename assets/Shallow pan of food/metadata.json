@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "casserole",
+    "food",
+    "paella",
+    "pan",
+    "shallow",
+    "shallow pan of food",
+    "装有食物的浅底锅",
+    "浅底锅",
+    "食物与饮品"
+  ],
   "cldr": "shallow pan of food",
   "fromVersion": "3.0",
   "glyph": "🥘",

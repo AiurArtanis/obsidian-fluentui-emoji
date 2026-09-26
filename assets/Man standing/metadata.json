@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "man",
+    "standing",
+    "站立的男人",
+    "人物与身体"
+  ],
   "cldr": "man standing",
   "fromVersion": "12.0",
   "glyph": "🧍‍♂️",

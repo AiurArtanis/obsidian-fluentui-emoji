@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bat",
+    "vampire",
+    "蝙蝠",
+    "动物与自然"
+  ],
   "cldr": "bat",
   "fromVersion": "3.0",
   "glyph": "🦇",

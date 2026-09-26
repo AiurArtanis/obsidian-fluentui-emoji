@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "monkey",
+    "猴脸",
+    "猴子脸",
+    "动物与自然"
+  ],
   "cldr": "monkey face",
   "fromVersion": "0.6",
   "glyph": "🐵",

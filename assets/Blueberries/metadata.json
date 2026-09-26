@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "berry",
+    "bilberry",
+    "blue",
+    "blueberries",
+    "blueberry",
+    "蓝莓",
+    "食物与饮品"
+  ],
   "cldr": "blueberries",
   "fromVersion": "13.0",
   "glyph": "🫐",

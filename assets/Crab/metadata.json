@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Cancer",
+    "crab",
+    "zodiac",
+    "螃蟹",
+    "蟹",
+    "食物与饮品"
+  ],
   "cldr": "crab",
   "fromVersion": "1.0",
   "glyph": "🦀",

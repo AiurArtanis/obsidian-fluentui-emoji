@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cooking",
+    "hocho",
+    "kitchen knife",
+    "knife",
+    "tool",
+    "weapon",
+    "菜刀",
+    "厨刀",
+    "食物与饮品"
+  ],
   "cldr": "kitchen knife",
   "fromVersion": "0.6",
   "glyph": "🔪",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cheese",
+    "pizza",
+    "slice",
+    "披萨",
+    "比萨",
+    "食物与饮品"
+  ],
   "cldr": "pizza",
   "fromVersion": "0.6",
   "glyph": "🍕",

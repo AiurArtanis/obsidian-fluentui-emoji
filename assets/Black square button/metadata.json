@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "black square button",
+    "button",
+    "geometric",
+    "square",
+    "黑色方形按钮",
+    "黑色方块按钮",
+    "符号"
+  ],
   "cldr": "black square button",
   "fromVersion": "0.6",
   "glyph": "🔲",

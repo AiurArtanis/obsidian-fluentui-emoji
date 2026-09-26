@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "blind",
+    "white cane",
+    "盲杖",
+    "导盲杖",
+    "物品"
+  ],
   "cldr": "white cane",
   "fromVersion": "12.0",
   "glyph": "🦯",

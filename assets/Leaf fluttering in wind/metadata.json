@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "blow",
+    "flutter",
+    "leaf",
+    "leaf fluttering in wind",
+    "wind",
+    "风吹叶落",
+    "飘落的叶子",
+    "动物与自然"
+  ],
   "cldr": "leaf fluttering in wind",
   "fromVersion": "0.6",
   "glyph": "🍃",

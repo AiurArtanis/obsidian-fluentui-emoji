@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "mouse",
+    "老鼠",
+    "动物与自然"
+  ],
   "cldr": "mouse",
   "fromVersion": "1.0",
   "glyph": "🐁",

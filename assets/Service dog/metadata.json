@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "accessibility",
+    "assistance",
+    "dog",
+    "service",
+    "服务犬",
+    "辅助犬",
+    "动物与自然"
+  ],
   "cldr": "service dog",
   "fromVersion": "12.0",
   "glyph": "🐕‍🦺",

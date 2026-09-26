@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "coin",
+    "gold",
+    "metal",
+    "money",
+    "silver",
+    "treasure",
+    "硬币",
+    "钱币",
+    "物品"
+  ],
   "cldr": "coin",
   "fromVersion": "13.0",
   "glyph": "🪙",

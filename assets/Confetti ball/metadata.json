@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ball",
+    "celebration",
+    "confetti",
+    "五彩纸屑球",
+    "活动"
+  ],
   "cldr": "confetti ball",
   "fromVersion": "0.6",
   "glyph": "🎊",

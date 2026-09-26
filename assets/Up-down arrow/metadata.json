@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "arrow",
+    "up-down arrow",
+    "上下箭头",
+    "上下双向箭头",
+    "符号"
+  ],
   "cldr": "up-down arrow",
   "fromVersion": "0.6",
   "glyph": "↕️",

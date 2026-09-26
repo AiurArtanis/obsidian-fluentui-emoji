@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "face",
+    "horse",
+    "马头",
+    "动物与自然"
+  ],
   "cldr": "horse face",
   "fromVersion": "0.6",
   "glyph": "🐴",

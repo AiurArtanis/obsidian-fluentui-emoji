@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cool",
+    "COOL button",
+    "酷按钮",
+    "COOL按钮",
+    "符号"
+  ],
   "cldr": "COOL button",
   "fromVersion": "0.6",
   "glyph": "🆒",

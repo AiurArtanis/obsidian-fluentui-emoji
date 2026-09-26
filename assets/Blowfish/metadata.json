@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "blowfish",
+    "fish",
+    "河豚",
+    "动物与自然"
+  ],
   "cldr": "blowfish",
   "fromVersion": "0.6",
   "glyph": "🐡",

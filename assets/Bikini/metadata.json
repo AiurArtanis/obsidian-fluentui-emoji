@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bikini",
+    "clothing",
+    "swim",
+    "比基尼",
+    "物品"
+  ],
   "cldr": "bikini",
   "fromVersion": "0.6",
   "glyph": "👙",

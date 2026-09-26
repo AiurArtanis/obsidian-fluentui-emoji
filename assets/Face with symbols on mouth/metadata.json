@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face with symbols on mouth",
+    "swearing",
+    "爆粗口",
+    "嘴上有符号的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with symbols on mouth",
   "fromVersion": "5.0",
   "glyph": "🤬",

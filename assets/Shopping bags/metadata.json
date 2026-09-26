@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bag",
+    "hotel",
+    "shopping",
+    "shopping bags",
+    "购物袋",
+    "物品"
+  ],
   "cldr": "shopping bags",
   "fromVersion": "0.7",
   "glyph": "🛍️",

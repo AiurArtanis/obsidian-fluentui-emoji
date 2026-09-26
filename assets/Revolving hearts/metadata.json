@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "revolving",
+    "revolving hearts",
+    "舞动的心",
+    "旋转的心",
+    "笑脸与情感"
+  ],
   "cldr": "revolving hearts",
   "fromVersion": "0.6",
   "glyph": "💞",

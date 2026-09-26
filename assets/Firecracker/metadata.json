@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dynamite",
+    "explosive",
+    "firecracker",
+    "fireworks",
+    "鞭炮",
+    "活动"
+  ],
   "cldr": "firecracker",
   "fromVersion": "11.0",
   "glyph": "🧨",

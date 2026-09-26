@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "boom",
+    "collision",
+    "comic",
+    "爆炸",
+    "碰撞",
+    "笑脸与情感"
+  ],
   "cldr": "collision",
   "fromVersion": "0.6",
   "glyph": "💥",

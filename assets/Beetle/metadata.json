@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "beetle",
+    "bug",
+    "insect",
+    "甲虫",
+    "动物与自然"
+  ],
   "cldr": "beetle",
   "fromVersion": "13.0",
   "glyph": "🪲",

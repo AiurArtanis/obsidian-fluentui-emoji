@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "control",
+    "passport",
+    "护照检查",
+    "护照查验",
+    "符号"
+  ],
   "cldr": "passport control",
   "fromVersion": "1.0",
   "glyph": "🛂",

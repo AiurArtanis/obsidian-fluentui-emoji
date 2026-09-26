@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "b",
+    "B button (blood type)",
+    "blood type",
+    "B型血",
+    "B型血按钮",
+    "符号"
+  ],
   "cldr": "B button (blood type)",
   "fromVersion": "0.6",
   "glyph": "🅱️",

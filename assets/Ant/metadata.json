@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "ant",
+    "insect",
+    "蚂蚁",
+    "动物与自然"
+  ],
   "cldr": "ant",
   "fromVersion": "0.6",
   "glyph": "🐜",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "plant",
+    "shamrock",
+    "三叶草",
+    "动物与自然"
+  ],
   "cldr": "shamrock",
   "fromVersion": "1.0",
   "glyph": "☘️",

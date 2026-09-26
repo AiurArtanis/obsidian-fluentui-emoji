@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "game",
+    "slot",
+    "slot machine",
+    "老虎机",
+    "活动"
+  ],
   "cldr": "slot machine",
   "fromVersion": "0.6",
   "glyph": "🎰",

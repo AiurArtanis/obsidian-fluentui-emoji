@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "battery",
+    "电池",
+    "物品"
+  ],
   "cldr": "battery",
   "fromVersion": "0.6",
   "glyph": "🔋",

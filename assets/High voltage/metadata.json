@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "danger",
+    "electric",
+    "high voltage",
+    "lightning",
+    "voltage",
+    "zap",
+    "高压",
+    "高压电",
+    "旅行与地点"
+  ],
   "cldr": "high voltage",
   "fromVersion": "0.6",
   "glyph": "⚡",

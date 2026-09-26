@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mirror",
+    "reflection",
+    "reflector",
+    "speculum",
+    "镜子",
+    "物品"
+  ],
   "cldr": "mirror",
   "fromVersion": "13.0",
   "glyph": "🪞",

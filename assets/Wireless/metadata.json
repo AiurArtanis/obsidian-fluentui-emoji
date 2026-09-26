@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"computer",
+		"internet",
+		"network",
+		"wireless",
+		"无线网络",
+		"无线信号",
+		"符号"
+	],
 	"cldr": "wireless",
 	"fromVersion": "15.0",
 	"glyph": "🛜",

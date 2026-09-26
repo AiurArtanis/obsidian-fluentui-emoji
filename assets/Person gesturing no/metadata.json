@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "person gesturing NO",
+    "prohibited",
+    "摆手拒绝的人",
+    "做禁止手势的人",
+    "人物与身体"
+  ],
   "cldr": "person gesturing NO",
   "fromVersion": "0.6",
   "glyph": "🙅",

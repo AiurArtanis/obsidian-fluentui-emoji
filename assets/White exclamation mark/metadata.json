@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "!",
+    "exclamation",
+    "mark",
+    "outlined",
+    "punctuation",
+    "white exclamation mark",
+    "白色感叹号",
+    "白色叹号",
+    "符号"
+  ],
   "cldr": "white exclamation mark",
   "fromVersion": "0.6",
   "glyph": "❕",

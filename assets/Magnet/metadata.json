@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "attraction",
+    "horseshoe",
+    "magnet",
+    "magnetic",
+    "磁铁",
+    "马蹄形磁铁",
+    "物品"
+  ],
   "cldr": "magnet",
   "fromVersion": "11.0",
   "glyph": "🧲",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "pig",
+    "猪脸",
+    "猪头",
+    "动物与自然"
+  ],
   "cldr": "pig face",
   "fromVersion": "0.6",
   "glyph": "🐷",

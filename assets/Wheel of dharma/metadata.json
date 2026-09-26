@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "Buddhist",
+    "dharma",
+    "religion",
+    "wheel",
+    "wheel of dharma",
+    "法轮",
+    "佛法之轮",
+    "符号"
+  ],
   "cldr": "wheel of dharma",
   "fromVersion": "0.7",
   "glyph": "☸️",

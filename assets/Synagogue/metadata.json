@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "Jew",
+    "Jewish",
+    "religion",
+    "synagogue",
+    "temple",
+    "犹太教堂",
+    "犹太会堂",
+    "旅行与地点"
+  ],
   "cldr": "synagogue",
   "fromVersion": "1.0",
   "glyph": "🕍",

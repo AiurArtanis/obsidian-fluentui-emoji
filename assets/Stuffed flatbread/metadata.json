@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "falafel",
+    "flatbread",
+    "food",
+    "gyro",
+    "kebab",
+    "stuffed",
+    "夹心饼",
+    "皮塔饼",
+    "食物与饮品"
+  ],
   "cldr": "stuffed flatbread",
   "fromVersion": "3.0",
   "glyph": "🥙",

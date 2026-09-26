@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bullet",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train",
+    "子弹头高速列车",
+    "新干线",
+    "旅行与地点"
+  ],
   "cldr": "bullet train",
   "fromVersion": "0.6",
   "glyph": "🚅",

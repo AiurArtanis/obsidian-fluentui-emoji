@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "tram",
+    "trolleybus",
+    "路面电车",
+    "电车",
+    "旅行与地点"
+  ],
   "cldr": "tram",
   "fromVersion": "1.0",
   "glyph": "🚊",

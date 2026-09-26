@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "alarm",
+    "clock",
+    "闹钟",
+    "旅行与地点"
+  ],
   "cldr": "alarm clock",
   "fromVersion": "0.6",
   "glyph": "⏰",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "coconut",
+    "palm",
+    "piña colada",
+    "椰子",
+    "食物与饮品"
+  ],
   "cldr": "coconut",
   "fromVersion": "5.0",
   "glyph": "🥥",

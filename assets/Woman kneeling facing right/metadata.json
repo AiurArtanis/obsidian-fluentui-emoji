@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "kneeling",
+    "woman",
+    "面向右跪下的女人",
+    "人物与身体"
+  ],
   "cldr": "woman kneeling facing right",
   "fromVersion": "15.1",
   "glyph": "🧎‍♀️‍➡️",

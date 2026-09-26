@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "beating",
+    "beating heart",
+    "heartbeat",
+    "pulsating",
+    "心跳",
+    "跳动的心",
+    "笑脸与情感"
+  ],
   "cldr": "beating heart",
   "fromVersion": "0.6",
   "glyph": "💓",

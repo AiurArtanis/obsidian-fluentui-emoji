@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cross",
+    "crossed fingers",
+    "finger",
+    "hand",
+    "luck",
+    "交叉的手指",
+    "手指交叉",
+    "人物与身体"
+  ],
   "cldr": "crossed fingers",
   "fromVersion": "3.0",
   "glyph": "🤞",

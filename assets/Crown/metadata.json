@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clothing",
+    "crown",
+    "king",
+    "queen",
+    "皇冠",
+    "王冠",
+    "物品"
+  ],
   "cldr": "crown",
   "fromVersion": "0.6",
   "glyph": "👑",

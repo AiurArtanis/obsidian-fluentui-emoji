@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "detective",
+    "sleuth",
+    "spy",
+    "woman",
+    "女侦探",
+    "人物与身体"
+  ],
   "cldr": "woman detective",
   "fromVersion": "4.0",
   "glyph": "🕵️‍♀️",

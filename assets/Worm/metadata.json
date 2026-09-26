@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "annelid",
+    "earthworm",
+    "parasite",
+    "worm",
+    "蠕虫",
+    "蚯蚓",
+    "动物与自然"
+  ],
   "cldr": "worm",
   "fromVersion": "13.0",
   "glyph": "🪱",

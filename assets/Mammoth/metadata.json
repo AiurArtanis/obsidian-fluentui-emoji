@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "extinction",
+    "large",
+    "mammoth",
+    "tusk",
+    "woolly",
+    "猛犸",
+    "猛犸象",
+    "动物与自然"
+  ],
   "cldr": "mammoth",
   "fromVersion": "13.0",
   "glyph": "🦣",

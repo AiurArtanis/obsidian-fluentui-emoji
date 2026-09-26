@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cartwheel",
+    "gymnastics",
+    "man",
+    "man cartwheeling",
+    "男生侧手翻",
+    "侧手翻的男人",
+    "人物与身体"
+  ],
   "cldr": "man cartwheeling",
   "fromVersion": "4.0",
   "glyph": "🤸‍♂️",

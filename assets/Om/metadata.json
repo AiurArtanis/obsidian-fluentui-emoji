@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Hindu",
+    "om",
+    "religion",
+    "奥姆",
+    "唵",
+    "符号"
+  ],
   "cldr": "om",
   "fromVersion": "0.7",
   "glyph": "🕉️",

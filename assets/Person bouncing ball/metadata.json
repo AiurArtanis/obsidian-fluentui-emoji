@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ball",
+    "person bouncing ball",
+    "拍球的人",
+    "运球的人",
+    "人物与身体"
+  ],
   "cldr": "person bouncing ball",
   "fromVersion": "0.7",
   "glyph": "⛹️",

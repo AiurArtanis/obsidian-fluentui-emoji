@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "judge",
+    "justice",
+    "scales",
+    "woman",
+    "女法官",
+    "人物与身体"
+  ],
   "cldr": "woman judge",
   "fromVersion": "4.0",
   "glyph": "👩‍⚖️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "quiet",
+    "shush",
+    "shushing face",
+    "噤声的脸",
+    "嘘",
+    "笑脸与情感"
+  ],
   "cldr": "shushing face",
   "fromVersion": "5.0",
   "glyph": "🤫",

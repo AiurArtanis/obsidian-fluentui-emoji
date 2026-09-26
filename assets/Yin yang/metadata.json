@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "religion",
+    "tao",
+    "taoist",
+    "yang",
+    "yin",
+    "阴阳",
+    "阴阳符号",
+    "符号"
+  ],
   "cldr": "yin yang",
   "fromVersion": "0.7",
   "glyph": "☯️",

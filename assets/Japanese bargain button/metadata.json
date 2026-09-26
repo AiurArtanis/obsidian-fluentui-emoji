@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“bargain”",
+    "ideograph",
+    "Japanese",
+    "Japanese “bargain” button",
+    "得",
+    "日文议价按钮",
+    "划算",
+    "符号"
+  ],
   "cldr": "Japanese “bargain” button",
   "fromVersion": "0.6",
   "glyph": "🉐",

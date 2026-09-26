@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Cancer",
+    "crab",
+    "zodiac",
+    "巨蟹座",
+    "巨蟹宫",
+    "符号"
+  ],
   "cldr": "Cancer",
   "fromVersion": "0.6",
   "glyph": "♋",

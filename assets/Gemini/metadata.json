@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Gemini",
+    "twins",
+    "zodiac",
+    "双子座",
+    "双子宫",
+    "符号"
+  ],
   "cldr": "Gemini",
   "fromVersion": "0.6",
   "glyph": "♊",

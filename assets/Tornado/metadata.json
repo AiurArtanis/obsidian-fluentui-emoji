@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cloud",
+    "tornado",
+    "whirlwind",
+    "龙卷风",
+    "旋风",
+    "旅行与地点"
+  ],
   "cldr": "tornado",
   "fromVersion": "0.7",
   "glyph": "🌪️",

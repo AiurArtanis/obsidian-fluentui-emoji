@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "c",
+    "copyright",
+    "版权",
+    "版权符号",
+    "符号"
+  ],
   "cldr": "copyright",
   "fromVersion": "0.6",
   "glyph": "©️",

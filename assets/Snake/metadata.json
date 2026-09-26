@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bearer",
+    "Ophiuchus",
+    "serpent",
+    "snake",
+    "zodiac",
+    "蛇",
+    "动物与自然"
+  ],
   "cldr": "snake",
   "fromVersion": "0.6",
   "glyph": "🐍",

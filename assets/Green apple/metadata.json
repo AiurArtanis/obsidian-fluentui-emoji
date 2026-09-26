@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "apple",
+    "fruit",
+    "green",
+    "青苹果",
+    "绿苹果",
+    "食物与饮品"
+  ],
   "cldr": "green apple",
   "fromVersion": "0.6",
   "glyph": "🍏",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "milky way",
+    "space",
+    "银河",
+    "银河系",
+    "旅行与地点"
+  ],
   "cldr": "milky way",
   "fromVersion": "0.6",
   "glyph": "🌌",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "art",
+    "artist palette",
+    "museum",
+    "painting",
+    "palette",
+    "调色板",
+    "活动"
+  ],
   "cldr": "artist palette",
   "fromVersion": "0.6",
   "glyph": "🎨",

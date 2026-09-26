@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "architect",
+    "business",
+    "man",
+    "man office worker",
+    "manager",
+    "white-collar",
+    "男白领",
+    "男职员",
+    "人物与身体"
+  ],
   "cldr": "man office worker",
   "fromVersion": "4.0",
   "glyph": "👨‍💼",

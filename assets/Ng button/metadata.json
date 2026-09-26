@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ng",
+    "NG button",
+    "NG 按钮",
+    "不行",
+    "符号"
+  ],
   "cldr": "NG button",
   "fromVersion": "0.6",
   "glyph": "🆖",

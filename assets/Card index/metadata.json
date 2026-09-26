@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "card",
+    "index",
+    "rolodex",
+    "卡片索引",
+    "物品"
+  ],
   "cldr": "card index",
   "fromVersion": "0.6",
   "glyph": "📇",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "face",
+    "fox",
+    "狐狸",
+    "动物与自然"
+  ],
   "cldr": "fox",
   "fromVersion": "3.0",
   "glyph": "🦊",

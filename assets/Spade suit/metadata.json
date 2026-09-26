@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "card",
+    "game",
+    "spade suit",
+    "黑桃",
+    "活动"
+  ],
   "cldr": "spade suit",
   "fromVersion": "0.6",
   "glyph": "♠️",

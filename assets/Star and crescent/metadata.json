@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "islam",
+    "Muslim",
+    "religion",
+    "star and crescent",
+    "星月",
+    "星月符号",
+    "符号"
+  ],
   "cldr": "star and crescent",
   "fromVersion": "0.7",
   "glyph": "☪️",

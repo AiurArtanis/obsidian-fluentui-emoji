@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cyclone",
+    "dizzy",
+    "hurricane",
+    "twister",
+    "typhoon",
+    "台风",
+    "气旋",
+    "旅行与地点"
+  ],
   "cldr": "cyclone",
   "fromVersion": "0.6",
   "glyph": "🌀",

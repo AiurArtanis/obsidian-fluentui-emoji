@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "two",
+    "按键 2",
+    "数字键 2",
+    "符号"
+  ],
   "cldr": "keycap: 2",
   "fromVersion": "0.6",
   "glyph": "2️⃣",

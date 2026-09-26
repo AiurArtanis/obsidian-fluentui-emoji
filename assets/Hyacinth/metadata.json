@@ -1,4 +1,14 @@
 {
+	"alias": [
+		"bluebonnet",
+		"flower",
+		"hyacinth",
+		"lavender",
+		"lupine",
+		"snapdragon",
+		"风信子",
+		"动物与自然"
+	],
 	"cldr": "hyacinth",
 	"fromVersion": "15.0",
 	"glyph": "🪻",

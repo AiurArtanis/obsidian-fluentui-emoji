@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cloud",
+    "sun",
+    "sun behind small cloud",
+    "晴偶有云",
+    "晴间多云",
+    "旅行与地点"
+  ],
   "cldr": "sun behind small cloud",
   "fromVersion": "0.7",
   "glyph": "🌤️",

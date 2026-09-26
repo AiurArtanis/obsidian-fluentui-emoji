@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "baby",
+    "breast",
+    "breast-feeding",
+    "nursing",
+    "母乳喂养",
+    "哺乳",
+    "人物与身体"
+  ],
   "cldr": "breast-feeding",
   "fromVersion": "5.0",
   "glyph": "🤱",

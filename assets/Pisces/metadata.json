@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "fish",
+    "Pisces",
+    "zodiac",
+    "双鱼座",
+    "双鱼",
+    "符号"
+  ],
   "cldr": "Pisces",
   "fromVersion": "0.6",
   "glyph": "♓",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "hotel",
+    "love",
+    "情人酒店",
+    "情侣酒店",
+    "旅行与地点"
+  ],
   "cldr": "love hotel",
   "fromVersion": "0.6",
   "glyph": "🏩",

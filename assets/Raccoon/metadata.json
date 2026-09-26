@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "curious",
+    "raccoon",
+    "sly",
+    "浣熊",
+    "动物与自然"
+  ],
   "cldr": "raccoon",
   "fromVersion": "11.0",
   "glyph": "🦝",

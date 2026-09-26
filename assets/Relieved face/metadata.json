@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "relieved",
+    "松了口气",
+    "如释重负",
+    "笑脸与情感"
+  ],
   "cldr": "relieved face",
   "fromVersion": "0.6",
   "glyph": "😌",

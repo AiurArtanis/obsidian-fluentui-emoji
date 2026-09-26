@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "lazy",
+    "sloth",
+    "slow",
+    "树懒",
+    "动物与自然"
+  ],
   "cldr": "sloth",
   "fromVersion": "12.0",
   "glyph": "🦥",

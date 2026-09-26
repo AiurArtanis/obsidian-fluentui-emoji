@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "plaything",
+    "plush",
+    "stuffed",
+    "teddy bear",
+    "toy",
+    "泰迪熊",
+    "活动"
+  ],
   "cldr": "teddy bear",
   "fromVersion": "11.0",
   "glyph": "🧸",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "chair",
+    "seat",
+    "sit",
+    "椅子",
+    "物品"
+  ],
   "cldr": "chair",
   "fromVersion": "12.0",
   "glyph": "🪑",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "black",
+    "cat",
+    "unlucky",
+    "黑猫",
+    "动物与自然"
+  ],
   "cldr": "black cat",
   "fromVersion": "13.0",
   "glyph": "🐈‍⬛",

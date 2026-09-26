@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "archer",
+    "Sagittarius",
+    "zodiac",
+    "射手座",
+    "人马座",
+    "符号"
+  ],
   "cldr": "Sagittarius",
   "fromVersion": "0.6",
   "glyph": "♐",

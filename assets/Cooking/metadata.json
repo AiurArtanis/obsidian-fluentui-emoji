@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "breakfast",
+    "cooking",
+    "egg",
+    "frying",
+    "pan",
+    "煎蛋",
+    "煎锅",
+    "食物与饮品"
+  ],
   "cldr": "cooking",
   "fromVersion": "0.6",
   "glyph": "🍳",

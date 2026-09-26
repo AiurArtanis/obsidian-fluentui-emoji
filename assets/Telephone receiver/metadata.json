@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "phone",
+    "receiver",
+    "telephone",
+    "电话听筒",
+    "听筒",
+    "物品"
+  ],
   "cldr": "telephone receiver",
   "fromVersion": "0.6",
   "glyph": "📞",

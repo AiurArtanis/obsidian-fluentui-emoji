@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bird",
+    "duck",
+    "鸭子",
+    "动物与自然"
+  ],
   "cldr": "duck",
   "fromVersion": "3.0",
   "glyph": "🦆",

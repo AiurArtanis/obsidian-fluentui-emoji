@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "breakfast",
+    "crêpe",
+    "food",
+    "hotcake",
+    "pancake",
+    "pancakes",
+    "煎饼",
+    "松饼",
+    "食物与饮品"
+  ],
   "cldr": "pancakes",
   "fromVersion": "3.0",
   "glyph": "🥞",

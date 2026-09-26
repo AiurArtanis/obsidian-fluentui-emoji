@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "dog",
+    "pet",
+    "狗",
+    "动物与自然"
+  ],
   "cldr": "dog",
   "fromVersion": "0.7",
   "glyph": "🐕",

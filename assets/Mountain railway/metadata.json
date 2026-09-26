@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "car",
+    "mountain",
+    "railway",
+    "山区铁路",
+    "高山铁路",
+    "旅行与地点"
+  ],
   "cldr": "mountain railway",
   "fromVersion": "1.0",
   "glyph": "🚞",

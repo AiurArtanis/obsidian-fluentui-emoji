@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "nose",
+    "pig",
+    "猪鼻子",
+    "动物与自然"
+  ],
   "cldr": "pig nose",
   "fromVersion": "0.6",
   "glyph": "🐽",

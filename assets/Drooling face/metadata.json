@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "drooling",
+    "face",
+    "流口水",
+    "垂涎",
+    "笑脸与情感"
+  ],
   "cldr": "drooling face",
   "fromVersion": "3.0",
   "glyph": "🤤",

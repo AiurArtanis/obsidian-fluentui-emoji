@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "celebration",
+    "Christmas",
+    "claus",
+    "mother",
+    "Mrs.",
+    "Mrs. Claus",
+    "圣诞奶奶",
+    "克劳斯太太",
+    "人物与身体"
+  ],
   "cldr": "Mrs. Claus",
   "fromVersion": "3.0",
   "glyph": "🤶",

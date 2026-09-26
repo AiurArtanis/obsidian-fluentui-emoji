@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "headscarf",
+    "hijab",
+    "mantilla",
+    "tichel",
+    "woman with headscarf",
+    "戴头巾的女人",
+    "戴穆斯林头巾的女人",
+    "人物与身体"
+  ],
   "cldr": "woman with headscarf",
   "fromVersion": "5.0",
   "glyph": "🧕",

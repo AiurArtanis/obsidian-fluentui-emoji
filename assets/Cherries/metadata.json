@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "berries",
+    "cherries",
+    "cherry",
+    "fruit",
+    "red",
+    "樱桃",
+    "车厘子",
+    "食物与饮品"
+  ],
   "cldr": "cherries",
   "fromVersion": "0.6",
   "glyph": "🍒",

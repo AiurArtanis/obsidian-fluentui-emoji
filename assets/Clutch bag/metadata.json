@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bag",
+    "clothing",
+    "clutch bag",
+    "pouch",
+    "手拿包",
+    "手袋",
+    "物品"
+  ],
   "cldr": "clutch bag",
   "fromVersion": "0.6",
   "glyph": "👝",

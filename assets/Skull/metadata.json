@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "death",
+    "face",
+    "fairy tale",
+    "monster",
+    "skull",
+    "头骨",
+    "骷髅头",
+    "笑脸与情感"
+  ],
   "cldr": "skull",
   "fromVersion": "0.6",
   "glyph": "💀",

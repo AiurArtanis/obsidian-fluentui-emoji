@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "clock",
+    "mantelpiece clock",
+    "座钟",
+    "壁炉钟",
+    "旅行与地点"
+  ],
   "cldr": "mantelpiece clock",
   "fromVersion": "0.7",
   "glyph": "🕰️",

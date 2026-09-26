@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "gesture",
+    "raising hand",
+    "woman",
+    "woman raising hand",
+    "举手的女人",
+    "人物与身体"
+  ],
   "cldr": "woman raising hand",
   "fromVersion": "4.0",
   "glyph": "🙋‍♀️",

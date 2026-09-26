@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "face",
+    "grinning squinting face",
+    "laugh",
+    "mouth",
+    "satisfied",
+    "smile",
+    "眯眼大笑",
+    "斜眼笑",
+    "笑脸与情感"
+  ],
   "cldr": "grinning squinting face",
   "comments": [
     "This is the 1st version of grinning squinting face. It has 72 frames.",

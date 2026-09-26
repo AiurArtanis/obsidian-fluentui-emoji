@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "black flag",
+    "waving",
+    "黑旗",
+    "旗帜"
+  ],
   "cldr": "black flag",
   "fromVersion": "1.0",
   "glyph": "🏴",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "button",
+    "geometric",
+    "outlined",
+    "square",
+    "white square button",
+    "白色方形按钮",
+    "白色方框按钮",
+    "符号"
+  ],
   "cldr": "white square button",
   "fromVersion": "0.6",
   "glyph": "🔳",

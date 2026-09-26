@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "brick",
+    "bricks",
+    "clay",
+    "mortar",
+    "wall",
+    "砖",
+    "砖块",
+    "旅行与地点"
+  ],
   "cldr": "brick",
   "fromVersion": "11.0",
   "glyph": "🧱",

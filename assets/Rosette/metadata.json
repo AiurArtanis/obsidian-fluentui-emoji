@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "plant",
+    "rosette",
+    "圆形花饰",
+    "花结",
+    "动物与自然"
+  ],
   "cldr": "rosette",
   "fromVersion": "0.7",
   "glyph": "🏵️",

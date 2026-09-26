@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "eye protection",
+    "goggles",
+    "swimming",
+    "welding",
+    "护目镜",
+    "风镜",
+    "物品"
+  ],
   "cldr": "goggles",
   "fromVersion": "11.0",
   "glyph": "🥽",

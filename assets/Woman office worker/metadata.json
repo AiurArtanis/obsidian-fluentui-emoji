@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "architect",
+    "business",
+    "manager",
+    "white-collar",
+    "woman",
+    "woman office worker",
+    "女白领",
+    "女职员",
+    "人物与身体"
+  ],
   "cldr": "woman office worker",
   "fromVersion": "4.0",
   "glyph": "👩‍💼",

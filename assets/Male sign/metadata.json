@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "male sign",
+    "man",
+    "男性符号",
+    "男性标志",
+    "符号"
+  ],
   "cldr": "male sign",
   "fromVersion": "4.0",
   "glyph": "♂️",

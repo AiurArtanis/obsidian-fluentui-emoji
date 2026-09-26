@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "email",
+    "envelope",
+    "letter",
+    "信封",
+    "物品"
+  ],
   "cldr": "envelope",
   "fromVersion": "0.6",
   "glyph": "✉️",

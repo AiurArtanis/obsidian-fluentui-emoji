@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cloud",
+    "sun",
+    "sun behind large cloud",
+    "阴天",
+    "太阳被大片云遮住",
+    "旅行与地点"
+  ],
   "cldr": "sun behind large cloud",
   "fromVersion": "0.7",
   "glyph": "🌥️",

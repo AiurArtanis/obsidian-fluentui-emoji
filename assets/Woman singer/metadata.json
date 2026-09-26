@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "actor",
+    "entertainer",
+    "rock",
+    "singer",
+    "star",
+    "woman",
+    "女歌手",
+    "人物与身体"
+  ],
   "cldr": "woman singer",
   "fromVersion": "4.0",
   "glyph": "👩‍🎤",

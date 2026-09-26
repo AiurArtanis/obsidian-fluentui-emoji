@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "banjo",
+    "music",
+    "stringed",
+    "班卓琴",
+    "物品"
+  ],
   "cldr": "banjo",
   "fromVersion": "12.0",
   "glyph": "🪕",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "fish",
+    "tropical",
+    "热带鱼",
+    "动物与自然"
+  ],
   "cldr": "tropical fish",
   "fromVersion": "0.6",
   "glyph": "🐠",

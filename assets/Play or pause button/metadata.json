@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "arrow",
+    "pause",
+    "play",
+    "play or pause button",
+    "right",
+    "triangle",
+    "播放或暂停按钮",
+    "播放暂停键",
+    "符号"
+  ],
   "cldr": "play or pause button",
   "fromVersion": "1.0",
   "glyph": "⏯️",

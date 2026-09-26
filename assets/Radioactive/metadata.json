@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "radioactive",
+    "sign",
+    "放射性",
+    "辐射标志",
+    "符号"
+  ],
   "cldr": "radioactive",
   "fromVersion": "1.0",
   "glyph": "☢️",

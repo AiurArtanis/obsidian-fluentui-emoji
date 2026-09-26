@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "customs",
+    "海关",
+    "海关检查",
+    "符号"
+  ],
   "cldr": "customs",
   "fromVersion": "1.0",
   "glyph": "🛃",

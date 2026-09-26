@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "building",
+    "hotel",
+    "酒店",
+    "旅馆",
+    "旅行与地点"
+  ],
   "cldr": "hotel",
   "fromVersion": "0.6",
   "glyph": "🏨",

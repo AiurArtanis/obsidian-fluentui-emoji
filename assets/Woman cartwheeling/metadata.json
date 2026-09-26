@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cartwheel",
+    "gymnastics",
+    "woman",
+    "woman cartwheeling",
+    "侧手翻的女人",
+    "人物与身体"
+  ],
   "cldr": "woman cartwheeling",
   "fromVersion": "4.0",
   "glyph": "🤸‍♀️",

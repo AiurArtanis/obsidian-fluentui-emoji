@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“congratulations”",
+    "ideograph",
+    "Japanese",
+    "Japanese “congratulations” button",
+    "祝",
+    "日文祝贺按钮",
+    "祝贺",
+    "符号"
+  ],
   "cldr": "Japanese “congratulations” button",
   "fromVersion": "0.6",
   "glyph": "㊗️",

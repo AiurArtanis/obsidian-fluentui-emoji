@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "glass",
+    "magnifying",
+    "magnifying glass tilted left",
+    "search",
+    "tool",
+    "左斜的放大镜",
+    "向左倾斜的放大镜",
+    "物品"
+  ],
   "cldr": "magnifying glass tilted left",
   "fromVersion": "0.6",
   "glyph": "🔍",

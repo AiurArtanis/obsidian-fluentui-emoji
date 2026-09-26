@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "doctor",
+    "health worker",
+    "healthcare",
+    "nurse",
+    "therapist",
+    "医护人员",
+    "医护工作者",
+    "人物与身体"
+  ],
   "cldr": "health worker",
   "fromVersion": "12.1",
   "glyph": "🧑‍⚕️",

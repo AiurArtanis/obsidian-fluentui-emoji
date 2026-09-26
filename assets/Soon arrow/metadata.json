@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "arrow",
+    "soon",
+    "SOON arrow",
+    "即将推出箭头",
+    "符号"
+  ],
   "cldr": "SOON arrow",
   "fromVersion": "0.6",
   "glyph": "🔜",

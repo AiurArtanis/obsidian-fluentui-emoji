@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "amoeba",
+    "bacteria",
+    "microbe",
+    "virus",
+    "微生物",
+    "细菌",
+    "动物与自然"
+  ],
   "cldr": "microbe",
   "fromVersion": "11.0",
   "glyph": "🦠",

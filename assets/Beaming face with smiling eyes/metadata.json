@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "beaming face with smiling eyes",
+    "eye",
+    "face",
+    "grin",
+    "smile",
+    "嘻嘻",
+    "咧嘴笑",
+    "笑脸与情感"
+  ],
   "cldr": "beaming face with smiling eyes",
   "fromVersion": "0.6",
   "glyph": "😁",

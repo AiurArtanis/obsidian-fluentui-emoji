@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "comic",
+    "diamond",
+    "diamond with a dot",
+    "geometric",
+    "inside",
+    "带圆点的菱形",
+    "圆点菱形",
+    "符号"
+  ],
   "cldr": "diamond with a dot",
   "fromVersion": "0.6",
   "glyph": "💠",

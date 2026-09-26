@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "gloves",
+    "hand",
+    "手套",
+    "物品"
+  ],
   "cldr": "gloves",
   "fromVersion": "5.0",
   "glyph": "🧤",

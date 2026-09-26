@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "morning",
+    "mountain",
+    "sun",
+    "sunrise",
+    "sunrise over mountains",
+    "山顶日出",
+    "山间日出",
+    "旅行与地点"
+  ],
   "cldr": "sunrise over mountains",
   "fromVersion": "0.6",
   "glyph": "🌄",

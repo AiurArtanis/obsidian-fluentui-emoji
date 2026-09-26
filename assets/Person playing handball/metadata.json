@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "handball",
+    "person playing handball",
+    "打手球的人",
+    "玩手球的人",
+    "人物与身体"
+  ],
   "cldr": "person playing handball",
   "fromVersion": "3.0",
   "glyph": "🤾",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "face",
+    "hug",
+    "hugging",
+    "open hands",
+    "smiling face",
+    "smiling face with open hands",
+    "抱抱",
+    "拥抱",
+    "笑脸与情感"
+  ],
   "cldr": "hugging face",
   "fromVersion": "1.0",
   "glyph": "🤗",

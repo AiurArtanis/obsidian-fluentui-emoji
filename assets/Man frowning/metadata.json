@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "frowning",
+    "gesture",
+    "man",
+    "皱眉的男人",
+    "人物与身体"
+  ],
   "cldr": "man frowning",
   "fromVersion": "4.0",
   "glyph": "🙍‍♂️",

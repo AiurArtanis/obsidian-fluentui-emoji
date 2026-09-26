@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "face",
+    "face with tears of joy",
+    "joy",
+    "laugh",
+    "tear",
+    "笑哭了",
+    "笑哭",
+    "笑脸与情感"
+  ],
   "cldr": "face with tears of joy",
   "fromVersion": "0.6",
   "glyph": "😂",

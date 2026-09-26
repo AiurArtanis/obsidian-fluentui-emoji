@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "tiger",
+    "老虎脸",
+    "老虎头",
+    "动物与自然"
+  ],
   "cldr": "tiger face",
   "fromVersion": "0.6",
   "glyph": "🐯",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "swim",
+    "woman",
+    "woman swimming",
+    "游泳的女人",
+    "人物与身体"
+  ],
   "cldr": "woman swimming",
   "fromVersion": "4.0",
   "glyph": "🏊‍♀️",

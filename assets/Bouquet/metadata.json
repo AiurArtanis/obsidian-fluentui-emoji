@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bouquet",
+    "flower",
+    "花束",
+    "动物与自然"
+  ],
   "cldr": "bouquet",
   "fromVersion": "0.6",
   "glyph": "💐",

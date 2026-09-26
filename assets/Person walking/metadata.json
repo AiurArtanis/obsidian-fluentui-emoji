@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "hike",
+    "person walking",
+    "walk",
+    "walking",
+    "走路的人",
+    "步行的人",
+    "人物与身体"
+  ],
   "cldr": "person walking",
   "fromVersion": "0.6",
   "glyph": "🚶",

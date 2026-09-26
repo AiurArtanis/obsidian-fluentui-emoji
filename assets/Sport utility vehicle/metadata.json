@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "recreational",
+    "sport utility",
+    "sport utility vehicle",
+    "运动型多用途车",
+    "休旅车",
+    "旅行与地点"
+  ],
   "cldr": "sport utility vehicle",
   "fromVersion": "0.6",
   "glyph": "🚙",

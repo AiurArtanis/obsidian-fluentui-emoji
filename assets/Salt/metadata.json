@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "condiment",
+    "salt",
+    "shaker",
+    "盐",
+    "食盐",
+    "食物与饮品"
+  ],
   "cldr": "salt",
   "fromVersion": "11.0",
   "glyph": "🧂",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "earbud",
+    "headphone",
+    "耳机",
+    "头戴式耳机",
+    "物品"
+  ],
   "cldr": "headphone",
   "fromVersion": "0.6",
   "glyph": "🎧",

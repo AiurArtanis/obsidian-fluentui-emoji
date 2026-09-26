@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fishing",
+    "otter",
+    "playful",
+    "水獭",
+    "动物与自然"
+  ],
   "cldr": "otter",
   "fromVersion": "12.0",
   "glyph": "🦦",

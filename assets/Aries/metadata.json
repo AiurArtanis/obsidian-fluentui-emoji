@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Aries",
+    "ram",
+    "zodiac",
+    "白羊座",
+    "牡羊座",
+    "符号"
+  ],
   "cldr": "Aries",
   "fromVersion": "0.6",
   "glyph": "♈",

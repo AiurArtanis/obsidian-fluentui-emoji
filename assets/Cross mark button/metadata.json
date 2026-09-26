@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "×",
+    "cross mark button",
+    "mark",
+    "square",
+    "x",
+    "叉号按钮",
+    "方形叉号",
+    "符号"
+  ],
   "cldr": "cross mark button",
   "fromVersion": "0.6",
   "glyph": "❎",

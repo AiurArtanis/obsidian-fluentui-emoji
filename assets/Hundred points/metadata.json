@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "100",
+    "full",
+    "hundred",
+    "hundred points",
+    "score",
+    "一百分",
+    "满分",
+    "笑脸与情感"
+  ],
   "cldr": "hundred points",
   "fromVersion": "0.6",
   "glyph": "💯",

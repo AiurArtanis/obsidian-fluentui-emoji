@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "compass",
+    "magnetic",
+    "navigation",
+    "orienteering",
+    "指南针",
+    "旅行与地点"
+  ],
   "cldr": "compass",
   "fromVersion": "11.0",
   "glyph": "🧭",

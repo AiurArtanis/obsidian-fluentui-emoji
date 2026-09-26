@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bucket",
+    "cask",
+    "pail",
+    "vat",
+    "桶",
+    "水桶",
+    "物品"
+  ],
   "cldr": "bucket",
   "fromVersion": "13.0",
   "glyph": "🪣",

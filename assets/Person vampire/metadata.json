@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Dracula",
+    "undead",
+    "vampire",
+    "吸血鬼",
+    "吸血僵尸",
+    "人物与身体"
+  ],
   "cldr": "vampire",
   "fromVersion": "5.0",
   "glyph": "🧛",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "magic",
+    "magic wand",
+    "witch",
+    "wizard",
+    "魔法棒",
+    "活动"
+  ],
   "cldr": "magic wand",
   "fromVersion": "13.0",
   "glyph": "🪄",

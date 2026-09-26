@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bridge",
+    "bridge at night",
+    "night",
+    "夜幕下的桥",
+    "旅行与地点"
+  ],
   "cldr": "bridge at night",
   "fromVersion": "0.6",
   "glyph": "🌉",

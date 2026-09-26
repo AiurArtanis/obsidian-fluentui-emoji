@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "broom",
+    "cleaning",
+    "sweeping",
+    "witch",
+    "扫帚",
+    "笤帚",
+    "物品"
+  ],
   "cldr": "broom",
   "fromVersion": "11.0",
   "glyph": "🧹",

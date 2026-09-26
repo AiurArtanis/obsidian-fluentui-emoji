@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bone",
+    "chicken",
+    "drumstick",
+    "leg",
+    "poultry",
+    "鸡腿",
+    "家禽腿",
+    "食物与饮品"
+  ],
   "cldr": "poultry leg",
   "fromVersion": "0.6",
   "glyph": "🍗",

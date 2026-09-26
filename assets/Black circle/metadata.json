@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "black circle",
+    "circle",
+    "geometric",
+    "黑色圆圈",
+    "黑色圆",
+    "符号"
+  ],
   "cldr": "black circle",
   "fromVersion": "0.6",
   "glyph": "⚫",

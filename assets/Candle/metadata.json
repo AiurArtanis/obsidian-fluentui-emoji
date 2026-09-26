@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "candle",
+    "light",
+    "蜡烛",
+    "物品"
+  ],
   "cldr": "candle",
   "fromVersion": "0.7",
   "glyph": "🕯️",

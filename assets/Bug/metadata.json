@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bug",
+    "insect",
+    "毛毛虫",
+    "虫子",
+    "动物与自然"
+  ],
   "cldr": "bug",
   "fromVersion": "0.6",
   "glyph": "🐛",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "axe",
+    "chop",
+    "hatchet",
+    "split",
+    "wood",
+    "斧头",
+    "斧子",
+    "物品"
+  ],
   "cldr": "axe",
   "fromVersion": "12.0",
   "glyph": "🪓",

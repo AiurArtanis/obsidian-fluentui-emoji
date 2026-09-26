@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "checkered",
+    "chequered",
+    "chequered flag",
+    "racing",
+    "黑白方格旗",
+    "格子旗",
+    "旗帜"
+  ],
   "cldr": "chequered flag",
   "fromVersion": "0.6",
   "glyph": "🏁",

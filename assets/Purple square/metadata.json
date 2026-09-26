@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "purple",
+    "square",
+    "紫色方块",
+    "紫色正方形",
+    "符号"
+  ],
   "cldr": "purple square",
   "fromVersion": "12.0",
   "glyph": "🟪",

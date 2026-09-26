@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "chef",
+    "cook",
+    "woman",
+    "女厨师",
+    "人物与身体"
+  ],
   "cldr": "woman cook",
   "fromVersion": "4.0",
   "glyph": "👩‍🍳",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“acceptable”",
+    "ideograph",
+    "Japanese",
+    "Japanese “acceptable” button",
+    "可",
+    "日文可接受按钮",
+    "可接受",
+    "符号"
+  ],
   "cldr": "Japanese “acceptable” button",
   "fromVersion": "0.6",
   "glyph": "🉑",

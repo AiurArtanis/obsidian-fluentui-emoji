@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "corn",
+    "ear",
+    "ear of corn",
+    "maize",
+    "玉米",
+    "玉米棒",
+    "食物与饮品"
+  ],
   "cldr": "ear of corn",
   "fromVersion": "0.6",
   "glyph": "🌽",
@@ -10,8 +19,7 @@
     "corn",
     "ear",
     "ear of corn",
-    "maize",
-    "maze"
+    "maize"
   ],
   "mappedToEmoticons": [
     "1f33d_earofmaize"

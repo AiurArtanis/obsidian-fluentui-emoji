@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "needle",
+    "sewing",
+    "spool",
+    "string",
+    "thread",
+    "线",
+    "活动"
+  ],
   "cldr": "thread",
   "fromVersion": "11.0",
   "glyph": "🧵",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "upside-down",
+    "倒脸",
+    "颠倒的笑脸",
+    "笑脸与情感"
+  ],
   "cldr": "upside-down face",
   "fromVersion": "1.0",
   "glyph": "🙃",

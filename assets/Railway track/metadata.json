@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "railway",
+    "railway track",
+    "train",
+    "铁轨",
+    "铁路轨道",
+    "旅行与地点"
+  ],
   "cldr": "railway track",
   "fromVersion": "0.7",
   "glyph": "🛤️",

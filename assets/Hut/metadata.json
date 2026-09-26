@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "house",
+    "hut",
+    "roundhouse",
+    "yurt",
+    "小屋",
+    "茅屋",
+    "旅行与地点"
+  ],
   "cldr": "hut",
   "fromVersion": "13.0",
   "glyph": "🛖",

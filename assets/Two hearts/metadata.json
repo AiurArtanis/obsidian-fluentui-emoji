@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "love",
+    "two hearts",
+    "两颗心",
+    "心心相印",
+    "笑脸与情感"
+  ],
   "cldr": "two hearts",
   "fromVersion": "0.6",
   "glyph": "💕",

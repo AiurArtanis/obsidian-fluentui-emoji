@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "biceps",
+    "comic",
+    "flex",
+    "flexed biceps",
+    "muscle",
+    "肌肉",
+    "肱二头肌",
+    "人物与身体"
+  ],
   "cldr": "flexed biceps",
   "fromVersion": "0.6",
   "glyph": "💪",

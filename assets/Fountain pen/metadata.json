@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fountain",
+    "pen",
+    "钢笔",
+    "墨水笔",
+    "物品"
+  ],
   "cldr": "fountain pen",
   "fromVersion": "0.7",
   "glyph": "🖋️",

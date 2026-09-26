@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "purple",
+    "purple heart",
+    "紫心",
+    "紫色心",
+    "笑脸与情感"
+  ],
   "cldr": "purple heart",
   "fromVersion": "0.6",
   "glyph": "💜",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "person standing",
+    "stand",
+    "standing",
+    "站着的人",
+    "站立的人",
+    "人物与身体"
+  ],
   "cldr": "person standing",
   "fromVersion": "12.0",
   "glyph": "🧍",

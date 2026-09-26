@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "boat",
+    "resort",
+    "sailboat",
+    "sea",
+    "yacht",
+    "帆船",
+    "小帆船",
+    "旅行与地点"
+  ],
   "cldr": "sailboat",
   "fromVersion": "0.6",
   "glyph": "⛵",

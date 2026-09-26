@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "crossed-out eyes",
+    "dead",
+    "face",
+    "face with crossed-out eyes",
+    "knocked out",
+    "晕头转向",
+    "昏迷的脸",
+    "笑脸与情感"
+  ],
   "cldr": "knocked-out face",
   "fromVersion": "0.6",
   "glyph": "😵",

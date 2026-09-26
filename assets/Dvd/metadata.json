@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "blu-ray",
+    "computer",
+    "disk",
+    "dvd",
+    "optical",
+    "数字光盘",
+    "数字影碟",
+    "物品"
+  ],
   "cldr": "dvd",
   "fromVersion": "0.6",
   "glyph": "📀",

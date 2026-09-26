@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "boat",
+    "motor boat",
+    "motorboat",
+    "摩托艇",
+    "汽艇",
+    "旅行与地点"
+  ],
   "cldr": "motor boat",
   "fromVersion": "0.7",
   "glyph": "🛥️",

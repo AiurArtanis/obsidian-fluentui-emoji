@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "massage",
+    "person getting massage",
+    "salon",
+    "接受按摩的人",
+    "做面部按摩的人",
+    "人物与身体"
+  ],
   "cldr": "person getting massage",
   "fromVersion": "0.6",
   "glyph": "💆",

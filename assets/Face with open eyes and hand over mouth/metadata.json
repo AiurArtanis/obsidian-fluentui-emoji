@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "amazement",
+    "awe",
+    "disbelief",
+    "embarrass",
+    "face with open eyes and hand over mouth",
+    "scared",
+    "surprise",
+    "睁眼捂嘴",
+    "惊讶捂嘴",
+    "笑脸与情感"
+  ],
   "cldr": "face with open eyes and hand over mouth",
   "fromVersion": "14.0",
   "glyph": "🫢",

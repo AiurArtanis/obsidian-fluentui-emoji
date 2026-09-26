@@ -8,6 +8,14 @@
     "professor",
     "teacher"
   ],
+  "alias": [
+    "instructor",
+    "professor",
+    "teacher",
+    "老师",
+    "教师",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "personteacher"
   ],

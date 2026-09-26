@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bar",
+    "beer",
+    "clink",
+    "clinking beer mugs",
+    "drink",
+    "mug",
+    "干杯",
+    "碰杯",
+    "食物与饮品"
+  ],
   "cldr": "clinking beer mugs",
   "fromVersion": "0.6",
   "glyph": "🍻",

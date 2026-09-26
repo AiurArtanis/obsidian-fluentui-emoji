@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "honey",
+    "honeypot",
+    "pot",
+    "sweet",
+    "蜂蜜",
+    "蜂蜜罐",
+    "食物与饮品"
+  ],
   "cldr": "honey pot",
   "fromVersion": "0.6",
   "glyph": "🍯",

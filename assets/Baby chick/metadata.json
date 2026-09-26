@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "baby",
+    "bird",
+    "chick",
+    "小鸡",
+    "动物与自然"
+  ],
   "cldr": "baby chick",
   "fromVersion": "0.6",
   "glyph": "🐤",

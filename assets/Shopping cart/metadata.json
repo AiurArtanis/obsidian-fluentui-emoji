@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cart",
+    "shopping",
+    "trolley",
+    "购物车",
+    "超市推车",
+    "物品"
+  ],
   "cldr": "shopping cart",
   "fromVersion": "3.0",
   "glyph": "🛒",

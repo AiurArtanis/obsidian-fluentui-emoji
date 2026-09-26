@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "building",
+    "school",
+    "学校",
+    "校园",
+    "旅行与地点"
+  ],
   "cldr": "school",
   "fromVersion": "0.6",
   "glyph": "🏫",

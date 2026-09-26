@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "gorilla",
+    "大猩猩",
+    "动物与自然"
+  ],
   "cldr": "gorilla",
   "fromVersion": "3.0",
   "glyph": "🦍",

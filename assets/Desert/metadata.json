@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "desert",
+    "沙漠",
+    "旅行与地点"
+  ],
   "cldr": "desert",
   "fromVersion": "0.7",
   "glyph": "🏜️",

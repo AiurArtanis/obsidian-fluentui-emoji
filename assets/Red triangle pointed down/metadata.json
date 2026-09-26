@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "down",
+    "geometric",
+    "red",
+    "red triangle pointed down",
+    "红色倒三角",
+    "符号"
+  ],
   "cldr": "red triangle pointed down",
   "fromVersion": "0.6",
   "glyph": "🔻",

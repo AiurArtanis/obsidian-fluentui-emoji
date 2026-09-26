@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "carrot",
+    "food",
+    "vegetable",
+    "胡萝卜",
+    "食物与饮品"
+  ],
   "cldr": "carrot",
   "fromVersion": "3.0",
   "glyph": "🥕",

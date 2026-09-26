@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "black nib",
+    "nib",
+    "pen",
+    "钢笔尖",
+    "笔尖",
+    "物品"
+  ],
   "cldr": "black nib",
   "fromVersion": "0.6",
   "glyph": "✒️",

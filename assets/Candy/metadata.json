@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "candy",
+    "dessert",
+    "sweet",
+    "糖果",
+    "糖",
+    "食物与饮品"
+  ],
   "cldr": "candy",
   "fromVersion": "0.6",
   "glyph": "🍬",

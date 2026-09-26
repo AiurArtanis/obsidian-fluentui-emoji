@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "disappointed",
+    "face",
+    "失望",
+    "失望的脸",
+    "笑脸与情感"
+  ],
   "cldr": "disappointed face",
   "fromVersion": "0.6",
   "glyph": "😞",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "man",
+    "pilot",
+    "plane",
+    "男飞行员",
+    "人物与身体"
+  ],
   "cldr": "man pilot",
   "fromVersion": "4.0",
   "glyph": "👨‍✈️",

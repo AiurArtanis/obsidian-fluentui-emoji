@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "car",
+    "oncoming",
+    "police",
+    "迎面驶来的警车",
+    "旅行与地点"
+  ],
   "cldr": "oncoming police car",
   "fromVersion": "0.7",
   "glyph": "🚔",

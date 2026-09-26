@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bisque",
+    "claws",
+    "lobster",
+    "seafood",
+    "龙虾",
+    "大龙虾",
+    "食物与饮品"
+  ],
   "cldr": "lobster",
   "fromVersion": "11.0",
   "glyph": "🦞",

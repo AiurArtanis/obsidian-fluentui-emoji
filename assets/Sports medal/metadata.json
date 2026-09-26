@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "medal",
+    "sports medal",
+    "运动奖牌",
+    "活动"
+  ],
   "cldr": "sports medal",
   "fromVersion": "1.0",
   "glyph": "🏅",

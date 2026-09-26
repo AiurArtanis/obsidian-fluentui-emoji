@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "×",
+    "cancel",
+    "cross",
+    "mark",
+    "multiplication",
+    "multiply",
+    "x",
+    "叉号",
+    "错误标记",
+    "符号"
+  ],
   "cldr": "cross mark",
   "fromVersion": "0.6",
   "glyph": "❌",

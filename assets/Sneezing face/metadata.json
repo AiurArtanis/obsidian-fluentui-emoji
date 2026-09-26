@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "gesundheit",
+    "sneeze",
+    "sneezing face",
+    "打喷嚏",
+    "喷嚏脸",
+    "笑脸与情感"
+  ],
   "cldr": "sneezing face",
   "fromVersion": "3.0",
   "glyph": "🤧",

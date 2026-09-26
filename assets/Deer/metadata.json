@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "deer",
+    "鹿",
+    "动物与自然"
+  ],
   "cldr": "deer",
   "fromVersion": "3.0",
   "glyph": "🦌",

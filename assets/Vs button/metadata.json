@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "versus",
+    "vs",
+    "VS button",
+    "VS按钮",
+    "对战",
+    "符号"
+  ],
   "cldr": "VS button",
   "fromVersion": "0.6",
   "glyph": "🆚",

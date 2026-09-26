@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "aeroplane",
+    "airplane",
+    "check-in",
+    "departure",
+    "departures",
+    "航班起飞",
+    "旅行与地点"
+  ],
   "cldr": "airplane departure",
   "fromVersion": "1.0",
   "glyph": "🛫",

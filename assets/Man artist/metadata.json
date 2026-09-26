@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "artist",
+    "man",
+    "palette",
+    "男艺术家",
+    "人物与身体"
+  ],
   "cldr": "man artist",
   "fromVersion": "4.0",
   "glyph": "👨‍🎨",

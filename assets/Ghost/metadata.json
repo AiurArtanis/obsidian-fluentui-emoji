@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "ghost",
+    "monster",
+    "鬼",
+    "幽灵",
+    "笑脸与情感"
+  ],
   "cldr": "ghost",
   "fromVersion": "0.6",
   "glyph": "👻",

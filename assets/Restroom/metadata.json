@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "lavatory",
+    "restroom",
+    "WC",
+    "卫生间",
+    "厕所",
+    "符号"
+  ],
   "cldr": "restroom",
   "fromVersion": "0.6",
   "glyph": "🚻",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "frowning",
+    "gesture",
+    "woman",
+    "皱眉的女人",
+    "人物与身体"
+  ],
   "cldr": "woman frowning",
   "fromVersion": "4.0",
   "glyph": "🙍‍♀️",

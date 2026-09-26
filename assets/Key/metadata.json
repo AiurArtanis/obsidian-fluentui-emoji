@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "key",
+    "lock",
+    "password",
+    "钥匙",
+    "物品"
+  ],
   "cldr": "key",
   "fromVersion": "0.6",
   "glyph": "🔑",

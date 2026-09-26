@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "hourglass done",
+    "sand",
+    "timer",
+    "沙漏",
+    "旅行与地点"
+  ],
   "cldr": "hourglass done",
   "fromVersion": "0.6",
   "glyph": "⌛",

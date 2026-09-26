@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "flying disc",
+    "ultimate",
+    "飞盘",
+    "活动"
+  ],
   "cldr": "flying disc",
   "fromVersion": "11.0",
   "glyph": "🥏",

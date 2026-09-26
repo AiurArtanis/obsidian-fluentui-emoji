@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "?",
+    "mark",
+    "outlined",
+    "punctuation",
+    "question",
+    "white question mark",
+    "白色问号",
+    "符号"
+  ],
   "cldr": "white question mark",
   "fromVersion": "0.6",
   "glyph": "❔",

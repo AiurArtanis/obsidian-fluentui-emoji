@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dash",
+    "punctuation",
+    "wavy",
+    "波浪型破折号",
+    "波浪线",
+    "符号"
+  ],
   "cldr": "wavy dash",
   "fromVersion": "0.6",
   "glyph": "〰️",

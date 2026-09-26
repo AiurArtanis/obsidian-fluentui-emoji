@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "boat",
+    "ferry",
+    "passenger",
+    "渡轮",
+    "旅行与地点"
+  ],
   "cldr": "ferry",
   "fromVersion": "0.7",
   "glyph": "⛴️",

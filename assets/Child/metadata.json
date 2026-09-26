@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "child",
+    "gender-neutral",
+    "unspecified gender",
+    "young",
+    "儿童",
+    "孩子",
+    "人物与身体"
+  ],
   "cldr": "child",
   "fromVersion": "5.0",
   "glyph": "🧒",

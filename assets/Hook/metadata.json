@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "catch",
+    "crook",
+    "curve",
+    "ensnare",
+    "hook",
+    "selling point",
+    "挂钩",
+    "钩子",
+    "物品"
+  ],
   "cldr": "hook",
   "fromVersion": "13.0",
   "glyph": "🪝",

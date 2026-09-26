@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "wink",
+    "winking face",
+    "眨眼",
+    "抛媚眼",
+    "笑脸与情感"
+  ],
   "cldr": "winking face",
   "fromVersion": "0.6",
   "glyph": "😉",

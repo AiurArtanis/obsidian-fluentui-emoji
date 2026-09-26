@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "weight lifter",
+    "woman",
+    "woman lifting weights",
+    "举重的女人",
+    "举杠铃的女人",
+    "人物与身体"
+  ],
   "cldr": "woman lifting weights",
   "fromVersion": "4.0",
   "glyph": "🏋️‍♀️",

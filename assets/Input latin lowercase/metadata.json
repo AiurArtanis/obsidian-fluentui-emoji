@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "abcd",
+    "input",
+    "latin",
+    "letters",
+    "lowercase",
+    "输入小写拉丁字母",
+    "小写字母输入",
+    "符号"
+  ],
   "cldr": "input latin lowercase",
   "fromVersion": "0.6",
   "glyph": "🔡",

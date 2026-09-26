@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "last track button",
+    "previous scene",
+    "previous track",
+    "triangle",
+    "上一音轨按钮",
+    "上一曲",
+    "符号"
+  ],
   "cldr": "last track button",
   "fromVersion": "0.7",
   "glyph": "⏮️",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "curly hair",
+    "man",
+    "卷发男人",
+    "人物与身体"
+  ],
   "cldr": "man: curly hair",
   "fromVersion": "11.0",
   "glyph": "👨‍🦱",

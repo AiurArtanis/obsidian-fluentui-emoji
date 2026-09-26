@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "full",
+    "moon",
+    "满月",
+    "旅行与地点"
+  ],
   "cldr": "full moon",
   "fromVersion": "0.6",
   "glyph": "🌕",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "apology",
+    "bowing",
+    "favor",
+    "gesture",
+    "sorry",
+    "woman",
+    "鞠躬的女人",
+    "行礼的女人",
+    "人物与身体"
+  ],
   "cldr": "woman bowing",
   "fromVersion": "4.0",
   "glyph": "🙇‍♀️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "frankfurter",
+    "hot dog",
+    "hotdog",
+    "sausage",
+    "热狗",
+    "食物与饮品"
+  ],
   "cldr": "hot dog",
   "fromVersion": "1.0",
   "glyph": "🌭",

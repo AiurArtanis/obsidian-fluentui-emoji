@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "yellow",
+    "yellow heart",
+    "黄心",
+    "黄色心",
+    "笑脸与情感"
+  ],
   "cldr": "yellow heart",
   "fromVersion": "0.6",
   "glyph": "💛",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "aeroplane",
+    "airplane",
+    "small airplane",
+    "小型飞机",
+    "小飞机",
+    "旅行与地点"
+  ],
   "cldr": "small airplane",
   "fromVersion": "0.7",
   "glyph": "🛩️",

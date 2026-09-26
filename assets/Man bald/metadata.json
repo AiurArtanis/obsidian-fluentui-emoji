@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "bald",
+    "man",
+    "秃顶男人",
+    "人物与身体"
+  ],
   "cldr": "man: bald",
   "fromVersion": "11.0",
   "glyph": "👨‍🦲",

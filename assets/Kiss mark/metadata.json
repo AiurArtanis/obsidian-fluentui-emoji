@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "kiss",
+    "kiss mark",
+    "lips",
+    "唇印",
+    "笑脸与情感"
+  ],
   "cldr": "kiss mark",
   "fromVersion": "0.6",
   "glyph": "💋",

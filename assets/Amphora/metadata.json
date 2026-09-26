@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "amphora",
+    "Aquarius",
+    "cooking",
+    "drink",
+    "jug",
+    "zodiac",
+    "双耳瓶",
+    "双耳陶罐",
+    "食物与饮品"
+  ],
   "cldr": "amphora",
   "fromVersion": "1.0",
   "glyph": "🏺",

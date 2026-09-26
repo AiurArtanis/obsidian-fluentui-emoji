@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "basket",
+    "farming",
+    "laundry",
+    "picnic",
+    "篮子",
+    "筐",
+    "物品"
+  ],
   "cldr": "basket",
   "fromVersion": "11.0",
   "glyph": "🧺",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "eight",
+    "按键 8",
+    "数字键 8",
+    "符号"
+  ],
   "cldr": "keycap: 8",
   "fromVersion": "0.6",
   "glyph": "8️⃣",

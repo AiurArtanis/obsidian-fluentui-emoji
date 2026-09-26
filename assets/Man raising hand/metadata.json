@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "gesture",
+    "man",
+    "man raising hand",
+    "raising hand",
+    "男生举手",
+    "举手的男人",
+    "人物与身体"
+  ],
   "cldr": "man raising hand",
   "fromVersion": "4.0",
   "glyph": "🙋‍♂️",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "deaf",
+    "man",
+    "失聪的男人",
+    "人物与身体"
+  ],
   "cldr": "deaf man",
   "fromVersion": "12.0",
   "glyph": "🧏‍♂️",

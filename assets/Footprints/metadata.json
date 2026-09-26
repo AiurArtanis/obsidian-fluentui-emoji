@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clothing",
+    "footprint",
+    "footprints",
+    "print",
+    "脚印",
+    "足迹",
+    "人物与身体"
+  ],
   "cldr": "footprints",
   "fromVersion": "0.6",
   "glyph": "👣",

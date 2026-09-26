@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "id",
+    "ID button",
+    "identity",
+    "ID 按钮",
+    "身份标识",
+    "符号"
+  ],
   "cldr": "ID button",
   "fromVersion": "0.6",
   "glyph": "🆔",

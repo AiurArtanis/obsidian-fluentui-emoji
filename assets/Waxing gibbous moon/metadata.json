@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "gibbous",
+    "moon",
+    "waxing",
+    "盈凸月",
+    "旅行与地点"
+  ],
   "cldr": "waxing gibbous moon",
   "fromVersion": "0.6",
   "glyph": "🌔",

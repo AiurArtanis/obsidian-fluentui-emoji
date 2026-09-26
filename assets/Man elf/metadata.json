@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "magical",
+    "man elf",
+    "男小精灵",
+    "人物与身体"
+  ],
   "cldr": "man elf",
   "fromVersion": "5.0",
   "glyph": "🧝‍♂️",

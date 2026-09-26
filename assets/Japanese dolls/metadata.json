@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "celebration",
+    "doll",
+    "festival",
+    "Japanese",
+    "Japanese dolls",
+    "日本人偶",
+    "活动"
+  ],
   "cldr": "Japanese dolls",
   "fromVersion": "0.6",
   "glyph": "🎎",

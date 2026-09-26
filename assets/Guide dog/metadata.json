@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "blind",
+    "guide",
+    "guide dog",
+    "导盲犬",
+    "动物与自然"
+  ],
   "cldr": "guide dog",
   "fromVersion": "12.0",
   "glyph": "🦮",

@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "cow",
+    "奶牛",
+    "动物与自然"
+  ],
   "cldr": "cow",
   "fromVersion": "1.0",
   "glyph": "🐄",

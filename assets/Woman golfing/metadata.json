@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "golf",
+    "woman",
+    "woman golfing",
+    "打高尔夫球的女人",
+    "人物与身体"
+  ],
   "cldr": "woman golfing",
   "fromVersion": "4.0",
   "glyph": "🏌️‍♀️",

@@ -1,4 +1,15 @@
 {
+	"alias": [
+		"animal",
+		"ass",
+		"burro",
+		"donkey",
+		"mammal",
+		"mule",
+		"stubborn",
+		"驴",
+		"动物与自然"
+	],
 	"cldr": "donkey",
 	"fromVersion": "15.0",
 	"glyph": "🫏",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "fruit",
+    "tomato",
+    "vegetable",
+    "西红柿",
+    "番茄",
+    "食物与饮品"
+  ],
   "cldr": "tomato",
   "fromVersion": "0.6",
   "glyph": "🍅",

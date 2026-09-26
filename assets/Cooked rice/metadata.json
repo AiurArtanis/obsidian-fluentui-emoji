@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cooked",
+    "rice",
+    "米饭",
+    "白米饭",
+    "食物与饮品"
+  ],
   "cldr": "cooked rice",
   "fromVersion": "0.6",
   "glyph": "🍚",

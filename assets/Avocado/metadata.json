@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "avocado",
+    "food",
+    "fruit",
+    "鳄梨",
+    "牛油果",
+    "食物与饮品"
+  ],
   "cldr": "avocado",
   "fromVersion": "3.0",
   "glyph": "🥑",

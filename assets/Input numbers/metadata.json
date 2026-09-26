@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "1234",
+    "input",
+    "numbers",
+    "输入数字",
+    "数字输入",
+    "符号"
+  ],
   "cldr": "input numbers",
   "fromVersion": "0.6",
   "glyph": "🔢",

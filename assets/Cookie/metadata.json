@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cookie",
+    "dessert",
+    "sweet",
+    "饼干",
+    "曲奇",
+    "食物与饮品"
+  ],
   "cldr": "cookie",
   "fromVersion": "0.6",
   "glyph": "🍪",

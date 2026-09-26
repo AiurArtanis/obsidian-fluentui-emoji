@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "closed",
+    "closed mailbox with lowered flag",
+    "lowered",
+    "mail",
+    "mailbox",
+    "postbox",
+    "降旗的关闭邮筒",
+    "无待收信件",
+    "物品"
+  ],
   "cldr": "closed mailbox with lowered flag",
   "fromVersion": "0.6",
   "glyph": "📪",

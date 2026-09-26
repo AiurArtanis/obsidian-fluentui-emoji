@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dotted six-pointed star",
+    "fortune",
+    "star",
+    "带中间点的六芒星",
+    "六角星",
+    "符号"
+  ],
   "cldr": "dotted six-pointed star",
   "fromVersion": "0.6",
   "glyph": "🔯",

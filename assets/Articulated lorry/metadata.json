@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "articulated lorry",
+    "lorry",
+    "semi",
+    "truck",
+    "铰接式货车",
+    "半挂车",
+    "旅行与地点"
+  ],
   "cldr": "articulated lorry",
   "fromVersion": "1.0",
   "glyph": "🚛",

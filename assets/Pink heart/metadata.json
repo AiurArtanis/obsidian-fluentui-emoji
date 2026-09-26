@@ -1,4 +1,14 @@
 {
+	"alias": [
+		"cute",
+		"heart",
+		"like",
+		"love",
+		"pink",
+		"粉色心",
+		"粉红心",
+		"笑脸与情感"
+	],
 	"cldr": "pink heart",
 	"fromVersion": "15.0",
 	"glyph": "🩷",

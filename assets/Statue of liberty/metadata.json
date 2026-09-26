@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "liberty",
+    "statue",
+    "Statue of Liberty",
+    "自由女神像",
+    "旅行与地点"
+  ],
   "cldr": "Statue of Liberty",
   "fromVersion": "0.6",
   "glyph": "🗽",

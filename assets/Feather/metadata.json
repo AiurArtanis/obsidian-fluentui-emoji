@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bird",
+    "feather",
+    "flight",
+    "light",
+    "plumage",
+    "羽毛",
+    "动物与自然"
+  ],
   "cldr": "feather",
   "fromVersion": "13.0",
   "glyph": "🪶",

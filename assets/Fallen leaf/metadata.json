@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fallen leaf",
+    "falling",
+    "leaf",
+    "落叶",
+    "动物与自然"
+  ],
   "cldr": "fallen leaf",
   "fromVersion": "0.6",
   "glyph": "🍂",

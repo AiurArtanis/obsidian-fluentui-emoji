@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "zero",
+    "按键 0",
+    "数字键 0",
+    "符号"
+  ],
   "cldr": "keycap: 0",
   "fromVersion": "0.6",
   "glyph": "0️⃣",

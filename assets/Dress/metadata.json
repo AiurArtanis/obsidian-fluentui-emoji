@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "clothing",
+    "dress",
+    "连衣裙",
+    "裙子",
+    "物品"
+  ],
   "cldr": "dress",
   "fromVersion": "0.6",
   "glyph": "👗",

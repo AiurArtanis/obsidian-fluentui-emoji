@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bleed",
+    "blood donation",
+    "drop of blood",
+    "injury",
+    "medicine",
+    "menstruation",
+    "血滴",
+    "一滴血",
+    "物品"
+  ],
   "cldr": "drop of blood",
   "fromVersion": "12.0",
   "glyph": "🩸",

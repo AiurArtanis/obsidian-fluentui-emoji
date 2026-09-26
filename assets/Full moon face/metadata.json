@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bright",
+    "face",
+    "full",
+    "moon",
+    "微笑的月亮",
+    "旅行与地点"
+  ],
   "cldr": "full moon face",
   "fromVersion": "1.0",
   "glyph": "🌝",

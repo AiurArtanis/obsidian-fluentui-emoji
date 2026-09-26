@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ape",
+    "orangutan",
+    "红毛猩猩",
+    "猩猩",
+    "动物与自然"
+  ],
   "cldr": "orangutan",
   "fromVersion": "12.0",
   "glyph": "🦧",

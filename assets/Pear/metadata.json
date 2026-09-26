@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fruit",
+    "pear",
+    "梨",
+    "梨子",
+    "食物与饮品"
+  ],
   "cldr": "pear",
   "fromVersion": "1.0",
   "glyph": "🍐",

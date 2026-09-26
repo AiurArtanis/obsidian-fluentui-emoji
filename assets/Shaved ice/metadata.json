@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "dessert",
+    "ice",
+    "shaved",
+    "sweet",
+    "刨冰",
+    "沙冰",
+    "食物与饮品"
+  ],
   "cldr": "shaved ice",
   "fromVersion": "0.6",
   "glyph": "🍧",

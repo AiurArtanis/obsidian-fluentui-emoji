@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "paper towels",
+    "roll of paper",
+    "toilet paper",
+    "卷纸",
+    "卫生纸",
+    "物品"
+  ],
   "cldr": "roll of paper",
   "fromVersion": "11.0",
   "glyph": "🧻",

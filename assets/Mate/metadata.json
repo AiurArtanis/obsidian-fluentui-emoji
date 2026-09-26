@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "drink",
+    "mate",
+    "马黛茶",
+    "巴拉圭茶",
+    "食物与饮品"
+  ],
   "cldr": "mate",
   "fromVersion": "12.0",
   "glyph": "🧉",

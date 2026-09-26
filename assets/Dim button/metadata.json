@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "brightness",
+    "dim",
+    "dim button",
+    "low",
+    "低亮度按钮",
+    "调暗按钮",
+    "符号"
+  ],
   "cldr": "dim button",
   "fromVersion": "1.0",
   "glyph": "🔅",

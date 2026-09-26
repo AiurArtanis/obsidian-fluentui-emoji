@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "Africa",
+    "earth",
+    "Europe",
+    "globe",
+    "globe showing Europe-Africa",
+    "world",
+    "地球上的欧洲非洲",
+    "旅行与地点"
+  ],
   "cldr": "globe showing Europe-Africa",
   "fromVersion": "0.7",
   "glyph": "🌍",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mining",
+    "pick",
+    "tool",
+    "铁镐",
+    "采矿镐",
+    "物品"
+  ],
   "cldr": "pick",
   "fromVersion": "0.7",
   "glyph": "⛏️",

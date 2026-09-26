@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "cricket",
+    "grasshopper",
+    "蟋蟀",
+    "动物与自然"
+  ],
   "cldr": "cricket",
   "fromVersion": "5.0",
   "glyph": "🦗",

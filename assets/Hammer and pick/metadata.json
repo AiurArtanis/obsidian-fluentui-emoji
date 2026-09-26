@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "hammer",
+    "hammer and pick",
+    "pick",
+    "tool",
+    "锤子与铁镐",
+    "锤镐",
+    "物品"
+  ],
   "cldr": "hammer and pick",
   "fromVersion": "1.0",
   "glyph": "⚒️",

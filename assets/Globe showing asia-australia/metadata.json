@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "Asia",
+    "Australia",
+    "earth",
+    "globe",
+    "globe showing Asia-Australia",
+    "world",
+    "地球上的亚洲澳洲",
+    "旅行与地点"
+  ],
   "cldr": "globe showing Asia-Australia",
   "fromVersion": "0.6",
   "glyph": "🌏",

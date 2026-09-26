@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "lizard",
+    "reptile",
+    "蜥蜴",
+    "动物与自然"
+  ],
   "cldr": "lizard",
   "fromVersion": "3.0",
   "glyph": "🦎",

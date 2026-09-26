@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“reserved”",
+    "ideograph",
+    "Japanese",
+    "Japanese “reserved” button",
+    "指",
+    "日文预留按钮",
+    "预订",
+    "符号"
+  ],
   "cldr": "Japanese “reserved” button",
   "fromVersion": "0.6",
   "glyph": "🈯",

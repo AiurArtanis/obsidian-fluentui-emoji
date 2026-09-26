@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "adult",
+    "red hair",
+    "woman",
+    "红发女人",
+    "红色头发的女人",
+    "人物与身体"
+  ],
   "cldr": "woman: red hair",
   "fromVersion": "11.0",
   "glyph": "👩‍🦰",

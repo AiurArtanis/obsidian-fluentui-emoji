@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "anchor",
+    "ship",
+    "tool",
+    "锚",
+    "船锚",
+    "旅行与地点"
+  ],
   "cldr": "anchor",
   "fromVersion": "0.6",
   "glyph": "⚓",

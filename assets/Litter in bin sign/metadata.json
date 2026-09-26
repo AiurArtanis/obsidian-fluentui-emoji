@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "litter",
+    "litter bin",
+    "litter in bin sign",
+    "倒垃圾",
+    "垃圾入桶标志",
+    "符号"
+  ],
   "cldr": "litter in bin sign",
   "fromVersion": "1.0",
   "glyph": "🚮",

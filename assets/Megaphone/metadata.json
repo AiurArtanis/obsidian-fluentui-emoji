@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cheering",
+    "megaphone",
+    "扩音器",
+    "喇叭筒",
+    "物品"
+  ],
   "cldr": "megaphone",
   "fromVersion": "0.6",
   "glyph": "📣",

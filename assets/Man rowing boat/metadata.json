@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "boat",
+    "man",
+    "man rowing boat",
+    "rowboat",
+    "男生划船",
+    "划船的男人",
+    "人物与身体"
+  ],
   "cldr": "man rowing boat",
   "fromVersion": "4.0",
   "glyph": "🚣‍♂️",

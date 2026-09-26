@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "celebration",
+    "cross",
+    "crossed",
+    "crossed flags",
+    "Japanese",
+    "交叉旗",
+    "旗帜"
+  ],
   "cldr": "crossed flags",
   "fromVersion": "0.6",
   "glyph": "🎌",

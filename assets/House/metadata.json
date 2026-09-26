@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "home",
+    "house",
+    "房子",
+    "住宅",
+    "旅行与地点"
+  ],
   "cldr": "house",
   "fromVersion": "0.6",
   "glyph": "🏠",

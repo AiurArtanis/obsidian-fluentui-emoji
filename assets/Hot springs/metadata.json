@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "hot",
+    "hotsprings",
+    "springs",
+    "steaming",
+    "温泉",
+    "旅行与地点"
+  ],
   "cldr": "hot springs",
   "fromVersion": "0.6",
   "glyph": "♨️",

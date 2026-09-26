@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "black medium-small square",
+    "geometric",
+    "square",
+    "黑色中小方块",
+    "黑色中偏小方块",
+    "符号"
+  ],
   "cldr": "black medium-small square",
   "fromVersion": "0.6",
   "glyph": "◾",

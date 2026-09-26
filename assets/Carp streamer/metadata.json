@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "carp",
+    "celebration",
+    "streamer",
+    "鲤鱼旗",
+    "活动"
+  ],
   "cldr": "carp streamer",
   "fromVersion": "0.6",
   "glyph": "🎏",

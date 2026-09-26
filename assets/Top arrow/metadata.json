@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "top",
+    "TOP arrow",
+    "up",
+    "置顶",
+    "置顶箭头",
+    "符号"
+  ],
   "cldr": "TOP arrow",
   "fromVersion": "0.6",
   "glyph": "🔝",

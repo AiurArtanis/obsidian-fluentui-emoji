@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "neck",
+    "scarf",
+    "围巾",
+    "围脖",
+    "物品"
+  ],
   "cldr": "scarf",
   "fromVersion": "5.0",
   "glyph": "🧣",

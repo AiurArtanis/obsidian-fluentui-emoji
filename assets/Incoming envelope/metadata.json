@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "e-mail",
+    "email",
+    "envelope",
+    "incoming",
+    "letter",
+    "receive",
+    "来信",
+    "收到的信封",
+    "物品"
+  ],
   "cldr": "incoming envelope",
   "fromVersion": "0.6",
   "glyph": "📨",

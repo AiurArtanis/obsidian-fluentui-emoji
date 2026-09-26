@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "judge",
+    "justice",
+    "man",
+    "scales",
+    "男法官",
+    "人物与身体"
+  ],
   "cldr": "man judge",
   "fromVersion": "4.0",
   "glyph": "👨‍⚖️",

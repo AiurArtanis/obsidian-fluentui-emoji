@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "desert",
+    "island",
+    "无人荒岛",
+    "荒岛",
+    "旅行与地点"
+  ],
   "cldr": "desert island",
   "fromVersion": "0.7",
   "glyph": "🏝️",

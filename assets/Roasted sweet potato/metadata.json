@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "potato",
+    "roasted",
+    "sweet",
+    "烤红薯",
+    "烤地瓜",
+    "食物与饮品"
+  ],
   "cldr": "roasted sweet potato",
   "fromVersion": "0.6",
   "glyph": "🍠",

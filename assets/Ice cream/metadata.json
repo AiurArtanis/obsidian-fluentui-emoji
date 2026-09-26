@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cream",
+    "dessert",
+    "ice",
+    "sweet",
+    "冰淇淋",
+    "冰激凌",
+    "食物与饮品"
+  ],
   "cldr": "ice cream",
   "fromVersion": "0.6",
   "glyph": "🍨",

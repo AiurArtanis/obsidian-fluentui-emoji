@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "paper",
+    "scroll",
+    "卷轴",
+    "物品"
+  ],
   "cldr": "scroll",
   "fromVersion": "0.6",
   "glyph": "📜",

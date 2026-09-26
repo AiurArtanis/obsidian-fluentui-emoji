@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bar",
+    "beverage",
+    "bottle",
+    "cup",
+    "drink",
+    "sake",
+    "清酒",
+    "日本酒",
+    "食物与饮品"
+  ],
   "cldr": "sake",
   "fromVersion": "0.6",
   "glyph": "🍶",

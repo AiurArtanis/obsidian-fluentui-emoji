@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "2",
+    "2:30",
+    "clock",
+    "thirty",
+    "two",
+    "two-thirty",
+    "两点半",
+    "旅行与地点"
+  ],
   "cldr": "two-thirty",
   "fromVersion": "0.7",
   "glyph": "🕝",

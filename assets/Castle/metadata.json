@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "castle",
+    "European",
+    "欧洲城堡",
+    "旅行与地点"
+  ],
   "cldr": "castle",
   "fromVersion": "0.6",
   "glyph": "🏰",

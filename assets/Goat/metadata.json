@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "Capricorn",
+    "goat",
+    "zodiac",
+    "山羊",
+    "动物与自然"
+  ],
   "cldr": "goat",
   "fromVersion": "1.0",
   "glyph": "🐐",

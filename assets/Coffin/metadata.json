@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "coffin",
+    "death",
+    "棺材",
+    "灵柩",
+    "物品"
+  ],
   "cldr": "coffin",
   "fromVersion": "1.0",
   "glyph": "⚰️",

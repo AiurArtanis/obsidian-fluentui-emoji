@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "athletics",
+    "running",
+    "sash",
+    "shirt",
+    "运动衫",
+    "活动"
+  ],
   "cldr": "running shirt",
   "fromVersion": "0.6",
   "glyph": "🎽",

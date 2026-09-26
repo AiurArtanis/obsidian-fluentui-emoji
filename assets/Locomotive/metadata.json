@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "engine",
+    "locomotive",
+    "railway",
+    "steam",
+    "train",
+    "蒸汽火车",
+    "蒸汽机车",
+    "旅行与地点"
+  ],
   "cldr": "locomotive",
   "fromVersion": "1.0",
   "glyph": "🚂",

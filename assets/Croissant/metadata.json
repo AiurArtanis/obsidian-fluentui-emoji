@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bread",
+    "breakfast",
+    "croissant",
+    "food",
+    "french",
+    "roll",
+    "羊角面包",
+    "可颂",
+    "食物与饮品"
+  ],
   "cldr": "croissant",
   "fromVersion": "3.0",
   "glyph": "🥐",

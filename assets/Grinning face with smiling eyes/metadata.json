@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "eye",
+    "face",
+    "grinning face with smiling eyes",
+    "mouth",
+    "open",
+    "smile",
+    "大笑",
+    "眉开眼笑",
+    "笑脸与情感"
+  ],
   "cldr": "grinning face with smiling eyes",
   "fromVersion": "0.6",
   "glyph": "😄",

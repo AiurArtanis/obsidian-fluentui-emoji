@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "empty nest",
+    "nesting",
+    "空巢",
+    "动物与自然"
+  ],
   "cldr": "empty nest",
   "fromVersion": "14.0",
   "glyph": "🪹",

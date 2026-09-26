@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "man",
+    "man in manual wheelchair",
+    "wheelchair",
+    "坐手动轮椅的男人",
+    "人物与身体"
+  ],
   "cldr": "man in manual wheelchair",
   "fromVersion": "12.0",
   "glyph": "👨‍🦽",

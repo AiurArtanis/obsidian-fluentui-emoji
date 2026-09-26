@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "blue",
+    "diamond",
+    "geometric",
+    "large blue diamond",
+    "蓝色大菱形",
+    "大号蓝菱形",
+    "符号"
+  ],
   "cldr": "large blue diamond",
   "fromVersion": "0.6",
   "glyph": "🔷",

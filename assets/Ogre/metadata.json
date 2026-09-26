@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "ogre",
+    "食人魔",
+    "恶鬼",
+    "笑脸与情感"
+  ],
   "cldr": "ogre",
   "fromVersion": "0.6",
   "glyph": "👹",

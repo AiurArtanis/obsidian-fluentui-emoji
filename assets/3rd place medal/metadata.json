@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "3rd place medal",
+    "bronze",
+    "medal",
+    "third",
+    "铜牌",
+    "活动"
+  ],
   "cldr": "3rd place medal",
   "fromVersion": "3.0",
   "glyph": "🥉",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mexican",
+    "tamale",
+    "wrapped",
+    "墨西哥粽子",
+    "玉米粉蒸肉",
+    "食物与饮品"
+  ],
   "cldr": "tamale",
   "fromVersion": "13.0",
   "glyph": "🫔",

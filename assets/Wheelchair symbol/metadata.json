@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "access",
+    "wheelchair symbol",
+    "轮椅标识",
+    "无障碍通道",
+    "符号"
+  ],
   "cldr": "wheelchair symbol",
   "fromVersion": "0.6",
   "glyph": "♿",

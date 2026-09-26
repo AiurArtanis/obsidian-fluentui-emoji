@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "card",
+    "diamond suit",
+    "game",
+    "方块",
+    "活动"
+  ],
   "cldr": "diamond suit",
   "fromVersion": "0.6",
   "glyph": "♦️",

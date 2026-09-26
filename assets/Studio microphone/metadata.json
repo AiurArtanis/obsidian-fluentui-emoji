@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "mic",
+    "microphone",
+    "music",
+    "studio",
+    "录音室麦克风",
+    "录音麦克风",
+    "物品"
+  ],
   "cldr": "studio microphone",
   "fromVersion": "0.7",
   "glyph": "🎙️",

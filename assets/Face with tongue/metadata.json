@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "face with tongue",
+    "tongue",
+    "吐舌",
+    "伸舌头",
+    "笑脸与情感"
+  ],
   "cldr": "face with tongue",
   "fromVersion": "1.0",
   "glyph": "😛",

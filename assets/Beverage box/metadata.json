@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "beverage",
+    "box",
+    "juice",
+    "straw",
+    "sweet",
+    "饮料盒",
+    "果汁盒",
+    "食物与饮品"
+  ],
   "cldr": "beverage box",
   "fromVersion": "12.0",
   "glyph": "🧃",

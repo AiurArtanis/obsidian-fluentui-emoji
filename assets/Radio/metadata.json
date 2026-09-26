@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "radio",
+    "video",
+    "收音机",
+    "物品"
+  ],
   "cldr": "radio",
   "fromVersion": "0.6",
   "glyph": "📻",

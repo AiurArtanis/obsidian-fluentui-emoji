@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "koala",
+    "face",
+    "marsupial",
+    "考拉",
+    "树袋熊",
+    "动物与自然"
+  ],
   "cldr": "koala",
   "fromVersion": "0.6",
   "glyph": "🐨",

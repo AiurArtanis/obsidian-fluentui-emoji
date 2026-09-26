@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "admission",
+    "admission tickets",
+    "ticket",
+    "入场券",
+    "门票",
+    "活动"
+  ],
   "cldr": "admission tickets",
   "fromVersion": "0.7",
   "glyph": "🎟️",

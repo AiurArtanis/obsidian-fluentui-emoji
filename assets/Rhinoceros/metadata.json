@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "rhinoceros",
+    "犀牛",
+    "动物与自然"
+  ],
   "cldr": "rhinoceros",
   "fromVersion": "3.0",
   "glyph": "🦏",

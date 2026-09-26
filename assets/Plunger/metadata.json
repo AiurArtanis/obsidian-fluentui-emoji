@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "force cup",
+    "plumber",
+    "plunger",
+    "suction",
+    "toilet",
+    "马桶搋子",
+    "搋子",
+    "物品"
+  ],
   "cldr": "plunger",
   "fromVersion": "13.0",
   "glyph": "🪠",

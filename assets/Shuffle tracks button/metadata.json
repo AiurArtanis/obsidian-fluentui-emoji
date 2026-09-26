@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "arrow",
+    "crossed",
+    "shuffle tracks button",
+    "随机播放按钮",
+    "随机播放",
+    "符号"
+  ],
   "cldr": "shuffle tracks button",
   "fromVersion": "1.0",
   "glyph": "🔀",

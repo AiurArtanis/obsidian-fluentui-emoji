@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "child",
+    "children crossing",
+    "crossing",
+    "pedestrian",
+    "traffic",
+    "儿童过街",
+    "儿童过马路标志",
+    "符号"
+  ],
   "cldr": "children crossing",
   "fromVersion": "1.0",
   "glyph": "🚸",

@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "popcorn",
+    "爆米花",
+    "食物与饮品"
+  ],
   "cldr": "popcorn",
   "fromVersion": "1.0",
   "glyph": "🍿",

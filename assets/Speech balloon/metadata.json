@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "balloon",
+    "bubble",
+    "comic",
+    "dialog",
+    "speech",
+    "话语气泡",
+    "对话框",
+    "笑脸与情感"
+  ],
   "cldr": "speech balloon",
   "fromVersion": "0.6",
   "glyph": "💬",

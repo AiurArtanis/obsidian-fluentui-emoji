@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "adult",
+    "bald",
+    "gender-neutral",
+    "person",
+    "unspecified gender",
+    "秃顶的人",
+    "光头的人",
+    "人物与身体"
+  ],
   "cldr": "person: bald",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦲",

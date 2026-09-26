@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "candelabrum",
+    "candlestick",
+    "menorah",
+    "religion",
+    "烛台",
+    "犹太教烛台",
+    "符号"
+  ],
   "cldr": "menorah",
   "fromVersion": "1.0",
   "glyph": "🕎",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "hand",
+    "help",
+    "information",
+    "person tipping hand",
+    "sassy",
+    "tipping",
+    "摊手示意的人",
+    "提供信息的人",
+    "人物与身体"
+  ],
   "cldr": "person tipping hand",
   "fromVersion": "0.6",
   "glyph": "💁",

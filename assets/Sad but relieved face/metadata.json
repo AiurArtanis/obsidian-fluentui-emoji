@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "disappointed",
+    "face",
+    "relieved",
+    "sad but relieved face",
+    "whew",
+    "失望但如释重负",
+    "虚惊一场",
+    "笑脸与情感"
+  ],
   "cldr": "sad but relieved face",
   "fromVersion": "0.6",
   "glyph": "😥",

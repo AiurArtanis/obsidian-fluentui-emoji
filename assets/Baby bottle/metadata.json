@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "baby",
+    "bottle",
+    "drink",
+    "milk",
+    "奶瓶",
+    "婴儿奶瓶",
+    "食物与饮品"
+  ],
   "cldr": "baby bottle",
   "fromVersion": "1.0",
   "glyph": "🍼",

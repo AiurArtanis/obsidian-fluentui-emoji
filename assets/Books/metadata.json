@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "book",
+    "books",
+    "书本",
+    "书籍",
+    "物品"
+  ],
   "cldr": "books",
   "fromVersion": "0.6",
   "glyph": "📚",

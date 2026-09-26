@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "persevere",
+    "persevering face",
+    "痛苦",
+    "吃力的脸",
+    "笑脸与情感"
+  ],
   "cldr": "persevering face",
   "fromVersion": "0.6",
   "glyph": "😣",

@@ -1,4 +1,15 @@
 {
+	"alias": [
+		"instrument",
+		"maracas",
+		"music",
+		"percussion",
+		"rattle",
+		"shake",
+		"沙球",
+		"沙锤",
+		"物品"
+	],
 	"cldr": "maracas",
 	"fromVersion": "15.0",
 	"glyph": "🪇",

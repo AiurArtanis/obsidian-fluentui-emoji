@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "OK",
+    "OK button",
+    "OK 按钮",
+    "确定按钮",
+    "符号"
+  ],
   "cldr": "OK button",
   "fromVersion": "0.6",
   "glyph": "🆗",

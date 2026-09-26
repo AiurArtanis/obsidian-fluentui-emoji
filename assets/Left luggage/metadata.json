@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "baggage",
+    "left luggage",
+    "locker",
+    "luggage",
+    "寄存行李",
+    "行李寄存处",
+    "符号"
+  ],
   "cldr": "left luggage",
   "fromVersion": "1.0",
   "glyph": "🛅",

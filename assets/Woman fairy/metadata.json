@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "Titania",
+    "woman fairy",
+    "仙女",
+    "人物与身体"
+  ],
   "cldr": "woman fairy",
   "fromVersion": "5.0",
   "glyph": "🧚‍♀️",

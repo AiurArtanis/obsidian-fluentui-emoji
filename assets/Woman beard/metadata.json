@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "beard",
+    "woman",
+    "woman: beard",
+    "长胡子的女人",
+    "有络腮胡的女人",
+    "人物与身体"
+  ],
   "cldr": "woman: beard",
   "fromVersion": "13.1",
   "glyph": "🧔‍♀️",

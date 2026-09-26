@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "lifter",
+    "person lifting weights",
+    "weight",
+    "举重的人",
+    "举杠铃的人",
+    "人物与身体"
+  ],
   "cldr": "person lifting weights",
   "fromVersion": "0.7",
   "glyph": "🏋️",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flying saucer",
+    "UFO",
+    "飞碟",
+    "不明飞行物",
+    "旅行与地点"
+  ],
   "cldr": "flying saucer",
   "fromVersion": "5.0",
   "glyph": "🛸",

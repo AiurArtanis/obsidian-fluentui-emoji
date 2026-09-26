@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "tiger",
+    "老虎",
+    "动物与自然"
+  ],
   "cldr": "tiger",
   "fromVersion": "1.0",
   "glyph": "🐅",

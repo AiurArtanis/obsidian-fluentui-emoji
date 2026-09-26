@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "double",
+    "down",
+    "fast down button",
+    "快速下降按钮",
+    "双三角向下按钮",
+    "符号"
+  ],
   "cldr": "fast down button",
   "fromVersion": "0.6",
   "glyph": "⏬",

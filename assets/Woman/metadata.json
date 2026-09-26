@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "woman",
+    "女人",
+    "女性",
+    "人物与身体"
+  ],
   "cldr": "woman",
   "fromVersion": "0.6",
   "glyph": "👩",

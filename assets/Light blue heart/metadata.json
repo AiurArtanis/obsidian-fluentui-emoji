@@ -1,4 +1,14 @@
 {
+	"alias": [
+		"cyan",
+		"heart",
+		"light blue",
+		"light blue heart",
+		"teal",
+		"浅蓝色心",
+		"淡蓝心",
+		"笑脸与情感"
+	],
 	"cldr": "light blue heart",
 	"fromVersion": "15.0",
 	"glyph": "🩵",

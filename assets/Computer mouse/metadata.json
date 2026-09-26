@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "computer",
+    "computer mouse",
+    "电脑鼠标",
+    "鼠标",
+    "物品"
+  ],
   "cldr": "computer mouse",
   "fromVersion": "0.7",
   "glyph": "🖱️",

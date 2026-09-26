@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "geometric",
+    "square",
+    "white medium square",
+    "白色中方块",
+    "符号"
+  ],
   "cldr": "white medium square",
   "fromVersion": "0.6",
   "glyph": "◻️",

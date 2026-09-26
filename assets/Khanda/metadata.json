@@ -1,4 +1,12 @@
 {
+	"alias": [
+		"khanda",
+		"religion",
+		"Sikh",
+		"坎达",
+		"锡克教标志",
+		"符号"
+	],
 	"cldr": "khanda",
 	"fromVersion": "15.0",
 	"glyph": "🪯",

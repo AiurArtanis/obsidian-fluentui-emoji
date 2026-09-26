@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "*",
+    "eight-pointed star",
+    "star",
+    "八角星",
+    "八芒星",
+    "符号"
+  ],
   "cldr": "eight-pointed star",
   "fromVersion": "0.6",
   "glyph": "✴️",

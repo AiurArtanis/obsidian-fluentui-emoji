@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "celebration",
+    "Christmas",
+    "tree",
+    "圣诞树",
+    "活动"
+  ],
   "cldr": "Christmas tree",
   "fromVersion": "0.6",
   "glyph": "🎄",

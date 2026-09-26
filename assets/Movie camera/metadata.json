@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "camera",
+    "cinema",
+    "movie",
+    "电影摄影机",
+    "摄影机",
+    "物品"
+  ],
   "cldr": "movie camera",
   "fromVersion": "0.6",
   "glyph": "🎥",

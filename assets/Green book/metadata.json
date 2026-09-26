@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "book",
+    "green",
+    "绿色书本",
+    "绿色书籍",
+    "物品"
+  ],
   "cldr": "green book",
   "fromVersion": "0.6",
   "glyph": "📗",

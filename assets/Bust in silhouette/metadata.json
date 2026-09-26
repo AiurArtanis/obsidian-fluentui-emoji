@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bust",
+    "bust in silhouette",
+    "silhouette",
+    "人像",
+    "人物剪影",
+    "人物与身体"
+  ],
   "cldr": "bust in silhouette",
   "fromVersion": "0.6",
   "glyph": "👤",

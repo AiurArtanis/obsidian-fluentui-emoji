@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fuji",
+    "mount fuji",
+    "mountain",
+    "富士山",
+    "旅行与地点"
+  ],
   "cldr": "mount fuji",
   "fromVersion": "0.6",
   "glyph": "🗻",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "barber",
+    "haircut",
+    "pole",
+    "理发店旋转灯柱",
+    "旅行与地点"
+  ],
   "cldr": "barber pole",
   "fromVersion": "0.6",
   "glyph": "💈",

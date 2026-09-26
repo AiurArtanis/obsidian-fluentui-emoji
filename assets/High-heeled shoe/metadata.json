@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clothing",
+    "heel",
+    "high-heeled shoe",
+    "shoe",
+    "woman",
+    "高跟鞋",
+    "物品"
+  ],
   "cldr": "high-heeled shoe",
   "fromVersion": "0.6",
   "glyph": "👠",

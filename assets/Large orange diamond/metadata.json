@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "diamond",
+    "geometric",
+    "large orange diamond",
+    "orange",
+    "橙色大菱形",
+    "大号橙菱形",
+    "符号"
+  ],
   "cldr": "large orange diamond",
   "fromVersion": "0.6",
   "glyph": "🔶",

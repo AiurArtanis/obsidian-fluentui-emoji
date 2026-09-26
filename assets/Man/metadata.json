@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "man",
+    "男人",
+    "男性",
+    "人物与身体"
+  ],
   "cldr": "man",
   "fromVersion": "0.6",
   "glyph": "👨",

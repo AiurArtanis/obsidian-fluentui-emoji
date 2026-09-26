@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "anguished",
+    "face",
+    "极度痛苦",
+    "痛苦的脸",
+    "笑脸与情感"
+  ],
   "cldr": "anguished face",
   "fromVersion": "1.0",
   "glyph": "😧",

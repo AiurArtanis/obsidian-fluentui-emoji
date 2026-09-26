@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "deadpan",
+    "face",
+    "meh",
+    "neutral",
+    "面无表情",
+    "冷漠",
+    "笑脸与情感"
+  ],
   "cldr": "neutral face",
   "fromVersion": "0.7",
   "glyph": "😐",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "art",
+    "frame",
+    "framed picture",
+    "museum",
+    "painting",
+    "picture",
+    "相框",
+    "活动"
+  ],
   "cldr": "framed picture",
   "fromVersion": "0.7",
   "glyph": "🖼️",

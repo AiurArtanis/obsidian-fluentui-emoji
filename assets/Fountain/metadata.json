@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "fountain",
+    "喷泉",
+    "旅行与地点"
+  ],
   "cldr": "fountain",
   "fromVersion": "0.6",
   "glyph": "⛲",

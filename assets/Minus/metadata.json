@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "-",
+    "−",
+    "math",
+    "minus",
+    "sign",
+    "减号",
+    "减法",
+    "符号"
+  ],
   "cldr": "minus",
   "fromVersion": "0.6",
   "glyph": "➖",

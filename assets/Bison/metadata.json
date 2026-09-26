@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bison",
+    "buffalo",
+    "herd",
+    "wisent",
+    "大野牛",
+    "野牛",
+    "动物与自然"
+  ],
   "cldr": "bison",
   "fromVersion": "13.0",
   "glyph": "🦬",

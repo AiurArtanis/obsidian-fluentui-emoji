@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "eye",
+    "eye in speech bubble",
+    "speech bubble",
+    "witness",
+    "眼睛对话框",
+    "见证",
+    "笑脸与情感"
+  ],
   "cldr": "eye in speech bubble",
   "fromVersion": "2.0",
   "glyph": "👁️‍🗨️",

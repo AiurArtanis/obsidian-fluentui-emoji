@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "ambulance",
+    "vehicle",
+    "救护车",
+    "旅行与地点"
+  ],
   "cldr": "ambulance",
   "fromVersion": "0.6",
   "glyph": "🚑",

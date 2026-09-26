@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bird",
+    "penguin",
+    "企鹅",
+    "动物与自然"
+  ],
   "cldr": "penguin",
   "fromVersion": "0.6",
   "glyph": "🐧",

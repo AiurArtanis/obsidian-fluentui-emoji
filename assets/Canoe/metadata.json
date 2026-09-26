@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "boat",
+    "canoe",
+    "独木舟",
+    "旅行与地点"
+  ],
   "cldr": "canoe",
   "fromVersion": "3.0",
   "glyph": "🛶",

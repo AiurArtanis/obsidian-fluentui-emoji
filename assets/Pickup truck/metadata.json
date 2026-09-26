@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "pick-up",
+    "pickup",
+    "truck",
+    "皮卡",
+    "皮卡车",
+    "旅行与地点"
+  ],
   "cldr": "pickup truck",
   "fromVersion": "13.0",
   "glyph": "🛻",

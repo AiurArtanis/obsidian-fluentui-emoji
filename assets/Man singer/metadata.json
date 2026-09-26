@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "actor",
+    "entertainer",
+    "man",
+    "rock",
+    "singer",
+    "star",
+    "男歌手",
+    "人物与身体"
+  ],
   "cldr": "man singer",
   "fromVersion": "4.0",
   "glyph": "👨‍🎤",

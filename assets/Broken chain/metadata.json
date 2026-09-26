@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "break",
+    "breaking",
+    "broken chain",
+    "chain",
+    "cuffs",
+    "freedom",
+    "断链",
+    "断裂的链条",
+    "物品"
+  ],
   "cldr": "broken chain",
   "fromVersion": "15.1",
   "glyph": "⛓️‍💥",

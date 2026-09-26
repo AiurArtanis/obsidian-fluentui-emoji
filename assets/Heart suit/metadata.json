@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "card",
+    "game",
+    "heart suit",
+    "红桃",
+    "活动"
+  ],
   "cldr": "heart suit",
   "fromVersion": "0.6",
   "glyph": "♥️",

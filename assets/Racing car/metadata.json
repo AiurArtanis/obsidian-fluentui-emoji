@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "car",
+    "racing",
+    "赛车",
+    "旅行与地点"
+  ],
   "cldr": "racing car",
   "fromVersion": "0.7",
   "glyph": "🏎️",

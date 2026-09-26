@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bones",
+    "doctor",
+    "medical",
+    "skeleton",
+    "x-ray",
+    "X射线",
+    "X光片",
+    "物品"
+  ],
   "cldr": "x-ray",
   "fromVersion": "14.0",
   "glyph": "🩻",

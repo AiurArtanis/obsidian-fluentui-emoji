@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "baggage",
+    "claim",
+    "提取行李",
+    "行李提取",
+    "符号"
+  ],
   "cldr": "baggage claim",
   "fromVersion": "1.0",
   "glyph": "🛄",

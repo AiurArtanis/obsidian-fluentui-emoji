@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "crochet",
+    "knit",
+    "yarn",
+    "毛线",
+    "活动"
+  ],
   "cldr": "yarn",
   "fromVersion": "11.0",
   "glyph": "🧶",

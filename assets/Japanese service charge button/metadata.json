@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“service charge”",
+    "Japanese",
+    "Japanese “service charge” button",
+    "katakana",
+    "サ",
+    "日文服务费按钮",
+    "服务费",
+    "符号"
+  ],
   "cldr": "Japanese “service charge” button",
   "fromVersion": "0.6",
   "glyph": "🈂️",

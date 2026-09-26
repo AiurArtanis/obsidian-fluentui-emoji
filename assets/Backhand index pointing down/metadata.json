@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "backhand",
+    "backhand index pointing down",
+    "down",
+    "finger",
+    "hand",
+    "point",
+    "反手食指向下指",
+    "向下指的手",
+    "人物与身体"
+  ],
   "cldr": "backhand index pointing down",
   "fromVersion": "0.6",
   "glyph": "👇",

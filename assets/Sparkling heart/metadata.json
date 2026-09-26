@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "excited",
+    "sparkle",
+    "sparkling heart",
+    "闪亮的心",
+    "闪亮心",
+    "笑脸与情感"
+  ],
   "cldr": "sparkling heart",
   "fromVersion": "0.6",
   "glyph": "💖",

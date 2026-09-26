@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "map",
+    "world",
+    "世界地图",
+    "旅行与地点"
+  ],
   "cldr": "world map",
   "fromVersion": "0.7",
   "glyph": "🗺️",

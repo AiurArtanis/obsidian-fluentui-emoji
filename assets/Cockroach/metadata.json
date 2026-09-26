@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cockroach",
+    "insect",
+    "pest",
+    "roach",
+    "蟑螂",
+    "动物与自然"
+  ],
   "cldr": "cockroach",
   "fromVersion": "13.0",
   "glyph": "🪳",

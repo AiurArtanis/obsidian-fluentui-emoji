@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "pretzel",
+    "twisted",
+    "椒盐卷饼",
+    "食物与饮品"
+  ],
   "cldr": "pretzel",
   "fromVersion": "5.0",
   "glyph": "🥨",

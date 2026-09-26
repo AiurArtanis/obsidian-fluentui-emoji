@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "hourglass",
+    "hourglass not done",
+    "sand",
+    "timer",
+    "沙正往下流的沙漏",
+    "旅行与地点"
+  ],
   "cldr": "hourglass not done",
   "fromVersion": "0.6",
   "glyph": "⏳",

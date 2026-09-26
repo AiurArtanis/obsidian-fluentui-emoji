@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "Tokyo",
+    "tower",
+    "东京塔",
+    "旅行与地点"
+  ],
   "cldr": "Tokyo tower",
   "fromVersion": "0.6",
   "glyph": "🗼",

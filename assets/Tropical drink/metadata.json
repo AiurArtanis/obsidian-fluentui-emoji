@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bar",
+    "drink",
+    "tropical",
+    "热带饮料",
+    "热带鸡尾酒",
+    "食物与饮品"
+  ],
   "cldr": "tropical drink",
   "fromVersion": "0.6",
   "glyph": "🍹",

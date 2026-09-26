@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "palm",
+    "tree",
+    "棕榈树",
+    "动物与自然"
+  ],
   "cldr": "palm tree",
   "fromVersion": "0.6",
   "glyph": "🌴",

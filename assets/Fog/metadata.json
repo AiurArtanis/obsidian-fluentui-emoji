@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "cloud",
+    "fog",
+    "雾",
+    "旅行与地点"
+  ],
   "cldr": "fog",
   "fromVersion": "0.7",
   "glyph": "🌫️",

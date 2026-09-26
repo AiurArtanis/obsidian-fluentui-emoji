@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "aubergine",
+    "eggplant",
+    "vegetable",
+    "茄子",
+    "食物与饮品"
+  ],
   "cldr": "eggplant",
   "fromVersion": "0.6",
   "glyph": "🍆",

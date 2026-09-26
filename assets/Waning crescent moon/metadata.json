@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "crescent",
+    "moon",
+    "waning",
+    "残月",
+    "下蛾眉月",
+    "旅行与地点"
+  ],
   "cldr": "waning crescent moon",
   "fromVersion": "1.0",
   "glyph": "🌘",

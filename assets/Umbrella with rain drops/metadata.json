@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "clothing",
+    "drop",
+    "rain",
+    "umbrella",
+    "umbrella with rain drops",
+    "雨伞",
+    "带雨滴的伞",
+    "旅行与地点"
+  ],
   "cldr": "umbrella with rain drops",
   "fromVersion": "0.6",
   "glyph": "☔",

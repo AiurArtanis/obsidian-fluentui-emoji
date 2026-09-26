@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "instructor",
+    "professor",
+    "teacher",
+    "woman",
+    "女教师",
+    "女老师",
+    "人物与身体"
+  ],
   "cldr": "woman teacher",
   "fromVersion": "4.0",
   "glyph": "👩‍🏫",

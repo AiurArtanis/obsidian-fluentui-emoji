@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "comet",
+    "space",
+    "彗星",
+    "旅行与地点"
+  ],
   "cldr": "comet",
   "fromVersion": "1.0",
   "glyph": "☄️",

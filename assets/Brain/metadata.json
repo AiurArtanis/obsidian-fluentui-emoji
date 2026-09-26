@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "brain",
+    "intelligent",
+    "脑",
+    "大脑",
+    "人物与身体"
+  ],
   "cldr": "brain",
   "fromVersion": "5.0",
   "glyph": "🧠",

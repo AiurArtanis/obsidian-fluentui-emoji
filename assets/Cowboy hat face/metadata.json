@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cowboy",
+    "cowgirl",
+    "face",
+    "hat",
+    "牛仔帽脸",
+    "牛仔",
+    "笑脸与情感"
+  ],
   "cldr": "cowboy hat face",
   "fromVersion": "3.0",
   "glyph": "🤠",

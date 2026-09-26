@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "medicine",
+    "needle",
+    "shot",
+    "sick",
+    "syringe",
+    "注射器",
+    "针筒",
+    "物品"
+  ],
   "cldr": "syringe",
   "fromVersion": "0.6",
   "glyph": "💉",

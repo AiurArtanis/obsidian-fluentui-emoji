@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "spoon",
+    "tableware",
+    "勺子",
+    "汤匙",
+    "食物与饮品"
+  ],
   "cldr": "spoon",
   "fromVersion": "3.0",
   "glyph": "🥄",

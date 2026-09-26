@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "gesture",
+    "hand",
+    "OK",
+    "person gesturing OK",
+    "比OK手势的人",
+    "做OK手势的人",
+    "人物与身体"
+  ],
   "cldr": "person gesturing OK",
   "fromVersion": "0.6",
   "glyph": "🙆",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "float",
+    "life preserver",
+    "life saver",
+    "rescue",
+    "ring buoy",
+    "safety",
+    "救生圈",
+    "救生浮圈",
+    "旅行与地点"
+  ],
   "cldr": "ring buoy",
   "fromVersion": "14.0",
   "glyph": "🛟",

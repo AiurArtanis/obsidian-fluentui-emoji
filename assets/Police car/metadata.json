@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "car",
+    "patrol",
+    "police",
+    "警车",
+    "巡逻车",
+    "旅行与地点"
+  ],
   "cldr": "police car",
   "fromVersion": "0.6",
   "glyph": "🚓",

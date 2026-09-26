@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "slightly smiling face",
+    "smile",
+    "微微一笑",
+    "呵呵",
+    "笑脸与情感"
+  ],
   "cldr": "slightly smiling face",
   "fromVersion": "1.0",
   "glyph": "🙂",

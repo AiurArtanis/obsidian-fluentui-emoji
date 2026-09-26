@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bathing suit",
+    "one-piece swimsuit",
+    "连体泳衣",
+    "连体泳装",
+    "物品"
+  ],
   "cldr": "one-piece swimsuit",
   "fromVersion": "12.0",
   "glyph": "🩱",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cake",
+    "dessert",
+    "pastry",
+    "shortcake",
+    "slice",
+    "sweet",
+    "水果蛋糕",
+    "蛋糕片",
+    "食物与饮品"
+  ],
   "cldr": "shortcake",
   "fromVersion": "0.6",
   "glyph": "🍰",

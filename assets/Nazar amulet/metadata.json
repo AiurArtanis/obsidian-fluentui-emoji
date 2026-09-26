@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bead",
+    "charm",
+    "evil-eye",
+    "nazar",
+    "nazar amulet",
+    "talisman",
+    "纳扎尔护身符",
+    "活动"
+  ],
   "cldr": "nazar amulet",
   "fromVersion": "11.0",
   "glyph": "🧿",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "high-speed train",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train",
+    "高速列车",
+    "旅行与地点"
+  ],
   "cldr": "high-speed train",
   "fromVersion": "0.6",
   "glyph": "🚄",

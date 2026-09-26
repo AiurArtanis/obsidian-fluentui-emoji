@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "railway",
+    "suspension",
+    "空轨",
+    "悬挂式铁路",
+    "旅行与地点"
+  ],
   "cldr": "suspension railway",
   "fromVersion": "1.0",
   "glyph": "🚟",

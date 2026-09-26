@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bird",
+    "ostentatious",
+    "peacock",
+    "peahen",
+    "proud",
+    "孔雀",
+    "动物与自然"
+  ],
   "cldr": "peacock",
   "fromVersion": "11.0",
   "glyph": "🦚",

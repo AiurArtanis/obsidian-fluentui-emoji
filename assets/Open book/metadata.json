@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "book",
+    "open",
+    "打开的书本",
+    "摊开的书籍",
+    "物品"
+  ],
   "cldr": "open book",
   "fromVersion": "0.6",
   "glyph": "📖",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "geek",
+    "nerd",
+    "书呆子脸",
+    "极客脸",
+    "笑脸与情感"
+  ],
   "cldr": "nerd face",
   "fromVersion": "1.0",
   "glyph": "🤓",

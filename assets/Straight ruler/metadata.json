@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ruler",
+    "straight edge",
+    "straight ruler",
+    "直尺",
+    "物品"
+  ],
   "cldr": "straight ruler",
   "fromVersion": "0.6",
   "glyph": "📏",

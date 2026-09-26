@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "boat",
+    "person rowing boat",
+    "rowboat",
+    "划船的人",
+    "划桨的人",
+    "人物与身体"
+  ],
   "cldr": "person rowing boat",
   "fromVersion": "1.0",
   "glyph": "🚣",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "light rail",
+    "railway",
+    "轻轨",
+    "旅行与地点"
+  ],
   "cldr": "light rail",
   "fromVersion": "1.0",
   "glyph": "🚈",

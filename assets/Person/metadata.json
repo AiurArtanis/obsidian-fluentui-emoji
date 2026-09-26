@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "adult",
+    "gender-neutral",
+    "person",
+    "unspecified gender",
+    "成人",
+    "人物与身体"
+  ],
   "cldr": "person",
   "fromVersion": "5.0",
   "glyph": "🧑",

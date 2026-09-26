@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "lie",
+    "lying face",
+    "pinocchio",
+    "说谎",
+    "撒谎脸",
+    "笑脸与情感"
+  ],
   "cldr": "lying face",
   "fromVersion": "3.0",
   "glyph": "🤥",

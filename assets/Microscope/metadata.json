@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "microscope",
+    "science",
+    "tool",
+    "显微镜",
+    "物品"
+  ],
   "cldr": "microscope",
   "fromVersion": "1.0",
   "glyph": "🔬",

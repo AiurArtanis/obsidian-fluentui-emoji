@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "person wearing turban",
+    "turban",
+    "戴头巾的人",
+    "戴包头巾的人",
+    "人物与身体"
+  ],
   "cldr": "person wearing turban",
   "fromVersion": "0.6",
   "glyph": "👳",

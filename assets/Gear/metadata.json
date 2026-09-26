@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cog",
+    "cogwheel",
+    "gear",
+    "tool",
+    "齿轮",
+    "物品"
+  ],
   "cldr": "gear",
   "fromVersion": "1.0",
   "glyph": "⚙️",

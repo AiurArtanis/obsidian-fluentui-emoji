@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dialog",
+    "left speech bubble",
+    "speech",
+    "朝左的话语气泡",
+    "左向话语气泡",
+    "笑脸与情感"
+  ],
   "cldr": "left speech bubble",
   "fromVersion": "2.0",
   "glyph": "🗨️",

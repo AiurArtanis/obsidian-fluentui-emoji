@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "coral",
+    "ocean",
+    "reef",
+    "珊瑚",
+    "动物与自然"
+  ],
   "cldr": "coral",
   "fromVersion": "14.0",
   "glyph": "🪸",

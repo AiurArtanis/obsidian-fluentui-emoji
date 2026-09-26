@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "doctor",
+    "heart",
+    "medicine",
+    "stethoscope",
+    "听诊器",
+    "物品"
+  ],
   "cldr": "stethoscope",
   "fromVersion": "12.0",
   "glyph": "🩺",

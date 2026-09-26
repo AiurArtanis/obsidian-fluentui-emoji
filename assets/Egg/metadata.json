@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "breakfast",
+    "egg",
+    "food",
+    "鸡蛋",
+    "蛋",
+    "食物与饮品"
+  ],
   "cldr": "egg",
   "fromVersion": "3.0",
   "glyph": "🥚",

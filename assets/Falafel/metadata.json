@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "chickpea",
+    "falafel",
+    "meatball",
+    "炸豆丸子",
+    "法拉费",
+    "食物与饮品"
+  ],
   "cldr": "falafel",
   "fromVersion": "12.0",
   "glyph": "🧆",

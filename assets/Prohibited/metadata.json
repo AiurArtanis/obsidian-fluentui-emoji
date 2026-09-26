@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "entry",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "禁止",
+    "禁止标志",
+    "符号"
+  ],
   "cldr": "prohibited",
   "fromVersion": "0.6",
   "glyph": "🚫",

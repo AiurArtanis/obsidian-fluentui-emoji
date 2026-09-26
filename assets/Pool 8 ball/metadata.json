@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "8",
+    "ball",
+    "billiard",
+    "eight",
+    "game",
+    "pool 8 ball",
+    "台球",
+    "活动"
+  ],
   "cldr": "pool 8 ball",
   "fromVersion": "0.6",
   "glyph": "🎱",

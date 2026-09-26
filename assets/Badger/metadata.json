@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "badger",
+    "honey badger",
+    "pester",
+    "獾",
+    "动物与自然"
+  ],
   "cldr": "badger",
   "fromVersion": "11.0",
   "glyph": "🦡",

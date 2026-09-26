@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bullseye",
+    "dart",
+    "direct hit",
+    "game",
+    "hit",
+    "target",
+    "正中靶心",
+    "靶心",
+    "活动"
+  ],
   "cldr": "bullseye",
   "fromVersion": "0.6",
   "glyph": "🎯",

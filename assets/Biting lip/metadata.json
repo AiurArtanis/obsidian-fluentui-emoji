@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "anxious",
+    "biting lip",
+    "fear",
+    "flirting",
+    "nervous",
+    "uncomfortable",
+    "worried",
+    "咬住嘴唇",
+    "咬唇",
+    "人物与身体"
+  ],
   "cldr": "biting lip",
   "fromVersion": "14.0",
   "glyph": "🫦",

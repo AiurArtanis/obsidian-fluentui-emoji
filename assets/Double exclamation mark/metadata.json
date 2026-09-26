@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "!",
+    "!!",
+    "bangbang",
+    "double exclamation mark",
+    "exclamation",
+    "mark",
+    "双感叹号",
+    "两个感叹号",
+    "符号"
+  ],
   "cldr": "double exclamation mark",
   "fromVersion": "0.6",
   "glyph": "‼️",

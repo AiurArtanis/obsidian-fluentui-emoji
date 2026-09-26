@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "2nd place medal",
+    "medal",
+    "second",
+    "silver",
+    "银牌",
+    "活动"
+  ],
   "cldr": "2nd place medal",
   "fromVersion": "3.0",
   "glyph": "🥈",

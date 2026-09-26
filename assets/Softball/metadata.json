@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "glove",
+    "softball",
+    "underarm",
+    "垒球",
+    "活动"
+  ],
   "cldr": "softball",
   "fromVersion": "11.0",
   "glyph": "🥎",

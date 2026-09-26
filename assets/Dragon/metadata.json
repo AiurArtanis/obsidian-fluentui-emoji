@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "dragon",
+    "fairy tale",
+    "龙",
+    "动物与自然"
+  ],
   "cldr": "dragon",
   "fromVersion": "1.0",
   "glyph": "🐉",

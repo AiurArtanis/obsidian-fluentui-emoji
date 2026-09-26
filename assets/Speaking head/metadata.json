@@ -10,6 +10,16 @@
     "speak",
     "speaking"
   ],
+  "alias": [
+    "face",
+    "head",
+    "silhouette",
+    "speak",
+    "speaking",
+    "说话",
+    "发言",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "1f5e3_speakingheadinsilhouette"
   ],

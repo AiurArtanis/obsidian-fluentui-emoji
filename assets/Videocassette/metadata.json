@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "tape",
+    "vhs",
+    "video",
+    "videocassette",
+    "录像带",
+    "盒式录像带",
+    "物品"
+  ],
   "cldr": "videocassette",
   "fromVersion": "0.6",
   "glyph": "📼",

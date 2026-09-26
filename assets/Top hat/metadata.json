@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clothing",
+    "hat",
+    "top",
+    "tophat",
+    "礼帽",
+    "高筒帽",
+    "物品"
+  ],
   "cldr": "top hat",
   "fromVersion": "0.6",
   "glyph": "🎩",

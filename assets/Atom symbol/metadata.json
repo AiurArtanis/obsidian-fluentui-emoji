@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "atheist",
+    "atom",
+    "atom symbol",
+    "原子符号",
+    "原子",
+    "符号"
+  ],
   "cldr": "atom symbol",
   "fromVersion": "1.0",
   "glyph": "⚛️",

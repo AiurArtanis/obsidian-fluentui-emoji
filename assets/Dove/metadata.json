@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bird",
+    "dove",
+    "fly",
+    "peace",
+    "鸽子",
+    "和平鸽",
+    "动物与自然"
+  ],
   "cldr": "dove",
   "fromVersion": "0.7",
   "glyph": "🕊️",

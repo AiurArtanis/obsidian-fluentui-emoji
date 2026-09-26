@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "mouth",
+    "zipper",
+    "zipper-mouth face",
+    "闭嘴",
+    "拉链嘴",
+    "笑脸与情感"
+  ],
   "cldr": "zipper-mouth face",
   "fromVersion": "1.0",
   "glyph": "🤐",

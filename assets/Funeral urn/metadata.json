@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "ashes",
+    "death",
+    "funeral",
+    "urn",
+    "骨灰瓮",
+    "骨灰盒",
+    "物品"
+  ],
   "cldr": "funeral urn",
   "fromVersion": "1.0",
   "glyph": "⚱️",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "box",
+    "celebration",
+    "gift",
+    "present",
+    "wrapped",
+    "礼物",
+    "活动"
+  ],
   "cldr": "wrapped gift",
   "fromVersion": "0.6",
   "glyph": "🎁",

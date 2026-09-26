@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cooking",
+    "fork",
+    "fork and knife with plate",
+    "knife",
+    "plate",
+    "餐具",
+    "刀叉餐盘",
+    "食物与饮品"
+  ],
   "cldr": "fork and knife with plate",
   "fromVersion": "0.7",
   "glyph": "🍽️",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "panda",
+    "熊猫",
+    "大熊猫",
+    "动物与自然"
+  ],
   "cldr": "panda",
   "fromVersion": "0.6",
   "glyph": "🐼",

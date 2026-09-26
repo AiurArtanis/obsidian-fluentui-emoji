@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "archer",
+    "arrow",
+    "bow",
+    "bow and arrow",
+    "Sagittarius",
+    "zodiac",
+    "弓箭",
+    "弓和箭",
+    "物品"
+  ],
   "cldr": "bow and arrow",
   "fromVersion": "1.0",
   "glyph": "🏹",

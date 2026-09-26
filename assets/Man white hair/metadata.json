@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "adult",
+    "man",
+    "white hair",
+    "白发男人",
+    "白发的男人",
+    "人物与身体"
+  ],
   "cldr": "man: white hair",
   "fromVersion": "11.0",
   "glyph": "👨‍🦳",

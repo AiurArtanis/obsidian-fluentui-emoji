@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "electric",
+    "electricity",
+    "plug",
+    "电源插头",
+    "插头",
+    "物品"
+  ],
   "cldr": "electric plug",
   "fromVersion": "0.6",
   "glyph": "🔌",

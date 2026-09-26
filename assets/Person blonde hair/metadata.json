@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "blond",
+    "blond-haired person",
+    "hair",
+    "person: blond hair",
+    "金色头发的人",
+    "金发的人",
+    "人物与身体"
+  ],
   "cldr": "person: blond hair",
   "fromVersion": "0.6",
   "glyph": "👱",

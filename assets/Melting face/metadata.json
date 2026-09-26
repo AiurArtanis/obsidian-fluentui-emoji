@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "disappear",
+    "dissolve",
+    "liquid",
+    "melt",
+    "melting face",
+    "融化脸",
+    "笑脸与情感"
+  ],
   "cldr": "melting face",
   "fromVersion": "14.0",
   "glyph": "🫠",

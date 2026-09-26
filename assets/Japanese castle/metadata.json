@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "castle",
+    "Japanese",
+    "日本城堡",
+    "日本城",
+    "旅行与地点"
+  ],
   "cldr": "Japanese castle",
   "fromVersion": "0.6",
   "glyph": "🏯",

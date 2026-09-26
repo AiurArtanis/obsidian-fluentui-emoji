@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Christian",
+    "church",
+    "cross",
+    "religion",
+    "教堂",
+    "旅行与地点"
+  ],
   "cldr": "church",
   "fromVersion": "0.6",
   "glyph": "⛪",

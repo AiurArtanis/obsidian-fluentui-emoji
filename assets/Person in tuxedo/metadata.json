@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "groom",
+    "person",
+    "person in tuxedo",
+    "tuxedo",
+    "穿燕尾服的人",
+    "穿礼服的人",
+    "人物与身体"
+  ],
   "cldr": "person in tuxedo",
   "fromVersion": "3.0",
   "glyph": "🤵",

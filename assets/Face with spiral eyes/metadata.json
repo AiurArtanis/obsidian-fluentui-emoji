@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "dizzy",
+    "face with spiral eyes",
+    "hypnotized",
+    "spiral",
+    "trouble",
+    "whoa",
+    "晕头转向",
+    "眼冒金星",
+    "笑脸与情感"
+  ],
   "cldr": "face with spiral eyes",
   "fromVersion": "13.1",
   "glyph": "😵‍💫",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "chapel",
+    "romance",
+    "wedding",
+    "婚礼",
+    "教堂婚礼",
+    "旅行与地点"
+  ],
   "cldr": "wedding",
   "fromVersion": "0.6",
   "glyph": "💒",

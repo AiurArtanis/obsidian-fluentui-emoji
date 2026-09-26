@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "computer",
+    "laptop",
+    "pc",
+    "personal",
+    "笔记本电脑",
+    "手提电脑",
+    "物品"
+  ],
   "cldr": "laptop",
   "fromVersion": "0.6",
   "glyph": "💻",

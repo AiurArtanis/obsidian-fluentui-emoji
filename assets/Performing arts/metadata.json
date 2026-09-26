@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "art",
+    "mask",
+    "performing",
+    "performing arts",
+    "theater",
+    "theatre",
+    "戏剧",
+    "表演艺术",
+    "活动"
+  ],
   "cldr": "performing arts",
   "fromVersion": "0.6",
   "glyph": "🎭",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "clothing",
+    "kimono",
+    "和服",
+    "物品"
+  ],
   "cldr": "kimono",
   "fromVersion": "0.6",
   "glyph": "👘",

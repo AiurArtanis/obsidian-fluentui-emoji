@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fruit",
+    "grape",
+    "grapes",
+    "葡萄",
+    "食物与饮品"
+  ],
   "cldr": "grapes",
   "fromVersion": "0.6",
   "glyph": "🍇",

@@ -1,4 +1,14 @@
 {
+	"alias": [
+		"bird",
+		"black",
+		"crow",
+		"raven",
+		"rook",
+		"黑鸟",
+		"乌鸦",
+		"动物与自然"
+	],
 	"cldr": "black bird",
 	"fromVersion": "15.0",
 	"glyph": "🐦‍⬛",

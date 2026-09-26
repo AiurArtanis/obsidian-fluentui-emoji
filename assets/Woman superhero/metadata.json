@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "good",
+    "hero",
+    "heroine",
+    "superpower",
+    "woman",
+    "woman superhero",
+    "女超级英雄",
+    "女英雄",
+    "人物与身体"
+  ],
   "cldr": "woman superhero",
   "fromVersion": "11.0",
   "glyph": "🦸‍♀️",

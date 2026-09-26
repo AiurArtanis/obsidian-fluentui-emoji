@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "guard",
+    "woman",
+    "女卫兵",
+    "女侍卫",
+    "人物与身体"
+  ],
   "cldr": "woman guard",
   "fromVersion": "4.0",
   "glyph": "💂‍♀️",

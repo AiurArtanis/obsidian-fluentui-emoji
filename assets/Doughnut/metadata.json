@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "breakfast",
+    "dessert",
+    "donut",
+    "doughnut",
+    "sweet",
+    "甜甜圈",
+    "食物与饮品"
+  ],
   "cldr": "doughnut",
   "fromVersion": "0.6",
   "glyph": "🍩",

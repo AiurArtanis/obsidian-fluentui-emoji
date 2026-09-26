@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "amusement park",
+    "ferris",
+    "wheel",
+    "摩天轮",
+    "旅行与地点"
+  ],
   "cldr": "ferris wheel",
   "fromVersion": "0.6",
   "glyph": "🎡",

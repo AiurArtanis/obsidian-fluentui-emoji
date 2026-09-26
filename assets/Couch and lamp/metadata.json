@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "couch",
+    "couch and lamp",
+    "hotel",
+    "lamp",
+    "沙发和灯",
+    "沙发与台灯",
+    "物品"
+  ],
   "cldr": "couch and lamp",
   "fromVersion": "0.7",
   "glyph": "🛋️",

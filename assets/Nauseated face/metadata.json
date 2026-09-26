@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "nauseated",
+    "vomit",
+    "恶心",
+    "作呕",
+    "笑脸与情感"
+  ],
   "cldr": "nauseated face",
   "fromVersion": "3.0",
   "glyph": "🤢",

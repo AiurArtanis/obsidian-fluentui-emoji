@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bar",
+    "beverage",
+    "drink",
+    "glass",
+    "wine",
+    "葡萄酒杯",
+    "红酒杯",
+    "食物与饮品"
+  ],
   "cldr": "wine glass",
   "fromVersion": "0.6",
   "glyph": "🍷",

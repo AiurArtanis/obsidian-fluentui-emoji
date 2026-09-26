@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "captivated",
+    "face with peeking eye",
+    "peep",
+    "stare",
+    "偷看",
+    "捂脸偷看",
+    "笑脸与情感"
+  ],
   "cldr": "face with peeking eye",
   "fromVersion": "14.0",
   "glyph": "🫣",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "doctor",
+    "medicine",
+    "pill",
+    "sick",
+    "药丸",
+    "药片",
+    "物品"
+  ],
   "cldr": "pill",
   "fromVersion": "0.6",
   "glyph": "💊",

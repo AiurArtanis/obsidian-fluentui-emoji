@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "criminal",
+    "evil",
+    "superpower",
+    "supervillain",
+    "villain",
+    "超级大反派",
+    "超级恶棍",
+    "人物与身体"
+  ],
   "cldr": "supervillain",
   "fromVersion": "11.0",
   "glyph": "🦹",

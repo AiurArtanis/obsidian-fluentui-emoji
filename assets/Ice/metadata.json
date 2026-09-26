@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cold",
+    "ice",
+    "ice cube",
+    "iceberg",
+    "冰块",
+    "冰",
+    "食物与饮品"
+  ],
   "cldr": "ice",
   "fromVersion": "12.0",
   "glyph": "🧊",

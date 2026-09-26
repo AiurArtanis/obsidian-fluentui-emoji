@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "play",
+    "play button",
+    "right",
+    "triangle",
+    "播放按钮",
+    "播放",
+    "符号"
+  ],
   "cldr": "play button",
   "fromVersion": "0.6",
   "glyph": "▶️",

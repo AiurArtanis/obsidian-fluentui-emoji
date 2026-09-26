@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "ruler",
+    "set",
+    "triangle",
+    "triangular ruler",
+    "三角尺",
+    "三角板",
+    "物品"
+  ],
   "cldr": "triangular ruler",
   "fromVersion": "0.6",
   "glyph": "📐",

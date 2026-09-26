@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "clockwise",
+    "repeat",
+    "repeat button",
+    "重复按钮",
+    "循环播放",
+    "符号"
+  ],
   "cldr": "repeat button",
   "fromVersion": "1.0",
   "glyph": "🔁",

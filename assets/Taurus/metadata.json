@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bull",
+    "ox",
+    "Taurus",
+    "zodiac",
+    "金牛座",
+    "符号"
+  ],
   "cldr": "Taurus",
   "fromVersion": "0.6",
   "glyph": "♉",

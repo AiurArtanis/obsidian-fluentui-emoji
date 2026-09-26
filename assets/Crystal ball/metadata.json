@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "ball",
+    "crystal",
+    "fairy tale",
+    "fantasy",
+    "fortune",
+    "tool",
+    "水晶球",
+    "活动"
+  ],
   "cldr": "crystal ball",
   "fromVersion": "0.6",
   "glyph": "🔮",

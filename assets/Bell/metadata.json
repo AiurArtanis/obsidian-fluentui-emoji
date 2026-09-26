@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bell",
+    "铃铛",
+    "铃",
+    "物品"
+  ],
   "cldr": "bell",
   "fromVersion": "0.6",
   "glyph": "🔔",

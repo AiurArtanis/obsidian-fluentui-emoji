@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face vomiting",
+    "puke",
+    "sick",
+    "vomit",
+    "呕吐",
+    "想吐",
+    "笑脸与情感"
+  ],
   "cldr": "face vomiting",
   "fromVersion": "5.0",
   "glyph": "🤮",

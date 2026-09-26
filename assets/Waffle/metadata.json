@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "breakfast",
+    "indecisive",
+    "iron",
+    "waffle",
+    "华夫饼",
+    "格子饼",
+    "食物与饮品"
+  ],
   "cldr": "waffle",
   "fromVersion": "12.0",
   "glyph": "🧇",

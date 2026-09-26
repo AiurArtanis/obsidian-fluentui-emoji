@@ -1,4 +1,15 @@
 {
+	"alias": [
+		"fife",
+		"flute",
+		"music",
+		"pipe",
+		"recorder",
+		"woodwind",
+		"长笛",
+		"笛子",
+		"物品"
+	],
 	"cldr": "flute",
 	"fromVersion": "15.0",
 	"glyph": "🪈",

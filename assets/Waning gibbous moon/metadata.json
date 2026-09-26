@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "gibbous",
+    "moon",
+    "waning",
+    "亏凸月",
+    "旅行与地点"
+  ],
   "cldr": "waning gibbous moon",
   "fromVersion": "1.0",
   "glyph": "🌖",

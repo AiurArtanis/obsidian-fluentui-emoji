@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "judo",
+    "karate",
+    "martial arts",
+    "martial arts uniform",
+    "taekwondo",
+    "uniform",
+    "练武服",
+    "活动"
+  ],
   "cldr": "martial arts uniform",
   "fromVersion": "3.0",
   "glyph": "🥋",

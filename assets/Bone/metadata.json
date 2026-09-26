@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bone",
+    "skeleton",
+    "骨头",
+    "骨骼",
+    "人物与身体"
+  ],
   "cldr": "bone",
   "fromVersion": "11.0",
   "glyph": "🦴",

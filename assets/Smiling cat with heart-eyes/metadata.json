@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "cat",
+    "eye",
+    "face",
+    "heart",
+    "love",
+    "smile",
+    "smiling cat with heart-eyes",
+    "花痴的猫",
+    "眼里冒爱心的猫",
+    "笑脸与情感"
+  ],
   "cldr": "smiling cat with heart-eyes",
   "fromVersion": "0.6",
   "glyph": "😻",

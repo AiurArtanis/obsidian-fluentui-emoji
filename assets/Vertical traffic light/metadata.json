@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "light",
+    "signal",
+    "traffic",
+    "vertical traffic light",
+    "纵向的红绿灯",
+    "竖排红绿灯",
+    "旅行与地点"
+  ],
   "cldr": "vertical traffic light",
   "fromVersion": "1.0",
   "glyph": "🚦",

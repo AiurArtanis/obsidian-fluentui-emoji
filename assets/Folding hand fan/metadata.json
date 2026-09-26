@@ -1,4 +1,16 @@
 {
+	"alias": [
+		"cooling",
+		"dance",
+		"fan",
+		"flutter",
+		"folding hand fan",
+		"hot",
+		"shy",
+		"折扇",
+		"扇子",
+		"物品"
+	],
 	"cldr": "folding hand fan",
 	"fromVersion": "15.0",
 	"glyph": "🪭",

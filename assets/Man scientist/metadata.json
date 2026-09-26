@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "biologist",
+    "chemist",
+    "engineer",
+    "man",
+    "physicist",
+    "scientist",
+    "男科学家",
+    "人物与身体"
+  ],
   "cldr": "man scientist",
   "fromVersion": "4.0",
   "glyph": "👨‍🔬",

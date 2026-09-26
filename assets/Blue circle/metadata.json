@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "blue",
+    "circle",
+    "geometric",
+    "蓝色圆圈",
+    "蓝色圆",
+    "符号"
+  ],
   "cldr": "blue circle",
   "fromVersion": "0.6",
   "glyph": "🔵",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "horizontal traffic light",
+    "light",
+    "signal",
+    "traffic",
+    "横向的红绿灯",
+    "旅行与地点"
+  ],
   "cldr": "horizontal traffic light",
   "fromVersion": "0.6",
   "glyph": "🚥",

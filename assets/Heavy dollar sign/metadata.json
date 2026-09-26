@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "currency",
+    "dollar",
+    "heavy dollar sign",
+    "money",
+    "粗体美元符号",
+    "美元符号",
+    "符号"
+  ],
   "cldr": "heavy dollar sign",
   "fromVersion": "0.6",
   "glyph": "💲",

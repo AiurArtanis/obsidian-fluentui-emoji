@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "body",
+    "ear",
+    "耳朵",
+    "耳",
+    "人物与身体"
+  ],
   "cldr": "ear",
   "fromVersion": "0.6",
   "glyph": "👂",

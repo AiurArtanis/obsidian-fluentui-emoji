@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "blush",
+    "eye",
+    "face",
+    "smile",
+    "smiling face with smiling eyes",
+    "羞涩微笑",
+    "眯眼微笑",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with smiling eyes",
   "fromVersion": "0.6",
   "glyph": "😊",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "islam",
+    "kaaba",
+    "Muslim",
+    "religion",
+    "克尔白",
+    "天房",
+    "旅行与地点"
+  ],
   "cldr": "kaaba",
   "fromVersion": "1.0",
   "glyph": "🕋",

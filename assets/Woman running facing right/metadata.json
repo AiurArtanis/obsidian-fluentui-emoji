@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "marathon",
+    "racing",
+    "running",
+    "woman",
+    "向右奔跑的女人",
+    "人物与身体"
+  ],
   "cldr": "woman running facing right",
   "fromVersion": "15.1",
   "glyph": "🏃‍♀️‍➡️",

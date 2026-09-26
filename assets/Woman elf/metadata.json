@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "magical",
+    "woman elf",
+    "女精灵",
+    "人物与身体"
+  ],
   "cldr": "woman elf",
   "fromVersion": "5.0",
   "glyph": "🧝‍♀️",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "Aquarius",
+    "bearer",
+    "water",
+    "zodiac",
+    "水瓶座",
+    "宝瓶座",
+    "符号"
+  ],
   "cldr": "Aquarius",
   "fromVersion": "0.6",
   "glyph": "♒",

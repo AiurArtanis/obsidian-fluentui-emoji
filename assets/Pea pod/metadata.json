@@ -1,4 +1,15 @@
 {
+	"alias": [
+		"beans",
+		"edamame",
+		"legume",
+		"pea",
+		"pod",
+		"vegetable",
+		"豌豆荚",
+		"豌豆",
+		"食物与饮品"
+	],
 	"cldr": "pea pod",
 	"fromVersion": "15.0",
 	"glyph": "🫛",

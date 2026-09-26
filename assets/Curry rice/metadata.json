@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "curry",
+    "rice",
+    "咖喱饭",
+    "咖喱",
+    "食物与饮品"
+  ],
   "cldr": "curry rice",
   "fromVersion": "0.6",
   "glyph": "🍛",

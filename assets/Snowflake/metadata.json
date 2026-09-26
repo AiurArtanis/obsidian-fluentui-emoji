@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cold",
+    "snow",
+    "snowflake",
+    "雪花",
+    "雪片",
+    "旅行与地点"
+  ],
   "cldr": "snowflake",
   "fromVersion": "0.6",
   "glyph": "❄️",

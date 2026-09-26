@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cat",
+    "face",
+    "oh",
+    "surprised",
+    "weary",
+    "疲倦的猫",
+    "惊恐的猫",
+    "笑脸与情感"
+  ],
   "cldr": "weary cat",
   "fromVersion": "0.6",
   "glyph": "🙀",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "insect",
+    "spider",
+    "蜘蛛",
+    "动物与自然"
+  ],
   "cldr": "spider",
   "fromVersion": "0.7",
   "glyph": "🕷️",

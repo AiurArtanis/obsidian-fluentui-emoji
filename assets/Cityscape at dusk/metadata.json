@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "city",
+    "cityscape at dusk",
+    "dusk",
+    "evening",
+    "landscape",
+    "sunset",
+    "城市黄昏",
+    "旅行与地点"
+  ],
   "cldr": "cityscape at dusk",
   "fromVersion": "0.6",
   "glyph": "🌆",

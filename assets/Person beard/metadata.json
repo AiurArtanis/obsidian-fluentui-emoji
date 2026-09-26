@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "beard",
+    "person",
+    "person: beard",
+    "留胡子的人",
+    "有胡子的人",
+    "人物与身体"
+  ],
   "cldr": "person: beard",
   "fromVersion": "5.0",
   "glyph": "🧔",

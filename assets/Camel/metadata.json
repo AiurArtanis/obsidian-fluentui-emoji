@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "camel",
+    "dromedary",
+    "hump",
+    "骆驼",
+    "动物与自然"
+  ],
   "cldr": "camel",
   "fromVersion": "1.0",
   "glyph": "🐪",

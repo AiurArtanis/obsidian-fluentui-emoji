@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "horn",
+    "post",
+    "postal",
+    "邮号",
+    "邮政号角",
+    "物品"
+  ],
   "cldr": "postal horn",
   "fromVersion": "1.0",
   "glyph": "📯",

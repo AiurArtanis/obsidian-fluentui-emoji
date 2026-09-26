@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fly",
+    "kite",
+    "soar",
+    "风筝",
+    "活动"
+  ],
   "cldr": "kite",
   "fromVersion": "12.0",
   "glyph": "🪁",

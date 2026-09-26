@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "hotel",
+    "person in bed",
+    "sleep",
+    "躺在床上的人",
+    "睡觉的人",
+    "人物与身体"
+  ],
   "cldr": "person in bed",
   "fromVersion": "1.0",
   "glyph": "🛌",

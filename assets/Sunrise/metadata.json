@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "morning",
+    "sun",
+    "sunrise",
+    "日出",
+    "朝阳",
+    "旅行与地点"
+  ],
   "cldr": "sunrise",
   "fromVersion": "0.6",
   "glyph": "🌅",

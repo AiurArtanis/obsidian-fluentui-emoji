@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "farmer",
+    "gardener",
+    "rancher",
+    "woman",
+    "农妇",
+    "女农民",
+    "人物与身体"
+  ],
   "cldr": "woman farmer",
   "fromVersion": "4.0",
   "glyph": "👩‍🌾",

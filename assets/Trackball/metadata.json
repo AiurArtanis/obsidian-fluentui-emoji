@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "computer",
+    "trackball",
+    "轨迹球",
+    "物品"
+  ],
   "cldr": "trackball",
   "fromVersion": "0.7",
   "glyph": "🖲️",

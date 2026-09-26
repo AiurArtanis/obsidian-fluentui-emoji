@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bicycle",
+    "bike",
+    "自行车",
+    "旅行与地点"
+  ],
   "cldr": "bicycle",
   "fromVersion": "0.6",
   "glyph": "🚲",

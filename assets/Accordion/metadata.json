@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "accordion",
+    "concertina",
+    "squeeze box",
+    "手风琴",
+    "物品"
+  ],
   "cldr": "accordion",
   "fromVersion": "13.0",
   "glyph": "🪗",

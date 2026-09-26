@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "man",
+    "red hair",
+    "红发男人",
+    "人物与身体"
+  ],
   "cldr": "man: red hair",
   "fromVersion": "11.0",
   "glyph": "👨‍🦰",

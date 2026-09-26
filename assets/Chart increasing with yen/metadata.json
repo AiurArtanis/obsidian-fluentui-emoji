@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "chart",
+    "chart increasing with yen",
+    "graph",
+    "growth",
+    "money",
+    "yen",
+    "日元上涨图表",
+    "带日元的上升图表",
+    "物品"
+  ],
   "cldr": "chart increasing with yen",
   "fromVersion": "0.6",
   "glyph": "💹",

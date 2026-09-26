@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“application”",
+    "ideograph",
+    "Japanese",
+    "Japanese “application” button",
+    "申",
+    "日文申请按钮",
+    "申请",
+    "符号"
+  ],
   "cldr": "Japanese “application” button",
   "fromVersion": "0.6",
   "glyph": "🈸",

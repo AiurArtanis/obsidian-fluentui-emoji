@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arepa",
+    "flatbread",
+    "lavash",
+    "naan",
+    "pita",
+    "扁面包",
+    "食物与饮品"
+  ],
   "cldr": "flatbread",
   "fromVersion": "13.0",
   "glyph": "🫓",

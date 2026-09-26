@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "baby",
+    "bird",
+    "chick",
+    "hatching",
+    "小鸡破壳",
+    "动物与自然"
+  ],
   "cldr": "hatching chick",
   "fromVersion": "0.6",
   "glyph": "🐣",

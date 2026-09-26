@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "ink",
+    "lock",
+    "locked with pen",
+    "nib",
+    "pen",
+    "privacy",
+    "墨水笔和锁",
+    "带锁的签字笔",
+    "物品"
+  ],
   "cldr": "locked with pen",
   "fromVersion": "0.6",
   "glyph": "🔏",

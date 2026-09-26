@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "r",
+    "registered",
+    "注册商标",
+    "注册符号",
+    "符号"
+  ],
   "cldr": "registered",
   "fromVersion": "0.6",
   "glyph": "®️",

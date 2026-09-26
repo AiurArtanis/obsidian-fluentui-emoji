@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "monster",
+    "robot",
+    "机器人",
+    "机械脸",
+    "笑脸与情感"
+  ],
   "cldr": "robot",
   "fromVersion": "1.0",
   "glyph": "🤖",

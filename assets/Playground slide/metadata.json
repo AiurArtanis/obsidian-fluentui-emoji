@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "amusement park",
+    "play",
+    "playground slide",
+    "游乐场滑梯",
+    "滑梯",
+    "旅行与地点"
+  ],
   "cldr": "playground slide",
   "fromVersion": "14.0",
   "glyph": "🛝",

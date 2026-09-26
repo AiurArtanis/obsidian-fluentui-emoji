@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "astronaut",
+    "rocket",
+    "woman",
+    "女宇航员",
+    "女航天员",
+    "人物与身体"
+  ],
   "cldr": "woman astronaut",
   "fromVersion": "4.0",
   "glyph": "👩‍🚀",

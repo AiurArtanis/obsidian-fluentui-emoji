@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "circle",
+    "orange",
+    "橙色圆",
+    "橙色圆圈",
+    "符号"
+  ],
   "cldr": "orange circle",
   "fromVersion": "12.0",
   "glyph": "🟠",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "badminton",
+    "birdie",
+    "game",
+    "racquet",
+    "shuttlecock",
+    "羽毛球",
+    "活动"
+  ],
   "cldr": "badminton",
   "fromVersion": "1.0",
   "glyph": "🏸",

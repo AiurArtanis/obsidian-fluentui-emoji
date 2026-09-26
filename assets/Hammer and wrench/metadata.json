@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "hammer",
+    "hammer and wrench",
+    "spanner",
+    "tool",
+    "wrench",
+    "锤子与扳手",
+    "修理工具",
+    "物品"
+  ],
   "cldr": "hammer and wrench",
   "fromVersion": "0.7",
   "glyph": "🛠️",

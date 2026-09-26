@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ballet",
+    "ballet shoes",
+    "dance",
+    "芭蕾舞鞋",
+    "物品"
+  ],
   "cldr": "ballet shoes",
   "fromVersion": "12.0",
   "glyph": "🩰",

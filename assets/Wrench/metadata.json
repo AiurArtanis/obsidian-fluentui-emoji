@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "spanner",
+    "tool",
+    "wrench",
+    "扳手",
+    "物品"
+  ],
   "cldr": "wrench",
   "fromVersion": "0.6",
   "glyph": "🔧",

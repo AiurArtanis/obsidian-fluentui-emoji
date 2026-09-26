@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "face with steam from nose",
+    "triumph",
+    "won",
+    "鼻孔喷气",
+    "傲慢",
+    "笑脸与情感"
+  ],
   "cldr": "face with steam from nose",
   "fromVersion": "0.6",
   "glyph": "😤",

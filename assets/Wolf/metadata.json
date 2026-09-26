@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "wolf",
+    "狼",
+    "狼脸",
+    "动物与自然"
+  ],
   "cldr": "wolf",
   "fromVersion": "0.6",
   "glyph": "🐺",

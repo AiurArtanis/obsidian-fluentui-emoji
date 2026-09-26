@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "detective",
+    "sleuth",
+    "spy",
+    "侦探",
+    "警探",
+    "人物与身体"
+  ],
   "cldr": "detective",
   "fromVersion": "0.7",
   "glyph": "🕵️",

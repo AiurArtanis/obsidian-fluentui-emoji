@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "sleep",
+    "sleepy face",
+    "困",
+    "打瞌睡的脸",
+    "笑脸与情感"
+  ],
   "cldr": "sleepy face",
   "fromVersion": "0.6",
   "glyph": "😪",

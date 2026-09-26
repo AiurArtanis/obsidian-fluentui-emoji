@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "baguette",
+    "bread",
+    "food",
+    "french",
+    "法式长棍面包",
+    "法棍",
+    "食物与饮品"
+  ],
   "cldr": "baguette bread",
   "fromVersion": "3.0",
   "glyph": "🥖",

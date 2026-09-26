@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "taxi",
+    "vehicle",
+    "出租车",
+    "的士",
+    "旅行与地点"
+  ],
   "cldr": "taxi",
   "fromVersion": "0.6",
   "glyph": "🚕",

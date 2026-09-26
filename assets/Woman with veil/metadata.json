@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "veil",
+    "woman",
+    "woman with veil",
+    "戴头纱的女人",
+    "披头纱的女人",
+    "人物与身体"
+  ],
   "cldr": "woman with veil",
   "fromVersion": "13.0",
   "glyph": "👰‍♀️",

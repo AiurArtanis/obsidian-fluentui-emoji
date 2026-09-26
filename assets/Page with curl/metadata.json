@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "curl",
+    "document",
+    "page",
+    "page with curl",
+    "带卷边的页面",
+    "卷起的纸页",
+    "物品"
+  ],
   "cldr": "page with curl",
   "fromVersion": "0.6",
   "glyph": "📃",

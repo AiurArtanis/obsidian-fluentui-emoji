@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "Buddhism",
+    "flower",
+    "Hinduism",
+    "India",
+    "lotus",
+    "purity",
+    "Vietnam",
+    "莲花",
+    "荷花",
+    "动物与自然"
+  ],
   "cldr": "lotus",
   "fromVersion": "14.0",
   "glyph": "🪷",

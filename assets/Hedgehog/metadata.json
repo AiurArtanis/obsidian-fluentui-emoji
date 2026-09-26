@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "hedgehog",
+    "spiny",
+    "刺猬",
+    "动物与自然"
+  ],
   "cldr": "hedgehog",
   "fromVersion": "5.0",
   "glyph": "🦔",

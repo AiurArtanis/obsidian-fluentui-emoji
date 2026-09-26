@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "camping",
+    "tent",
+    "帐篷",
+    "露营帐篷",
+    "旅行与地点"
+  ],
   "cldr": "tent",
   "fromVersion": "0.6",
   "glyph": "⛺",

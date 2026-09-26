@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "broccoli",
+    "wild cabbage",
+    "西兰花",
+    "食物与饮品"
+  ],
   "cldr": "broccoli",
   "fromVersion": "5.0",
   "glyph": "🥦",

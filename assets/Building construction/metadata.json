@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "building construction",
+    "construction",
+    "建筑施工",
+    "建筑工地",
+    "旅行与地点"
+  ],
   "cldr": "building construction",
   "fromVersion": "0.7",
   "glyph": "🏗️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man",
+    "man in tuxedo",
+    "tuxedo",
+    "穿礼服的男人",
+    "穿燕尾服的男人",
+    "人物与身体"
+  ],
   "cldr": "man in tuxedo",
   "fromVersion": "13.0",
   "glyph": "🤵‍♂️",

@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "snail",
+    "蜗牛",
+    "动物与自然"
+  ],
   "cldr": "snail",
   "fromVersion": "0.6",
   "glyph": "🐌",

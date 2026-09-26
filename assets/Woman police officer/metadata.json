@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cop",
+    "officer",
+    "police",
+    "woman",
+    "女警察",
+    "人物与身体"
+  ],
   "cldr": "woman police officer",
   "fromVersion": "4.0",
   "glyph": "👮‍♀️",

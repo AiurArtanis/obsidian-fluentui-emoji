@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cucumber",
+    "food",
+    "pickle",
+    "vegetable",
+    "黄瓜",
+    "青瓜",
+    "食物与饮品"
+  ],
   "cldr": "cucumber",
   "fromVersion": "3.0",
   "glyph": "🥒",

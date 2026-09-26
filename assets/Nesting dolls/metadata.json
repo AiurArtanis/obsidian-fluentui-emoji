@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "doll",
+    "nesting",
+    "nesting dolls",
+    "russia",
+    "套娃",
+    "活动"
+  ],
   "cldr": "nesting dolls",
   "fromVersion": "13.0",
   "glyph": "🪆",

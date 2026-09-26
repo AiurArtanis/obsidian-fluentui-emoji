@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "rat",
+    "大鼠",
+    "老鼠",
+    "动物与自然"
+  ],
   "cldr": "rat",
   "fromVersion": "1.0",
   "glyph": "🐀",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "firefighter",
+    "firetruck",
+    "消防员",
+    "救火队员",
+    "人物与身体"
+  ],
   "cldr": "firefighter",
   "fromVersion": "12.1",
   "glyph": "🧑‍🚒",

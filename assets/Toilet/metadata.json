@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "toilet",
+    "马桶",
+    "抽水马桶",
+    "物品"
+  ],
   "cldr": "toilet",
   "fromVersion": "0.6",
   "glyph": "🚽",

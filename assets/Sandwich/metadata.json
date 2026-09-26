@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bread",
+    "sandwich",
+    "三明治",
+    "食物与饮品"
+  ],
   "cldr": "sandwich",
   "fromVersion": "5.0",
   "glyph": "🥪",

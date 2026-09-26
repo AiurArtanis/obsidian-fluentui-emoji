@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "disease",
+    "fly",
+    "maggot",
+    "pest",
+    "rotting",
+    "苍蝇",
+    "动物与自然"
+  ],
   "cldr": "fly",
   "fromVersion": "13.0",
   "glyph": "🪰",

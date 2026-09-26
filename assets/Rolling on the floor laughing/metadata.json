@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "face",
+    "floor",
+    "laugh",
+    "rofl",
+    "rolling",
+    "rolling on the floor laughing",
+    "rotfl",
+    "笑得满地打滚",
+    "笑翻了",
+    "笑脸与情感"
+  ],
   "cldr": "rolling on the floor laughing",
   "fromVersion": "3.0",
   "glyph": "🤣",

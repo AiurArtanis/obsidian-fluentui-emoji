@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "index pointing at the viewer",
+    "point",
+    "you",
+    "指向你的食指",
+    "指向观众的手",
+    "人物与身体"
+  ],
   "cldr": "index pointing at the viewer",
   "fromVersion": "14.0",
   "glyph": "🫵",

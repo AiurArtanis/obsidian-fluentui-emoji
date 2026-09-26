@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "card",
+    "game",
+    "joker",
+    "wildcard",
+    "小丑牌",
+    "大小王",
+    "活动"
+  ],
   "cldr": "joker",
   "fromVersion": "0.6",
   "glyph": "🃏",

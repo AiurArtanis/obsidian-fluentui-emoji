@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "finger",
+    "hand",
+    "index",
+    "index pointing up",
+    "point",
+    "up",
+    "食指向上指",
+    "向上指的手指",
+    "人物与身体"
+  ],
   "cldr": "index pointing up",
   "fromVersion": "0.6",
   "glyph": "☝️",

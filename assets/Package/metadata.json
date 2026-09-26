@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "box",
+    "package",
+    "parcel",
+    "包裹",
+    "快递包裹",
+    "物品"
+  ],
   "cldr": "package",
   "fromVersion": "0.6",
   "glyph": "📦",

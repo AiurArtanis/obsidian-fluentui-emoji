@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "anchor",
+    "emblem",
+    "ship",
+    "tool",
+    "trident",
+    "三叉戟徽章",
+    "三叉戟标志",
+    "符号"
+  ],
   "cldr": "trident emblem",
   "fromVersion": "0.6",
   "glyph": "🔱",

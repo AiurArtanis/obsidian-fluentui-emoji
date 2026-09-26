@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "face",
+    "outlined",
+    "relaxed",
+    "smile",
+    "smiling face",
+    "微笑",
+    "笑脸",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face",
   "fromVersion": "0.6",
   "glyph": "☺️",

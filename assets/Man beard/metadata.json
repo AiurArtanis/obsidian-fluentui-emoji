@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "beard",
+    "man",
+    "man: beard",
+    "有络腮胡子的男人",
+    "大胡子男人",
+    "人物与身体"
+  ],
   "cldr": "man: beard",
   "fromVersion": "13.1",
   "glyph": "🧔‍♂️",

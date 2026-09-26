@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "baby",
+    "young",
+    "婴儿",
+    "宝宝",
+    "人物与身体"
+  ],
   "cldr": "baby",
   "fromVersion": "0.6",
   "glyph": "👶",

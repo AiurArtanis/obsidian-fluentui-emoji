@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "butterfly",
+    "insect",
+    "pretty",
+    "蝴蝶",
+    "动物与自然"
+  ],
   "cldr": "butterfly",
   "fromVersion": "3.0",
   "glyph": "🦋",

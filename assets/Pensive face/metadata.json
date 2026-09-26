@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dejected",
+    "face",
+    "pensive",
+    "沉思",
+    "忧郁的脸",
+    "笑脸与情感"
+  ],
   "cldr": "pensive face",
   "fromVersion": "0.6",
   "glyph": "😔",

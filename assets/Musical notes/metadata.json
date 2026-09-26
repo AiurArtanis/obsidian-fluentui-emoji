@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "music",
+    "musical notes",
+    "note",
+    "notes",
+    "多个音符",
+    "一组音符",
+    "物品"
+  ],
   "cldr": "musical notes",
   "fromVersion": "0.6",
   "glyph": "🎶",

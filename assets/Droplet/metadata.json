@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cold",
+    "comic",
+    "drop",
+    "droplet",
+    "sweat",
+    "水滴",
+    "旅行与地点"
+  ],
   "cldr": "droplet",
   "fromVersion": "0.6",
   "glyph": "💧",

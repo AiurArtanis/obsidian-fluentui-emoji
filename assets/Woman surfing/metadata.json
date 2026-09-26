@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "surfing",
+    "woman",
+    "冲浪的女人",
+    "人物与身体"
+  ],
   "cldr": "woman surfing",
   "fromVersion": "4.0",
   "glyph": "🏄‍♀️",

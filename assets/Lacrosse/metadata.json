@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "goal",
+    "lacrosse",
+    "stick",
+    "长曲棍球",
+    "活动"
+  ],
   "cldr": "lacrosse",
   "fromVersion": "11.0",
   "glyph": "🥍",

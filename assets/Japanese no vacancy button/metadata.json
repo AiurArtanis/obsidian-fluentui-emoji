@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“no vacancy”",
+    "ideograph",
+    "Japanese",
+    "Japanese “no vacancy” button",
+    "満",
+    "日文满员按钮",
+    "无空位",
+    "符号"
+  ],
   "cldr": "Japanese “no vacancy” button",
   "fromVersion": "0.6",
   "glyph": "🈵",

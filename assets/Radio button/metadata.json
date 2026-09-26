@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "button",
+    "geometric",
+    "radio",
+    "单选按钮",
+    "符号"
+  ],
   "cldr": "radio button",
   "fromVersion": "0.6",
   "glyph": "🔘",

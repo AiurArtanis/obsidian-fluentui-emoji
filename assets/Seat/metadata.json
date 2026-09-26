@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "chair",
+    "seat",
+    "座位",
+    "座椅",
+    "旅行与地点"
+  ],
   "cldr": "seat",
   "fromVersion": "0.6",
   "glyph": "💺",

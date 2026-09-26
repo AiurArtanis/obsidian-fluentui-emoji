@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "unamused",
+    "unhappy",
+    "不高兴",
+    "嫌弃脸",
+    "笑脸与情感"
+  ],
   "cldr": "unamused face",
   "fromVersion": "0.6",
   "glyph": "😒",

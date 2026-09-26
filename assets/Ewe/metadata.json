@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ewe",
+    "female",
+    "sheep",
+    "母羊",
+    "动物与自然"
+  ],
   "cldr": "ewe",
   "fromVersion": "0.6",
   "glyph": "🐑",

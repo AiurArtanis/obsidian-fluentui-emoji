@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ocean",
+    "water",
+    "wave",
+    "浪花",
+    "海浪",
+    "旅行与地点"
+  ],
   "cldr": "water wave",
   "fromVersion": "0.6",
   "glyph": "🌊",

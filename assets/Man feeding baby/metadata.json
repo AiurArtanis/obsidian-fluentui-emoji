@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "baby",
+    "feeding",
+    "man",
+    "nursing",
+    "喂婴儿的男人",
+    "奶爸",
+    "人物与身体"
+  ],
   "cldr": "man feeding baby",
   "fromVersion": "13.0",
   "glyph": "👨‍🍼",

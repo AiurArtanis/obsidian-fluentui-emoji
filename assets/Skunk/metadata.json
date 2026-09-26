@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "skunk",
+    "stink",
+    "臭鼬",
+    "动物与自然"
+  ],
   "cldr": "skunk",
   "fromVersion": "12.0",
   "glyph": "🦨",

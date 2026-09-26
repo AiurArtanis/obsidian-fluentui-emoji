@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "dung",
+    "face",
+    "monster",
+    "pile of poo",
+    "poo",
+    "poop",
+    "大便",
+    "便便",
+    "笑脸与情感"
+  ],
   "cldr": "pile of poo",
   "fromVersion": "0.6",
   "glyph": "💩",

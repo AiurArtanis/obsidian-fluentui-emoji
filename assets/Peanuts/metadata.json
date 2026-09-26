@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "food",
+    "nut",
+    "peanut",
+    "peanuts",
+    "vegetable",
+    "花生",
+    "花生米",
+    "食物与饮品"
+  ],
   "cldr": "peanuts",
   "fromVersion": "3.0",
   "glyph": "🥜",

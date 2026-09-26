@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "construction",
+    "man",
+    "worker",
+    "男建筑工人",
+    "人物与身体"
+  ],
   "cldr": "man construction worker",
   "fromVersion": "4.0",
   "glyph": "👷‍♂️",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "buffalo",
+    "water",
+    "水牛",
+    "动物与自然"
+  ],
   "cldr": "water buffalo",
   "fromVersion": "1.0",
   "glyph": "🐃",

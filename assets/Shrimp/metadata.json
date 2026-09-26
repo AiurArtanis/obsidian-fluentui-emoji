@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "food",
+    "shellfish",
+    "shrimp",
+    "small",
+    "虾",
+    "小虾",
+    "食物与饮品"
+  ],
   "cldr": "shrimp",
   "fromVersion": "3.0",
   "glyph": "🦐",

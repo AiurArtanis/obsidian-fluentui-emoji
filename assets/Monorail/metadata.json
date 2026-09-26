@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "monorail",
+    "vehicle",
+    "单轨",
+    "单轨列车",
+    "旅行与地点"
+  ],
   "cldr": "monorail",
   "fromVersion": "1.0",
   "glyph": "🚝",

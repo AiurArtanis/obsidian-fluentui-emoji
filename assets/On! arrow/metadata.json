@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "mark",
+    "on",
+    "ON! arrow",
+    "ON! 箭头",
+    "开启箭头",
+    "符号"
+  ],
   "cldr": "ON! arrow",
   "fromVersion": "0.6",
   "glyph": "🔛",

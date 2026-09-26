@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "climber",
+    "woman climbing",
+    "攀爬的女人",
+    "攀岩的女人",
+    "人物与身体"
+  ],
   "cldr": "woman climbing",
   "fromVersion": "5.0",
   "glyph": "🧗‍♀️",

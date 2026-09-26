@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "diving",
+    "diving mask",
+    "scuba",
+    "snorkeling",
+    "潜水镜",
+    "活动"
+  ],
   "cldr": "diving mask",
   "fromVersion": "12.0",
   "glyph": "🤿",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "djinn",
+    "genie",
+    "灯神",
+    "神灯精灵",
+    "人物与身体"
+  ],
   "cldr": "genie",
   "fromVersion": "5.0",
   "glyph": "🧞",

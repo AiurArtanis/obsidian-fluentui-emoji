@@ -1,4 +1,5 @@
 {
+  "alias": ["paperclip", "回形针", "曲别针", "物品"],
   "cldr": "paperclip",
   "fromVersion": "0.6",
   "glyph": "📎",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "stadium",
+    "体育场",
+    "体育馆",
+    "旅行与地点"
+  ],
   "cldr": "stadium",
   "fromVersion": "0.7",
   "glyph": "🏟️",

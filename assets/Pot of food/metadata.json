@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "pot",
+    "pot of food",
+    "stew",
+    "一锅食物",
+    "炖菜",
+    "食物与饮品"
+  ],
   "cldr": "pot of food",
   "fromVersion": "0.6",
   "glyph": "🍲",

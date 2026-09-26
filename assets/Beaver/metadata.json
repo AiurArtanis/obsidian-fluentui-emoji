@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "beaver",
+    "dam",
+    "海狸",
+    "河狸",
+    "动物与自然"
+  ],
   "cldr": "beaver",
   "fromVersion": "13.0",
   "glyph": "🦫",

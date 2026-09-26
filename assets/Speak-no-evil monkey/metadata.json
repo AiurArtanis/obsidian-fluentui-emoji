@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "evil",
+    "face",
+    "forbidden",
+    "monkey",
+    "speak",
+    "speak-no-evil monkey",
+    "非礼勿言",
+    "捂嘴的猴子",
+    "笑脸与情感"
+  ],
   "cldr": "speak-no-evil monkey",
   "fromVersion": "0.6",
   "glyph": "🙊",

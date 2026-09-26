@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cold",
+    "downcast face with sweat",
+    "face",
+    "sweat",
+    "沮丧流汗的脸",
+    "擦汗",
+    "笑脸与情感"
+  ],
   "cldr": "downcast face with sweat",
   "fromVersion": "0.6",
   "glyph": "😓",

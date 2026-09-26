@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "box",
+    "inbox",
+    "letter",
+    "mail",
+    "receive",
+    "tray",
+    "收件箱",
+    "物品"
+  ],
   "cldr": "inbox tray",
   "fromVersion": "0.6",
   "glyph": "📥",

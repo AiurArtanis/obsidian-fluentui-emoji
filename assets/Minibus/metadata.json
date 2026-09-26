@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bus",
+    "minibus",
+    "小巴",
+    "小型巴士",
+    "旅行与地点"
+  ],
   "cldr": "minibus",
   "fromVersion": "1.0",
   "glyph": "🚐",

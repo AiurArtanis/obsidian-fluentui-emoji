@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bacon",
+    "breakfast",
+    "food",
+    "meat",
+    "培根",
+    "食物与饮品"
+  ],
   "cldr": "bacon",
   "fromVersion": "3.0",
   "glyph": "🥓",

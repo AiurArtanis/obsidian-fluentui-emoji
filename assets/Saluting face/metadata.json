@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "OK",
+    "salute",
+    "saluting face",
+    "sunny",
+    "troops",
+    "yes",
+    "致敬",
+    "敬礼的脸",
+    "笑脸与情感"
+  ],
   "cldr": "saluting face",
   "fromVersion": "14.0",
   "glyph": "🫡",

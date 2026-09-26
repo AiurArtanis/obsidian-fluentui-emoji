@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "baby",
+    "baby symbol",
+    "changing",
+    "宝宝",
+    "婴儿标志",
+    "符号"
+  ],
   "cldr": "baby symbol",
   "fromVersion": "0.6",
   "glyph": "🚼",

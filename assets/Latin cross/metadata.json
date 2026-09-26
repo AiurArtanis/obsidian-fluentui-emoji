@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "Christian",
+    "cross",
+    "latin cross",
+    "religion",
+    "拉丁十字架",
+    "基督教十字架",
+    "符号"
+  ],
   "cldr": "latin cross",
   "fromVersion": "0.7",
   "glyph": "✝️",

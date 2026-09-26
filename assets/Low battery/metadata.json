@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "electronic",
+    "low battery",
+    "low energy",
+    "电池电量不足",
+    "低电量",
+    "物品"
+  ],
   "cldr": "low battery",
   "fromVersion": "14.0",
   "glyph": "🪫",

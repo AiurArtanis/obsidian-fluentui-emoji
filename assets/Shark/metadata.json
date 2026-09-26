@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "fish",
+    "shark",
+    "鲨鱼",
+    "动物与自然"
+  ],
   "cldr": "shark",
   "fromVersion": "3.0",
   "glyph": "🦈",

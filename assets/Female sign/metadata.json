@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "female sign",
+    "woman",
+    "女性符号",
+    "女性性别标志",
+    "符号"
+  ],
   "cldr": "female sign",
   "fromVersion": "4.0",
   "glyph": "♀️",

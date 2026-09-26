@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "button",
+    "down",
+    "downwards button",
+    "red",
+    "向下三角形按钮",
+    "向下按钮",
+    "符号"
+  ],
   "cldr": "downwards button",
   "fromVersion": "0.6",
   "glyph": "🔽",

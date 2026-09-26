@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "football",
+    "rugby",
+    "英式橄榄球",
+    "橄榄球",
+    "活动"
+  ],
   "cldr": "rugby football",
   "fromVersion": "1.0",
   "glyph": "🏉",

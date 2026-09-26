@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "body",
+    "eye",
+    "眼睛",
+    "眼",
+    "人物与身体"
+  ],
   "cldr": "eye",
   "fromVersion": "0.7",
   "glyph": "👁️",

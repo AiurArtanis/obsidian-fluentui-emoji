@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "seven",
+    "按键 7",
+    "数字键 7",
+    "符号"
+  ],
   "cldr": "keycap: 7",
   "fromVersion": "0.6",
   "glyph": "7️⃣",

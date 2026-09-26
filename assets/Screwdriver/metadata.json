@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "screw",
+    "screwdriver",
+    "tool",
+    "螺丝刀",
+    "改锥",
+    "物品"
+  ],
   "cldr": "screwdriver",
   "fromVersion": "13.0",
   "glyph": "🪛",

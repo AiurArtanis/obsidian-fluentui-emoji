@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "accessibility",
+    "manual wheelchair",
+    "手动轮椅",
+    "旅行与地点"
+  ],
   "cldr": "manual wheelchair",
   "fromVersion": "12.0",
   "glyph": "🦽",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "thinking",
+    "想一想",
+    "思考的脸",
+    "笑脸与情感"
+  ],
   "cldr": "thinking face",
   "fromVersion": "1.0",
   "glyph": "🤔",

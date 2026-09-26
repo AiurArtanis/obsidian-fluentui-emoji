@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "angry",
+    "cry",
+    "face holding back tears",
+    "proud",
+    "resist",
+    "sad",
+    "忍住泪水",
+    "强忍眼泪",
+    "笑脸与情感"
+  ],
   "cldr": "face holding back tears",
   "fromVersion": "14.0",
   "glyph": "🥹",

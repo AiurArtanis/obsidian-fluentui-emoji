@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bored",
+    "tired",
+    "yawn",
+    "yawning face",
+    "打呵欠",
+    "打哈欠",
+    "笑脸与情感"
+  ],
   "cldr": "yawning face",
   "fromVersion": "12.0",
   "glyph": "🥱",

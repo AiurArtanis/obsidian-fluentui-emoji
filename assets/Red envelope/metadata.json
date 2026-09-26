@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "gift",
+    "good luck",
+    "hóngbāo",
+    "lai see",
+    "money",
+    "red envelope",
+    "红包",
+    "活动"
+  ],
   "cldr": "red envelope",
   "fromVersion": "11.0",
   "glyph": "🧧",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "banknote",
+    "bill",
+    "currency",
+    "money",
+    "note",
+    "yen",
+    "日元",
+    "日元纸币",
+    "物品"
+  ],
   "cldr": "yen banknote",
   "fromVersion": "0.6",
   "glyph": "💴",

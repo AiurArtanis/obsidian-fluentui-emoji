@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "18",
+    "age restriction",
+    "eighteen",
+    "no one under eighteen",
+    "prohibited",
+    "underage",
+    "18 禁",
+    "未成年人禁止",
+    "符号"
+  ],
   "cldr": "no one under eighteen",
   "fromVersion": "0.6",
   "glyph": "🔞",

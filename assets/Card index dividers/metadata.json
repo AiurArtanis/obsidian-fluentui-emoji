@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "card",
+    "dividers",
+    "index",
+    "索引分隔卡",
+    "卡片隔板",
+    "物品"
+  ],
   "cldr": "card index dividers",
   "fromVersion": "0.7",
   "glyph": "🗂️",

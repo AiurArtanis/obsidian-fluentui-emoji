@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "citrus",
+    "fruit",
+    "lemon",
+    "柠檬",
+    "食物与饮品"
+  ],
   "cldr": "lemon",
   "fromVersion": "1.0",
   "glyph": "🍋",

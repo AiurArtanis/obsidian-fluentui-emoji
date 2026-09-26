@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "banknote",
+    "bill",
+    "currency",
+    "euro",
+    "money",
+    "note",
+    "欧元",
+    "欧元纸币",
+    "物品"
+  ],
   "cldr": "euro banknote",
   "fromVersion": "1.0",
   "glyph": "💶",

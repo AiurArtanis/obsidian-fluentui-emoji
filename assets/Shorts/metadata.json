@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bathing suit",
+    "pants",
+    "shorts",
+    "underwear",
+    "短裤",
+    "物品"
+  ],
   "cldr": "shorts",
   "fromVersion": "12.0",
   "glyph": "🩳",

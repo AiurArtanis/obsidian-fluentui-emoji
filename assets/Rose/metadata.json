@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flower",
+    "rose",
+    "玫瑰",
+    "玫瑰花",
+    "动物与自然"
+  ],
   "cldr": "rose",
   "fromVersion": "0.6",
   "glyph": "🌹",

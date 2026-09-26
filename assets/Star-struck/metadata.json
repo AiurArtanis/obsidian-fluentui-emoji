@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "eyes",
+    "face",
+    "grinning",
+    "star",
+    "star-struck",
+    "好崇拜哦",
+    "星星眼",
+    "笑脸与情感"
+  ],
   "cldr": "star-struck",
   "fromVersion": "5.0",
   "glyph": "🤩",

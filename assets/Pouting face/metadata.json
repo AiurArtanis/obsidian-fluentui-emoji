@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "angry",
+    "face",
+    "mad",
+    "pouting",
+    "rage",
+    "red",
+    "怒火中烧",
+    "愤怒的脸",
+    "笑脸与情感"
+  ],
   "cldr": "pouting face",
   "fromVersion": "0.6",
   "glyph": "😡",

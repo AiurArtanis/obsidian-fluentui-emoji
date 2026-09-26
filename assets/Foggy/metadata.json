@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fog",
+    "foggy",
+    "有雾",
+    "雾天",
+    "旅行与地点"
+  ],
   "cldr": "foggy",
   "fromVersion": "0.6",
   "glyph": "🌁",

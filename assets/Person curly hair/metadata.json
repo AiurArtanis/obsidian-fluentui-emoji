@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "adult",
+    "curly hair",
+    "gender-neutral",
+    "person",
+    "unspecified gender",
+    "卷发的人",
+    "头发卷曲的人",
+    "人物与身体"
+  ],
   "cldr": "person: curly hair",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦱",

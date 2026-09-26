@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "camping",
+    "露营",
+    "旅行与地点"
+  ],
   "cldr": "camping",
   "fromVersion": "0.7",
   "glyph": "🏕️",

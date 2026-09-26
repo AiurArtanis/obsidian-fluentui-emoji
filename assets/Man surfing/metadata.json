@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "man",
+    "surfing",
+    "男生冲浪",
+    "冲浪的男人",
+    "人物与身体"
+  ],
   "cldr": "man surfing",
   "fromVersion": "4.0",
   "glyph": "🏄‍♂️",

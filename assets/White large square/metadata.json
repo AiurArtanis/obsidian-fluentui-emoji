@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "geometric",
+    "square",
+    "white large square",
+    "白色大方块",
+    "符号"
+  ],
   "cldr": "white large square",
   "fromVersion": "0.6",
   "glyph": "⬜",

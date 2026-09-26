@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fortune cookie",
+    "prophecy",
+    "幸运饼干",
+    "签语饼",
+    "食物与饮品"
+  ],
   "cldr": "fortune cookie",
   "fromVersion": "5.0",
   "glyph": "🥠",

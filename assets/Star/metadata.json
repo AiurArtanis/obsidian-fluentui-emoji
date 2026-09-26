@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "star",
+    "星星",
+    "五角星",
+    "旅行与地点"
+  ],
   "cldr": "star",
   "fromVersion": "0.6",
   "glyph": "⭐",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "person shrugging",
+    "shrug",
+    "耸肩的人",
+    "摊手的人",
+    "人物与身体"
+  ],
   "cldr": "person shrugging",
   "fromVersion": "3.0",
   "glyph": "🤷",

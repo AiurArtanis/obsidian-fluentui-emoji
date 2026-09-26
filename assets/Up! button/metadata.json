@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "mark",
+    "up",
+    "UP! button",
+    "升级按钮",
+    "更新按钮",
+    "符号"
+  ],
   "cldr": "UP! button",
   "fromVersion": "0.6",
   "glyph": "🆙",

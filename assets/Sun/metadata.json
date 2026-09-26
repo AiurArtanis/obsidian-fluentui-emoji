@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bright",
+    "rays",
+    "sun",
+    "sunny",
+    "太阳",
+    "阳光",
+    "旅行与地点"
+  ],
   "cldr": "sun",
   "fromVersion": "0.6",
   "glyph": "☀️",

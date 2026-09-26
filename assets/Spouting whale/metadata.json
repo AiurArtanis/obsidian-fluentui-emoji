@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "spouting",
+    "whale",
+    "喷水的鲸",
+    "鲸鱼",
+    "动物与自然"
+  ],
   "cldr": "spouting whale",
   "fromVersion": "0.6",
   "glyph": "🐳",

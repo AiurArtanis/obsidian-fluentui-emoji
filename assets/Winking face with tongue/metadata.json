@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "eye",
+    "face",
+    "joke",
+    "tongue",
+    "wink",
+    "winking face with tongue",
+    "眨眼吐舌",
+    "调皮眨眼",
+    "笑脸与情感"
+  ],
   "cldr": "winking face with tongue",
   "fromVersion": "0.6",
   "glyph": "😜",

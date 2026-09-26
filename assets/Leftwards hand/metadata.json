@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "hand",
+    "left",
+    "leftward",
+    "leftwards hand",
+    "向左的手",
+    "朝左的手掌",
+    "人物与身体"
+  ],
   "cldr": "leftwards hand",
   "fromVersion": "14.0",
   "glyph": "🫲",

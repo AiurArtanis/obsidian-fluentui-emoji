@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“open for business”",
+    "ideograph",
+    "Japanese",
+    "Japanese “open for business” button",
+    "営",
+    "日文营业中按钮",
+    "营业中",
+    "符号"
+  ],
   "cldr": "Japanese “open for business” button",
   "fromVersion": "0.6",
   "glyph": "🈺",

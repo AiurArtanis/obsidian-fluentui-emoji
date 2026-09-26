@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "circle",
+    "tire",
+    "turn",
+    "wheel",
+    "车轮",
+    "轮胎",
+    "旅行与地点"
+  ],
   "cldr": "wheel",
   "fromVersion": "14.0",
   "glyph": "🛞",

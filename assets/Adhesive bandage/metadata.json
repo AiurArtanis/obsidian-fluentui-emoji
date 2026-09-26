@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adhesive bandage",
+    "bandage",
+    "创可贴",
+    "止血贴",
+    "物品"
+  ],
   "cldr": "adhesive bandage",
   "fromVersion": "12.0",
   "glyph": "🩹",

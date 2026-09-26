@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "banner",
+    "celebration",
+    "Japanese",
+    "tanabata tree",
+    "tree",
+    "七夕树",
+    "活动"
+  ],
   "cldr": "tanabata tree",
   "fromVersion": "0.6",
   "glyph": "🎋",

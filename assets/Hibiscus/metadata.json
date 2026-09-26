@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "flower",
+    "hibiscus",
+    "芙蓉",
+    "动物与自然"
+  ],
   "cldr": "hibiscus",
   "fromVersion": "0.6",
   "glyph": "🌺",

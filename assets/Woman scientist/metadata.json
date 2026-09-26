@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "biologist",
+    "chemist",
+    "engineer",
+    "physicist",
+    "scientist",
+    "woman",
+    "女科学家",
+    "人物与身体"
+  ],
   "cldr": "woman scientist",
   "fromVersion": "4.0",
   "glyph": "👩‍🔬",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "fire",
+    "flame",
+    "tool",
+    "火焰",
+    "火",
+    "旅行与地点"
+  ],
   "cldr": "fire",
   "fromVersion": "0.6",
   "glyph": "🔥",

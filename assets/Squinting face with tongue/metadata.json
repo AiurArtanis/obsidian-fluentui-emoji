@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "eye",
+    "face",
+    "horrible",
+    "squinting face with tongue",
+    "taste",
+    "tongue",
+    "眯眼吐舌",
+    "笑脸与情感"
+  ],
   "cldr": "squinting face with tongue",
   "fromVersion": "0.6",
   "glyph": "😝",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "frown",
+    "frowning face",
+    "皱眉",
+    "不满的脸",
+    "笑脸与情感"
+  ],
   "cldr": "frowning face",
   "fromVersion": "0.7",
   "glyph": "☹️",

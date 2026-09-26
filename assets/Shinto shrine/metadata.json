@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "religion",
+    "shinto",
+    "shrine",
+    "神社",
+    "日本神社",
+    "旅行与地点"
+  ],
   "cldr": "shinto shrine",
   "fromVersion": "0.7",
   "glyph": "⛩️",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bear",
+    "face",
+    "熊",
+    "动物与自然"
+  ],
   "cldr": "bear",
   "fromVersion": "0.6",
   "glyph": "🐻",

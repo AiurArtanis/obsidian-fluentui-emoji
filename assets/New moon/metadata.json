@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "dark",
+    "moon",
+    "new moon",
+    "朔月",
+    "新月",
+    "旅行与地点"
+  ],
   "cldr": "new moon",
   "fromVersion": "0.6",
   "glyph": "🌑",

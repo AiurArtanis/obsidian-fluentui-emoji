@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "demonstration",
+    "picket",
+    "placard",
+    "protest",
+    "sign",
+    "标语牌",
+    "标牌",
+    "物品"
+  ],
   "cldr": "placard",
   "fromVersion": "13.0",
   "glyph": "🪧",

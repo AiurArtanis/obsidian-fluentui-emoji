@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bunny",
+    "pet",
+    "rabbit",
+    "兔子",
+    "动物与自然"
+  ],
   "cldr": "rabbit",
   "fromVersion": "1.0",
   "glyph": "🐇",

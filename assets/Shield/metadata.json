@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "shield",
+    "weapon",
+    "盾牌",
+    "盾",
+    "物品"
+  ],
   "cldr": "shield",
   "fromVersion": "0.7",
   "glyph": "🛡️",

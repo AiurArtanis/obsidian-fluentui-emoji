@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "dance",
+    "dancing",
+    "woman",
+    "跳舞的女人",
+    "人物与身体"
+  ],
   "cldr": "woman dancing",
   "fromVersion": "0.6",
   "glyph": "💃",

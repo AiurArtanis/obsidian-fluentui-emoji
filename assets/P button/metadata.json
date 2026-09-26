@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "P button",
+    "parking",
+    "停车按钮",
+    "停车场按钮",
+    "符号"
+  ],
   "cldr": "P button",
   "fromVersion": "0.6",
   "glyph": "🅿️",

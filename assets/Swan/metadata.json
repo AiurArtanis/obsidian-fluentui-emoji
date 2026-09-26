@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bird",
+    "cygnet",
+    "swan",
+    "ugly duckling",
+    "天鹅",
+    "动物与自然"
+  ],
   "cldr": "swan",
   "fromVersion": "11.0",
   "glyph": "🦢",

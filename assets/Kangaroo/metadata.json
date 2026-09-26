@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "Australia",
+    "joey",
+    "jump",
+    "kangaroo",
+    "marsupial",
+    "袋鼠",
+    "大袋鼠",
+    "动物与自然"
+  ],
   "cldr": "kangaroo",
   "fromVersion": "11.0",
   "glyph": "🦘",

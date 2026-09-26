@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fruit",
+    "mango",
+    "tropical",
+    "芒果",
+    "食物与饮品"
+  ],
   "cldr": "mango",
   "fromVersion": "11.0",
   "glyph": "🥭",

@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "crocodile",
+    "鳄鱼",
+    "动物与自然"
+  ],
   "cldr": "crocodile",
   "fromVersion": "1.0",
   "glyph": "🐊",

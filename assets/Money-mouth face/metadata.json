@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "money",
+    "money-mouth face",
+    "mouth",
+    "发财",
+    "财迷脸",
+    "笑脸与情感"
+  ],
   "cldr": "money-mouth face",
   "fromVersion": "1.0",
   "glyph": "🤑",

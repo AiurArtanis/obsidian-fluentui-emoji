@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "railway",
+    "station",
+    "train",
+    "车站",
+    "火车站",
+    "旅行与地点"
+  ],
   "cldr": "station",
   "fromVersion": "0.6",
   "glyph": "🚉",

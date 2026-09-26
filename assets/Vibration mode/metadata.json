@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cell",
+    "mobile",
+    "mode",
+    "phone",
+    "telephone",
+    "vibration",
+    "振动模式",
+    "手机振动",
+    "符号"
+  ],
   "cldr": "vibration mode",
   "fromVersion": "0.6",
   "glyph": "📳",

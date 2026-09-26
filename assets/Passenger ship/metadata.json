@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "passenger",
+    "ship",
+    "客轮",
+    "客船",
+    "旅行与地点"
+  ],
   "cldr": "passenger ship",
   "fromVersion": "0.7",
   "glyph": "🛳️",

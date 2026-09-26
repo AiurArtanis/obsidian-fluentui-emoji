@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "business",
+    "person",
+    "person in suit levitating",
+    "suit",
+    "穿西装漂浮的人",
+    "漂浮的西装人物",
+    "人物与身体"
+  ],
   "cldr": "person in suit levitating",
   "fromVersion": "0.7",
   "glyph": "🕴️",

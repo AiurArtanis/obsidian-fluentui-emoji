@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "left arrow",
+    "west",
+    "向左箭头",
+    "西向箭头",
+    "符号"
+  ],
   "cldr": "left arrow",
   "fromVersion": "0.6",
   "glyph": "⬅️",

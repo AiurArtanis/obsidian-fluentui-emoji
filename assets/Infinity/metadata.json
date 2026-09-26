@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "forever",
+    "infinity",
+    "unbounded",
+    "universal",
+    "无穷大",
+    "无限",
+    "符号"
+  ],
   "cldr": "infinity",
   "fromVersion": "11.0",
   "glyph": "♾️",

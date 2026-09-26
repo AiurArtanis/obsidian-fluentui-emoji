@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "face",
+    "unicorn",
+    "独角兽",
+    "动物与自然"
+  ],
   "cldr": "unicorn",
   "fromVersion": "1.0",
   "glyph": "🦄",

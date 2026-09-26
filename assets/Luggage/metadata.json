@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "luggage",
+    "packing",
+    "travel",
+    "行李箱",
+    "旅行与地点"
+  ],
   "cldr": "luggage",
   "fromVersion": "11.0",
   "glyph": "🧳",

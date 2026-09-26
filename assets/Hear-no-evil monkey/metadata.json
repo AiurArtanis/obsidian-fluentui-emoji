@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "evil",
+    "face",
+    "forbidden",
+    "hear",
+    "hear-no-evil monkey",
+    "monkey",
+    "非礼勿听",
+    "捂耳朵的猴子",
+    "笑脸与情感"
+  ],
   "cldr": "hear-no-evil monkey",
   "fromVersion": "0.6",
   "glyph": "🙉",

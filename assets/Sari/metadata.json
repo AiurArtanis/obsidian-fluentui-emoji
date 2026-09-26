@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "clothing",
+    "dress",
+    "sari",
+    "纱丽",
+    "印度纱丽",
+    "物品"
+  ],
   "cldr": "sari",
   "fromVersion": "12.0",
   "glyph": "🥻",

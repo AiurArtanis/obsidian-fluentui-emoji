@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "clapper",
+    "clapper board",
+    "movie",
+    "场记板",
+    "物品"
+  ],
   "cldr": "clapper board",
   "fromVersion": "0.6",
   "glyph": "🎬",

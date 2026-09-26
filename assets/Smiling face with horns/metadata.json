@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "face",
+    "fairy tale",
+    "fantasy",
+    "horns",
+    "smile",
+    "smiling face with horns",
+    "恶魔微笑",
+    "长角的笑脸",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with horns",
   "fromVersion": "1.0",
   "glyph": "😈",

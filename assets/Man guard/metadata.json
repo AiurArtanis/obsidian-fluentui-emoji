@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "guard",
+    "man",
+    "男卫兵",
+    "人物与身体"
+  ],
   "cldr": "man guard",
   "fromVersion": "4.0",
   "glyph": "💂‍♂️",

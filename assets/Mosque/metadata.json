@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "islam",
+    "mosque",
+    "Muslim",
+    "religion",
+    "清真寺",
+    "旅行与地点"
+  ],
   "cldr": "mosque",
   "fromVersion": "1.0",
   "glyph": "🕌",

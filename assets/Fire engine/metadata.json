@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "engine",
+    "fire",
+    "truck",
+    "消防车",
+    "旅行与地点"
+  ],
   "cldr": "fire engine",
   "fromVersion": "0.6",
   "glyph": "🚒",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "disbelief",
+    "exasperation",
+    "facepalm",
+    "man",
+    "man facepalming",
+    "男生捂脸",
+    "捂脸的男人",
+    "人物与身体"
+  ],
   "cldr": "man facepalming",
   "fromVersion": "4.0",
   "glyph": "🤦‍♂️",

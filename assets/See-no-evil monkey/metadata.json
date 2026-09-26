@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "evil",
+    "face",
+    "forbidden",
+    "monkey",
+    "see",
+    "see-no-evil monkey",
+    "非礼勿视",
+    "捂眼的猴子",
+    "笑脸与情感"
+  ],
   "cldr": "see-no-evil monkey",
   "fromVersion": "0.6",
   "glyph": "🙈",

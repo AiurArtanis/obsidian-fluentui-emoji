@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "circle",
+    "hollow red circle",
+    "large",
+    "o",
+    "red",
+    "红色空心圆圈",
+    "红色空心圆",
+    "符号"
+  ],
   "cldr": "hollow red circle",
   "fromVersion": "0.6",
   "glyph": "⭕",

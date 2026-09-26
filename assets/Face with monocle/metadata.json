@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face with monocle",
+    "stuffy",
+    "戴单片眼镜的脸",
+    "审视",
+    "笑脸与情感"
+  ],
   "cldr": "face with monocle",
   "fromVersion": "5.0",
   "glyph": "🧐",

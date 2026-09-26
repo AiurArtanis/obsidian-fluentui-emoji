@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "arrow",
+    "back",
+    "BACK arrow",
+    "返回箭头",
+    "返回",
+    "符号"
+  ],
   "cldr": "BACK arrow",
   "fromVersion": "0.6",
   "glyph": "🔙",

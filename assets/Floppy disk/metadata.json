@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "computer",
+    "disk",
+    "floppy",
+    "软盘",
+    "磁盘",
+    "物品"
+  ],
   "cldr": "floppy disk",
   "fromVersion": "0.6",
   "glyph": "💾",

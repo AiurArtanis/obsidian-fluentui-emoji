@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "T-Rex",
+    "Tyrannosaurus Rex",
+    "霸王龙",
+    "暴龙",
+    "动物与自然"
+  ],
   "cldr": "T-Rex",
   "fromVersion": "5.0",
   "glyph": "🦖",

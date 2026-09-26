@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "aesculapius",
+    "medical symbol",
+    "medicine",
+    "staff",
+    "医疗标志",
+    "医学符号",
+    "符号"
+  ],
   "cldr": "medical symbol",
   "fromVersion": "4.0",
   "glyph": "⚕️",

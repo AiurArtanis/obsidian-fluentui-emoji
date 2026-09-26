@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "shell",
+    "spiral",
+    "海螺",
+    "螺壳",
+    "动物与自然"
+  ],
   "cldr": "spiral shell",
   "fromVersion": "0.6",
   "glyph": "🐚",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cracker",
+    "rice",
+    "米饼",
+    "仙贝",
+    "食物与饮品"
+  ],
   "cldr": "rice cracker",
   "fromVersion": "0.6",
   "glyph": "🍘",

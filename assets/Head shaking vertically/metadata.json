@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "head shaking vertically",
+    "nod",
+    "yes",
+    "上下点头",
+    "点头同意",
+    "笑脸与情感"
+  ],
   "cldr": "head shaking vertically",
   "fromVersion": "15.1",
   "glyph": "🙂‍↕️",

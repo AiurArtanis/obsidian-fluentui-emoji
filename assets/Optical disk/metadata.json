@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cd",
+    "computer",
+    "disk",
+    "optical",
+    "光盘",
+    "物品"
+  ],
   "cldr": "optical disk",
   "fromVersion": "0.6",
   "glyph": "💿",

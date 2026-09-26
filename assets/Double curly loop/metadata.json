@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "curl",
+    "double",
+    "double curly loop",
+    "loop",
+    "双卷曲环",
+    "双卷曲符号",
+    "符号"
+  ],
   "cldr": "double curly loop",
   "fromVersion": "1.0",
   "glyph": "➿",

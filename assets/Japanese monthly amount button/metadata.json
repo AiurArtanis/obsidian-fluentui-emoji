@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“monthly amount”",
+    "ideograph",
+    "Japanese",
+    "Japanese “monthly amount” button",
+    "月",
+    "日文月额按钮",
+    "月费",
+    "符号"
+  ],
   "cldr": "Japanese “monthly amount” button",
   "fromVersion": "0.6",
   "glyph": "🈷️",

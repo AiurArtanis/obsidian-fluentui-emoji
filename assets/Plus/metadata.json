@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "+",
+    "math",
+    "plus",
+    "sign",
+    "加号",
+    "加法",
+    "符号"
+  ],
   "cldr": "plus",
   "fromVersion": "0.6",
   "glyph": "➕",

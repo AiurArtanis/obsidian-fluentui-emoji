@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bone",
+    "meat",
+    "meat on bone",
+    "带骨肉",
+    "肉骨头",
+    "食物与饮品"
+  ],
   "cldr": "meat on bone",
   "fromVersion": "0.6",
   "glyph": "🍖",

@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"Afro",
+		"comb",
+		"hair",
+		"pick",
+		"发梳",
+		"宽齿梳",
+		"物品"
+	],
 	"cldr": "hair pick",
 	"fromVersion": "15.0",
 	"glyph": "🪮",

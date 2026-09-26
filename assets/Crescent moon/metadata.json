@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "crescent",
+    "moon",
+    "弯月",
+    "月牙",
+    "旅行与地点"
+  ],
   "cldr": "crescent moon",
   "fromVersion": "0.6",
   "glyph": "🌙",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "delivery",
+    "truck",
+    "货车",
+    "送货车",
+    "旅行与地点"
+  ],
   "cldr": "delivery truck",
   "fromVersion": "0.6",
   "glyph": "🚚",

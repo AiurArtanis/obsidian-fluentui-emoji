@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bomb",
+    "comic",
+    "炸弹",
+    "笑脸与情感"
+  ],
   "cldr": "bomb",
   "fromVersion": "0.6",
   "glyph": "💣",

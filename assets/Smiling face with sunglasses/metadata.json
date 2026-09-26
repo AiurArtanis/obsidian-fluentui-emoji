@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bright",
+    "cool",
+    "face",
+    "smiling face with sunglasses",
+    "sun",
+    "sunglasses",
+    "墨镜笑脸",
+    "酷脸",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with sunglasses",
   "fromVersion": "1.0",
   "glyph": "😎",

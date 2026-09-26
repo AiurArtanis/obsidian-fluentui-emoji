@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "expressionless",
+    "face",
+    "inexpressive",
+    "meh",
+    "unexpressive",
+    "无语",
+    "面无表情",
+    "笑脸与情感"
+  ],
   "cldr": "expressionless face",
   "fromVersion": "1.0",
   "glyph": "😑",

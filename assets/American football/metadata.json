@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "american",
+    "ball",
+    "football",
+    "美式橄榄球",
+    "活动"
+  ],
   "cldr": "american football",
   "fromVersion": "0.6",
   "glyph": "🏈",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "00",
+    "3",
+    "3:00",
+    "clock",
+    "o’clock",
+    "three",
+    "三点",
+    "三点整",
+    "旅行与地点"
+  ],
   "cldr": "three o’clock",
   "fromVersion": "0.6",
   "glyph": "🕒",

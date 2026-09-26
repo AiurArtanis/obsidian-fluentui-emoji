@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "lavatory",
+    "restroom",
+    "wc",
+    "woman",
+    "women’s room",
+    "女厕",
+    "女洗手间",
+    "符号"
+  ],
   "cldr": "women’s room",
   "fromVersion": "0.6",
   "glyph": "🚺",

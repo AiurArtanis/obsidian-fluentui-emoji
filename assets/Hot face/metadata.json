@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "feverish",
+    "heat stroke",
+    "hot",
+    "hot face",
+    "red-faced",
+    "sweating",
+    "热得发烫的脸",
+    "中暑",
+    "笑脸与情感"
+  ],
   "cldr": "hot face",
   "fromVersion": "11.0",
   "glyph": "🥵",

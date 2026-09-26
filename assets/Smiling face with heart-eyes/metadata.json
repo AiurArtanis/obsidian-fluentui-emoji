@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "eye",
+    "face",
+    "love",
+    "smile",
+    "smiling face with heart-eyes",
+    "花痴",
+    "眼中冒爱心",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with heart-eyes",
   "fromVersion": "0.6",
   "glyph": "😍",

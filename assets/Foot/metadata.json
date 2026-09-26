@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "foot",
+    "kick",
+    "stomp",
+    "脚",
+    "脚掌",
+    "人物与身体"
+  ],
   "cldr": "foot",
   "fromVersion": "11.0",
   "glyph": "🦶",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bird",
+    "eagle",
+    "鹰",
+    "动物与自然"
+  ],
   "cldr": "eagle",
   "fromVersion": "3.0",
   "glyph": "🦅",

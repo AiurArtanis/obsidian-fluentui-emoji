@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "face",
+    "face screaming in fear",
+    "fear",
+    "munch",
+    "scared",
+    "scream",
+    "吓死了",
+    "惊恐尖叫",
+    "笑脸与情感"
+  ],
   "cldr": "face screaming in fear",
   "fromVersion": "0.6",
   "glyph": "😱",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "lips",
+    "mouth",
+    "嘴",
+    "嘴唇",
+    "人物与身体"
+  ],
   "cldr": "mouth",
   "fromVersion": "0.6",
   "glyph": "👄",

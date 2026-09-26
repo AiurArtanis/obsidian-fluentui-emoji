@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ball",
+    "football",
+    "soccer",
+    "足球",
+    "活动"
+  ],
   "cldr": "soccer ball",
   "fromVersion": "0.6",
   "glyph": "⚽",

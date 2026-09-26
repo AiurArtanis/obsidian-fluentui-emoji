@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "birthday",
+    "cake",
+    "celebration",
+    "dessert",
+    "pastry",
+    "sweet",
+    "生日蛋糕",
+    "食物与饮品"
+  ],
   "cldr": "birthday cake",
   "fromVersion": "0.6",
   "glyph": "🎂",

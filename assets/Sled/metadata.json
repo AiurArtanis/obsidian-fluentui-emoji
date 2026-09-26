@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "sled",
+    "sledge",
+    "sleigh",
+    "雪橇",
+    "活动"
+  ],
   "cldr": "sled",
   "fromVersion": "5.0",
   "glyph": "🛷",

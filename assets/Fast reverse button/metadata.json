@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "double",
+    "fast reverse button",
+    "rewind",
+    "快退按钮",
+    "倒带按钮",
+    "符号"
+  ],
   "cldr": "fast reverse button",
   "fromVersion": "0.6",
   "glyph": "⏪",

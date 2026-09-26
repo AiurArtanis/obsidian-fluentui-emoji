@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "clue",
+    "key",
+    "lock",
+    "old",
+    "老式钥匙",
+    "复古钥匙",
+    "物品"
+  ],
   "cldr": "old key",
   "fromVersion": "0.7",
   "glyph": "🗝️",

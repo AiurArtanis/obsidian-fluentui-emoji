@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "food",
+    "olive",
+    "橄榄",
+    "食物与饮品"
+  ],
   "cldr": "olive",
   "fromVersion": "13.0",
   "glyph": "🫒",

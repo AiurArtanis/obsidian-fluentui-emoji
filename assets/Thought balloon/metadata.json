@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "balloon",
+    "bubble",
+    "comic",
+    "thought",
+    "内心活动气泡",
+    "思考气泡",
+    "笑脸与情感"
+  ],
   "cldr": "thought balloon",
   "fromVersion": "1.0",
   "glyph": "💭",

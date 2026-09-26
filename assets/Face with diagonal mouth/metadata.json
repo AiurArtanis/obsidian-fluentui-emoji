@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "disappointed",
+    "face with diagonal mouth",
+    "meh",
+    "skeptical",
+    "unsure",
+    "郁闷",
+    "斜嘴脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with diagonal mouth",
   "fromVersion": "14.0",
   "glyph": "🫤",

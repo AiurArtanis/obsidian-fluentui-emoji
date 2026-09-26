@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "✓",
+    "button",
+    "check",
+    "mark",
+    "勾号按钮",
+    "对勾按钮",
+    "符号"
+  ],
   "cldr": "check mark button",
   "fromVersion": "0.6",
   "glyph": "✅",

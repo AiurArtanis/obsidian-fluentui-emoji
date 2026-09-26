@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "garden",
+    "home",
+    "house",
+    "house with garden",
+    "别墅",
+    "带花园的房子",
+    "旅行与地点"
+  ],
   "cldr": "house with garden",
   "fromVersion": "0.6",
   "glyph": "🏡",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "circle",
+    "circled M",
+    "m",
+    "圆圈内字母M",
+    "带圈的M",
+    "符号"
+  ],
   "cldr": "circled M",
   "fromVersion": "0.6",
   "glyph": "Ⓜ️",

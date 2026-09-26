@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cable",
+    "gondola",
+    "mountain",
+    "mountain cableway",
+    "缆车",
+    "高山缆车",
+    "旅行与地点"
+  ],
   "cldr": "mountain cableway",
   "fromVersion": "1.0",
   "glyph": "🚠",

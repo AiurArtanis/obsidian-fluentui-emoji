@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cake",
+    "fish",
+    "fish cake with swirl",
+    "pastry",
+    "swirl",
+    "鱼板",
+    "鱼糕",
+    "食物与饮品"
+  ],
   "cldr": "fish cake with swirl",
   "fromVersion": "0.6",
   "glyph": "🍥",

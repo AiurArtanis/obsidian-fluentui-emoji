@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "terrapin",
+    "tortoise",
+    "turtle",
+    "乌龟",
+    "动物与自然"
+  ],
   "cldr": "turtle",
   "fromVersion": "0.6",
   "glyph": "🐢",

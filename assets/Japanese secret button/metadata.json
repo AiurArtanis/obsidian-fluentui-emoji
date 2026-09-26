@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“secret”",
+    "ideograph",
+    "Japanese",
+    "Japanese “secret” button",
+    "秘",
+    "日文秘密按钮",
+    "秘密",
+    "符号"
+  ],
   "cldr": "Japanese “secret” button",
   "fromVersion": "0.6",
   "glyph": "㊙️",

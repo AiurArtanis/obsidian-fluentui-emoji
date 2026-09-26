@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "balloon",
+    "celebration",
+    "气球",
+    "活动"
+  ],
   "cldr": "balloon",
   "fromVersion": "0.6",
   "glyph": "🎈",

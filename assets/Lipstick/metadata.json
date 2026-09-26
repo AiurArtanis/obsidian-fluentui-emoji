@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cosmetics",
+    "lipstick",
+    "makeup",
+    "唇膏",
+    "口红",
+    "物品"
+  ],
   "cldr": "lipstick",
   "fromVersion": "0.6",
   "glyph": "💄",

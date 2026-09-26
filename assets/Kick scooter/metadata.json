@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "kick",
+    "scooter",
+    "滑板车",
+    "脚踏滑板车",
+    "旅行与地点"
+  ],
   "cldr": "kick scooter",
   "fromVersion": "3.0",
   "glyph": "🛴",

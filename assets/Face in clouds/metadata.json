@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "absentminded",
+    "face in clouds",
+    "face in the fog",
+    "head in clouds",
+    "迷茫",
+    "云里雾里",
+    "笑脸与情感"
+  ],
   "cldr": "face in clouds",
   "fromVersion": "13.1",
   "glyph": "😶‍🌫️",

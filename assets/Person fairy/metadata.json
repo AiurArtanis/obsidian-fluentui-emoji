@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "fairy",
+    "Oberon",
+    "Puck",
+    "Titania",
+    "精灵",
+    "小精灵",
+    "人物与身体"
+  ],
   "cldr": "fairy",
   "fromVersion": "5.0",
   "glyph": "🧚",

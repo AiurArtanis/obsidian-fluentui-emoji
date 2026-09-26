@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bandage",
+    "face",
+    "face with head-bandage",
+    "hurt",
+    "injury",
+    "受伤",
+    "缠绷带的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with head-bandage",
   "fromVersion": "1.0",
   "glyph": "🤕",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "equality",
+    "heavy equals sign",
+    "math",
+    "粗等号",
+    "粗体等号",
+    "符号"
+  ],
   "cldr": "heavy equals sign",
   "fromVersion": "14.0",
   "glyph": "🟰",

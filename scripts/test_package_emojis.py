@@ -64,10 +64,12 @@ class PackageEmojiTests(unittest.TestCase):
         asset_directory = self.assets / name
         asset_directory.mkdir(parents=True, exist_ok=True)
         metadata = {
+            "alias": [name.lower(), "测试别名"],
             "cldr": name.lower(),
             "glyph": "◇",
             "group": group,
             "unicode": name.casefold(),
+            "futureField": {"preserved": True},
         }
         (asset_directory / "metadata.json").write_text(
             json.dumps(metadata), encoding="utf-8"
@@ -189,6 +191,7 @@ class PackageEmojiTests(unittest.TestCase):
             records = [json.loads(line) for line in archive.read("metadata.json").decode("utf-8").splitlines()]
             self.assertIsNone(archive.testzip())
         self.assertEqual(3, len([item for item in records if item["emojiName"] == "Game"]))
+        self.assertTrue(all(item["alias"] and item["futureField"] == {"preserved": True} for item in records))
         self.assertEqual({"3d", "flat", "high-contrast"}, {item["emojiStyle"] for item in records if item["emojiName"] == "Game"})
         self.assertEqual(["Game", "Game", "Game", "Hand", "Hand", "Tool"], [item["emojiName"] for item in records])
         self.assertTrue(all(next(iter(item)) == "emojiName" and next(reversed(item)) == "emojiStyle" for item in records))
@@ -211,6 +214,8 @@ class PackageEmojiTests(unittest.TestCase):
         item = json.loads(lines[0])
         self.assertEqual("Game", item["emojiName"])
         self.assertEqual("Activities", item["group"])
+        self.assertEqual(["game", "测试别名"], item["alias"])
+        self.assertEqual({"preserved": True}, item["futureField"])
         self.assertEqual("flat", item["emojiStyle"])
         self.assertEqual("emojiName", next(iter(item)))
         self.assertEqual("emojiStyle", next(reversed(item)))

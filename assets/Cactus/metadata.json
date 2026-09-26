@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "cactus",
+    "plant",
+    "仙人掌",
+    "动物与自然"
+  ],
   "cldr": "cactus",
   "fromVersion": "0.6",
   "glyph": "🌵",

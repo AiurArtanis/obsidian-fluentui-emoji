@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "boring",
+    "grow",
+    "house",
+    "nurturing",
+    "plant",
+    "potted plant",
+    "useless",
+    "盆栽植物",
+    "盆栽",
+    "动物与自然"
+  ],
   "cldr": "potted plant",
   "fromVersion": "13.0",
   "glyph": "🪴",

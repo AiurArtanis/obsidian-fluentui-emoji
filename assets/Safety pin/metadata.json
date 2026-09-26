@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "diaper",
+    "punk rock",
+    "safety pin",
+    "安全别针",
+    "别针",
+    "物品"
+  ],
   "cldr": "safety pin",
   "fromVersion": "11.0",
   "glyph": "🧷",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "moai",
+    "moyai",
+    "statue",
+    "摩埃",
+    "摩艾石像",
+    "物品"
+  ],
   "cldr": "moai",
   "fromVersion": "0.6",
   "glyph": "🗿",

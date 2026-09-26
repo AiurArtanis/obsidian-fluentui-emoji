@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bar",
+    "chocolate",
+    "dessert",
+    "sweet",
+    "巧克力",
+    "巧克力棒",
+    "食物与饮品"
+  ],
   "cldr": "chocolate bar",
   "fromVersion": "0.6",
   "glyph": "🍫",

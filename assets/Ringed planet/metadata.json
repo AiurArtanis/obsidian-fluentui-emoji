@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ringed planet",
+    "saturn",
+    "saturnine",
+    "有环行星",
+    "土星",
+    "旅行与地点"
+  ],
   "cldr": "ringed planet",
   "fromVersion": "12.0",
   "glyph": "🪐",

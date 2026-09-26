@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "four",
+    "按键 4",
+    "数字键 4",
+    "符号"
+  ],
   "cldr": "keycap: 4",
   "fromVersion": "0.6",
   "glyph": "4️⃣",

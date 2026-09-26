@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "assembly",
+    "factory",
+    "industrial",
+    "worker",
+    "工厂工人",
+    "产业工人",
+    "人物与身体"
+  ],
   "cldr": "factory worker",
   "fromVersion": "12.1",
   "glyph": "🧑‍🏭",

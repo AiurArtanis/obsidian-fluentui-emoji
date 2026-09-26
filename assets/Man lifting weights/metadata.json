@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man",
+    "man lifting weights",
+    "weight lifter",
+    "男生举重",
+    "举重的男人",
+    "人物与身体"
+  ],
   "cldr": "man lifting weights",
   "fromVersion": "4.0",
   "glyph": "🏋️‍♂️",

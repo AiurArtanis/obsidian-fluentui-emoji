@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "construction",
+    "woman",
+    "worker",
+    "女建筑工人",
+    "人物与身体"
+  ],
   "cldr": "woman construction worker",
   "fromVersion": "4.0",
   "glyph": "👷‍♀️",

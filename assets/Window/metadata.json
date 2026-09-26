@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "frame",
+    "fresh air",
+    "opening",
+    "transparent",
+    "view",
+    "window",
+    "窗户",
+    "窗",
+    "物品"
+  ],
   "cldr": "window",
   "fromVersion": "13.0",
   "glyph": "🪟",

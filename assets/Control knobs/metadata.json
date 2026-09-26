@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "control",
+    "knobs",
+    "music",
+    "控制旋钮",
+    "旋钮",
+    "物品"
+  ],
   "cldr": "control knobs",
   "fromVersion": "0.7",
   "glyph": "🎛️",

@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "gun",
+    "handgun",
+    "pistol",
+    "revolver",
+    "tool",
+    "water",
+    "weapon",
+    "水枪",
+    "玩具水枪",
+    "物品"
+  ],
   "cldr": "water pistol",
   "fromVersion": "0.6",
   "glyph": "🔫",

@@ -1,4 +1,16 @@
 {
+  "alias": [
+    "grateful",
+    "proud",
+    "relieved",
+    "smiling",
+    "smiling face with tear",
+    "tear",
+    "touched",
+    "含泪的笑脸",
+    "含泪微笑",
+    "笑脸与情感"
+  ],
   "cldr": "smiling face with tear",
   "fromVersion": "13.0",
   "glyph": "🥲",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "extinguish",
+    "fire",
+    "fire extinguisher",
+    "quench",
+    "灭火器",
+    "物品"
+  ],
   "cldr": "fire extinguisher",
   "fromVersion": "11.0",
   "glyph": "🧯",

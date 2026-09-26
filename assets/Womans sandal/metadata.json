@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "clothing",
+    "sandal",
+    "shoe",
+    "woman",
+    "woman’s sandal",
+    "女式凉鞋",
+    "女凉鞋",
+    "物品"
+  ],
   "cldr": "woman’s sandal",
   "fromVersion": "0.6",
   "glyph": "👡",

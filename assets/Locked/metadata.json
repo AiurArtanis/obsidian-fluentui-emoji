@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "closed",
+    "locked",
+    "合上的锁",
+    "锁",
+    "物品"
+  ],
   "cldr": "locked",
   "fromVersion": "0.6",
   "glyph": "🔒",

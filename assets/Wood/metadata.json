@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "log",
+    "lumber",
+    "timber",
+    "wood",
+    "木头",
+    "原木",
+    "旅行与地点"
+  ],
   "cldr": "wood",
   "fromVersion": "13.0",
   "glyph": "🪵",

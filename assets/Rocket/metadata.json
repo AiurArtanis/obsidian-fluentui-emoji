@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "rocket",
+    "space",
+    "火箭",
+    "升空的火箭",
+    "旅行与地点"
+  ],
   "cldr": "rocket",
   "fromVersion": "0.6",
   "glyph": "🚀",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bicycle",
+    "bicyclist",
+    "bike",
+    "cyclist",
+    "mountain",
+    "person mountain biking",
+    "骑山地车的人",
+    "山地骑车的人",
+    "人物与身体"
+  ],
   "cldr": "person mountain biking",
   "fromVersion": "1.0",
   "glyph": "🚵",

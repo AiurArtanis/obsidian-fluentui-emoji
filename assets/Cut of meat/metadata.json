@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "chop",
+    "cut of meat",
+    "lambchop",
+    "porkchop",
+    "steak",
+    "肉块",
+    "肉排",
+    "食物与饮品"
+  ],
   "cldr": "cut of meat",
   "fromVersion": "5.0",
   "glyph": "🥩",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "flavoring",
+    "onion",
+    "洋葱",
+    "食物与饮品"
+  ],
   "cldr": "onion",
   "fromVersion": "12.0",
   "glyph": "🧅",

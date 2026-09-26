@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "anticlockwise",
+    "arrow",
+    "counterclockwise",
+    "counterclockwise arrows button",
+    "withershins",
+    "逆时针箭头按钮",
+    "刷新按钮",
+    "符号"
+  ],
   "cldr": "counterclockwise arrows button",
   "fromVersion": "1.0",
   "glyph": "🔄",

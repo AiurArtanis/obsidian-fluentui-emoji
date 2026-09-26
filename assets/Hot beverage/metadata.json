@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "beverage",
+    "coffee",
+    "drink",
+    "hot",
+    "steaming",
+    "tea",
+    "热饮",
+    "咖啡",
+    "食物与饮品"
+  ],
   "cldr": "hot beverage",
   "fromVersion": "0.6",
   "glyph": "☕",

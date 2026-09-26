@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "news",
+    "newspaper",
+    "paper",
+    "rolled",
+    "rolled-up newspaper",
+    "报纸卷",
+    "卷起来的报纸",
+    "物品"
+  ],
   "cldr": "rolled-up newspaper",
   "fromVersion": "0.7",
   "glyph": "🗞️",

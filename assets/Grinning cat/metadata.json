@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cat",
+    "face",
+    "grinning",
+    "mouth",
+    "open",
+    "smile",
+    "大笑的猫",
+    "咧嘴笑的猫",
+    "笑脸与情感"
+  ],
   "cldr": "grinning cat",
   "fromVersion": "0.6",
   "glyph": "😺",

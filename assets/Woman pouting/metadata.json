@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "gesture",
+    "pouting",
+    "woman",
+    "撅嘴的女人",
+    "人物与身体"
+  ],
   "cldr": "woman pouting",
   "fromVersion": "4.0",
   "glyph": "🙎‍♀️",

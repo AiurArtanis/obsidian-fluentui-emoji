@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "graduate",
+    "student",
+    "woman",
+    "女学生",
+    "女毕业生",
+    "人物与身体"
+  ],
   "cldr": "woman student",
   "fromVersion": "4.0",
   "glyph": "👩‍🎓",

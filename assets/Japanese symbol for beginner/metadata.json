@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "beginner",
+    "chevron",
+    "Japanese",
+    "Japanese symbol for beginner",
+    "leaf",
+    "日本新手标志",
+    "新手驾驶标志",
+    "符号"
+  ],
   "cldr": "Japanese symbol for beginner",
   "fromVersion": "0.6",
   "glyph": "🔰",

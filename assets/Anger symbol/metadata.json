@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "anger symbol",
+    "angry",
+    "comic",
+    "mad",
+    "愤怒符号",
+    "生气符号",
+    "笑脸与情感"
+  ],
   "cldr": "anger symbol",
   "fromVersion": "0.6",
   "glyph": "💢",

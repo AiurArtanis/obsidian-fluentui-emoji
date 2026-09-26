@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "non-drinking",
+    "non-potable",
+    "water",
+    "非饮用水",
+    "不可饮用",
+    "符号"
+  ],
   "cldr": "non-potable water",
   "fromVersion": "1.0",
   "glyph": "🚱",

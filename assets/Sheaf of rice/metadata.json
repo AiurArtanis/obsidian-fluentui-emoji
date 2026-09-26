@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "ear",
+    "grain",
+    "rice",
+    "sheaf of rice",
+    "稻子",
+    "稻穗",
+    "动物与自然"
+  ],
   "cldr": "sheaf of rice",
   "fromVersion": "0.6",
   "glyph": "🌾",

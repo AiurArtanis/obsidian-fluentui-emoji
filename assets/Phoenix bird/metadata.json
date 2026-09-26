@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "fantasy",
+    "firebird",
+    "phoenix",
+    "rebirth",
+    "reincarnation",
+    "凤凰",
+    "不死鸟",
+    "动物与自然"
+  ],
   "cldr": "phoenix",
   "fromVersion": "15.1",
   "glyph": "🐦‍🔥",

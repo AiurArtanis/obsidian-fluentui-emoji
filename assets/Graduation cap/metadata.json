@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cap",
+    "celebration",
+    "clothing",
+    "graduation",
+    "hat",
+    "学士帽",
+    "毕业帽",
+    "物品"
+  ],
   "cldr": "graduation cap",
   "fromVersion": "0.6",
   "glyph": "🎓",

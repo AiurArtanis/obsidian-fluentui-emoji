@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "man",
+    "man shrugging",
+    "shrug",
+    "男生耸肩",
+    "耸肩的男人",
+    "人物与身体"
+  ],
   "cldr": "man shrugging",
   "fromVersion": "4.0",
   "glyph": "🤷‍♂️",

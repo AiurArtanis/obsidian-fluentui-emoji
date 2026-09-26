@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "curling stone",
+    "game",
+    "rock",
+    "冰壶",
+    "活动"
+  ],
   "cldr": "curling stone",
   "fromVersion": "5.0",
   "glyph": "🥌",

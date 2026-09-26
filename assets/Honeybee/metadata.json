@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bee",
+    "honeybee",
+    "insect",
+    "蜜蜂",
+    "动物与自然"
+  ],
   "cldr": "honeybee",
   "fromVersion": "0.6",
   "glyph": "🐝",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "deciduous",
+    "shedding",
+    "tree",
+    "落叶树",
+    "动物与自然"
+  ],
   "cldr": "deciduous tree",
   "fromVersion": "1.0",
   "glyph": "🌳",

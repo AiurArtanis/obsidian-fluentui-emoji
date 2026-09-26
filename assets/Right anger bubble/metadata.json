@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "angry",
+    "balloon",
+    "bubble",
+    "mad",
+    "right anger bubble",
+    "愤怒话语气泡",
+    "右向愤怒气泡",
+    "笑脸与情感"
+  ],
   "cldr": "right anger bubble",
   "fromVersion": "0.7",
   "glyph": "🗯️",

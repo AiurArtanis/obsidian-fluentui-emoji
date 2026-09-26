@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "instructor",
+    "man",
+    "professor",
+    "teacher",
+    "男老师",
+    "人物与身体"
+  ],
   "cldr": "man teacher",
   "fromVersion": "4.0",
   "glyph": "👨‍🏫",

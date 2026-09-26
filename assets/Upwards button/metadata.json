@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "button",
+    "red",
+    "upwards button",
+    "向上三角形按钮",
+    "上三角按钮",
+    "符号"
+  ],
   "cldr": "upwards button",
   "fromVersion": "0.6",
   "glyph": "🔼",

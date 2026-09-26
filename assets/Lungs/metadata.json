@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "breath",
+    "exhalation",
+    "inhalation",
+    "lungs",
+    "organ",
+    "respiration",
+    "肺",
+    "肺部",
+    "人物与身体"
+  ],
   "cldr": "lungs",
   "fromVersion": "13.0",
   "glyph": "🫁",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bait",
+    "mouse trap",
+    "mousetrap",
+    "snare",
+    "trap",
+    "捕鼠器",
+    "老鼠夹",
+    "物品"
+  ],
   "cldr": "mouse trap",
   "fromVersion": "13.0",
   "glyph": "🪤",

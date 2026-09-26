@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "elf",
+    "magical",
+    "小精灵",
+    "精灵",
+    "人物与身体"
+  ],
   "cldr": "elf",
   "fromVersion": "5.0",
   "glyph": "🧝",

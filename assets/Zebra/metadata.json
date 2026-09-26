@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "stripe",
+    "zebra",
+    "斑马",
+    "动物与自然"
+  ],
   "cldr": "zebra",
   "fromVersion": "5.0",
   "glyph": "🦓",

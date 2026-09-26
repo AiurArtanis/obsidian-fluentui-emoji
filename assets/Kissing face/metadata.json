@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "kiss",
+    "kissing face",
+    "亲亲",
+    "亲吻脸",
+    "笑脸与情感"
+  ],
   "cldr": "kissing face",
   "fromVersion": "1.0",
   "glyph": "😗",

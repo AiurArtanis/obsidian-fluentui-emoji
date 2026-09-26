@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "confounded",
+    "face",
+    "困惑不解",
+    "苦恼的脸",
+    "笑脸与情感"
+  ],
   "cldr": "confounded face",
   "fromVersion": "0.6",
   "glyph": "😖",

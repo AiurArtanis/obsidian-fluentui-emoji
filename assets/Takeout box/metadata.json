@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "oyster pail",
+    "takeout box",
+    "外卖盒",
+    "打包盒",
+    "食物与饮品"
+  ],
   "cldr": "takeout box",
   "fromVersion": "5.0",
   "glyph": "🥡",

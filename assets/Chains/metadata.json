@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "chain",
+    "chains",
+    "链条",
+    "锁链",
+    "物品"
+  ],
   "cldr": "chains",
   "fromVersion": "0.7",
   "glyph": "⛓️",

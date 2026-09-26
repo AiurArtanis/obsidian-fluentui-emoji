@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flag in hole",
+    "golf",
+    "hole",
+    "高尔夫球洞",
+    "活动"
+  ],
   "cldr": "flag in hole",
   "fromVersion": "0.6",
   "glyph": "⛳",

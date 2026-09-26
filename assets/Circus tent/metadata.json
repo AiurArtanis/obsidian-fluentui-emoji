@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "circus",
+    "tent",
+    "马戏团帐篷",
+    "旅行与地点"
+  ],
   "cldr": "circus tent",
   "fromVersion": "0.6",
   "glyph": "🎪",

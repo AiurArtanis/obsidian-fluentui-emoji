@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“free of charge”",
+    "ideograph",
+    "Japanese",
+    "Japanese “free of charge” button",
+    "無",
+    "日文免费按钮",
+    "免费",
+    "符号"
+  ],
   "cldr": "Japanese “free of charge” button",
   "fromVersion": "0.6",
   "glyph": "🈚",

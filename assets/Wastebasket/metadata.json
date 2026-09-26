@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "wastebasket",
+    "垃圾桶",
+    "废纸篓",
+    "物品"
+  ],
   "cldr": "wastebasket",
   "fromVersion": "0.7",
   "glyph": "🗑️",

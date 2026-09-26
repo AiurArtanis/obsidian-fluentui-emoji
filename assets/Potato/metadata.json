@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "food",
+    "potato",
+    "vegetable",
+    "土豆",
+    "马铃薯",
+    "食物与饮品"
+  ],
   "cldr": "potato",
   "fromVersion": "3.0",
   "glyph": "🥔",

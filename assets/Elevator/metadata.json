@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "accessibility",
+    "elevator",
+    "hoist",
+    "lift",
+    "电梯",
+    "升降机",
+    "物品"
+  ],
   "cldr": "elevator",
   "fromVersion": "13.0",
   "glyph": "🛗",

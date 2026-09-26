@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "blossom",
+    "cherry",
+    "flower",
+    "樱花",
+    "动物与自然"
+  ],
   "cldr": "cherry blossom",
   "fromVersion": "0.6",
   "glyph": "🌸",

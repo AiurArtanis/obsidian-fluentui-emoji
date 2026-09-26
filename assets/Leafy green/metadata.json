@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bok choy",
+    "cabbage",
+    "kale",
+    "leafy green",
+    "lettuce",
+    "绿叶蔬菜",
+    "绿叶菜",
+    "食物与饮品"
+  ],
   "cldr": "leafy green",
   "fromVersion": "11.0",
   "glyph": "🥬",

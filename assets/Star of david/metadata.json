@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "David",
+    "Jew",
+    "Jewish",
+    "religion",
+    "star",
+    "star of David",
+    "六芒星",
+    "大卫之星",
+    "符号"
+  ],
   "cldr": "star of David",
   "fromVersion": "0.7",
   "glyph": "✡️",

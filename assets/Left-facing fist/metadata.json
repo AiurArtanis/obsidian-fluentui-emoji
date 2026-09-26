@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "fist",
+    "left-facing fist",
+    "leftwards",
+    "朝左的拳头",
+    "向左的拳头",
+    "人物与身体"
+  ],
   "cldr": "left-facing fist",
   "fromVersion": "3.0",
   "glyph": "🤛",

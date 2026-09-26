@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "free",
+    "FREE button",
+    "免费按钮",
+    "免费标志",
+    "符号"
+  ],
   "cldr": "FREE button",
   "fromVersion": "0.6",
   "glyph": "🆓",

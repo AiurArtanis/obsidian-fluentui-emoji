@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "city",
+    "cityscape",
+    "城市风光",
+    "旅行与地点"
+  ],
   "cldr": "cityscape",
   "fromVersion": "0.7",
   "glyph": "🏙️",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "fear",
+    "fearful",
+    "scared",
+    "害怕",
+    "惊恐的脸",
+    "笑脸与情感"
+  ],
   "cldr": "fearful face",
   "fromVersion": "0.6",
   "glyph": "😨",

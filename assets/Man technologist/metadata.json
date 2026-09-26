@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "coder",
+    "developer",
+    "inventor",
+    "man",
+    "software",
+    "technologist",
+    "男程序员",
+    "男技术专家",
+    "人物与身体"
+  ],
   "cldr": "man technologist",
   "fromVersion": "4.0",
   "glyph": "👨‍💻",

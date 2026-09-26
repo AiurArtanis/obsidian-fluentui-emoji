@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "place of worship",
+    "religion",
+    "worship",
+    "宗教场所",
+    "礼拜场所",
+    "符号"
+  ],
   "cldr": "place of worship",
   "fromVersion": "1.0",
   "glyph": "🛐",

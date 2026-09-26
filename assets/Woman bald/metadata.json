@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "adult",
+    "bald",
+    "woman",
+    "秃顶女性",
+    "光头女性",
+    "人物与身体"
+  ],
   "cldr": "woman: bald",
   "fromVersion": "11.0",
   "glyph": "👩‍🦲",

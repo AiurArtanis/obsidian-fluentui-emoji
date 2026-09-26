@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "hash",
+    "井号键",
+    "按键井号",
+    "符号"
+  ],
   "cldr": "keycap: hash",
   "fromVersion": "0.6",
   "glyph": "#️⃣",

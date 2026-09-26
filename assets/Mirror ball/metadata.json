@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "dance",
+    "disco",
+    "glitter",
+    "mirror ball",
+    "party",
+    "镜面球",
+    "迪斯科球",
+    "活动"
+  ],
   "cldr": "mirror ball",
   "fromVersion": "14.0",
   "glyph": "🪩",

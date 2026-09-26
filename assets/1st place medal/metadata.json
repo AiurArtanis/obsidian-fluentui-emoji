@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "1st place medal",
+    "first",
+    "gold",
+    "medal",
+    "金牌",
+    "活动"
+  ],
   "cldr": "1st place medal",
   "fromVersion": "3.0",
   "glyph": "🥇",

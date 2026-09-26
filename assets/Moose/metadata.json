@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"animal",
+		"antlers",
+		"elk",
+		"mammal",
+		"moose",
+		"驼鹿",
+		"动物与自然"
+	],
 	"cldr": "moose",
 	"fromVersion": "15.0",
 	"glyph": "🫎",

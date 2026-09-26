@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "adult",
+    "curly hair",
+    "woman",
+    "卷发女人",
+    "人物与身体"
+  ],
   "cldr": "woman: curly hair",
   "fromVersion": "11.0",
   "glyph": "👩‍🦱",

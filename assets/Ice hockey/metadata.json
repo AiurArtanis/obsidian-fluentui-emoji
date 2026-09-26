@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "game",
+    "hockey",
+    "ice",
+    "puck",
+    "stick",
+    "冰球",
+    "活动"
+  ],
   "cldr": "ice hockey",
   "fromVersion": "1.0",
   "glyph": "🏒",

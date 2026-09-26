@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "knot",
+    "rope",
+    "tangled",
+    "tie",
+    "twine",
+    "twist",
+    "绳结",
+    "活动"
+  ],
   "cldr": "knot",
   "fromVersion": "13.0",
   "glyph": "🪢",

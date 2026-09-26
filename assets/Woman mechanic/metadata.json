@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "electrician",
+    "mechanic",
+    "plumber",
+    "tradesperson",
+    "woman",
+    "女技工",
+    "女机械师",
+    "人物与身体"
+  ],
   "cldr": "woman mechanic",
   "fromVersion": "4.0",
   "glyph": "👩‍🔧",

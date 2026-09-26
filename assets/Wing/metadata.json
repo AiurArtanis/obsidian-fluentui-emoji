@@ -1,4 +1,15 @@
 {
+	"alias": [
+		"angelic",
+		"aviation",
+		"bird",
+		"flying",
+		"mythology",
+		"wing",
+		"翅膀",
+		"羽翼",
+		"动物与自然"
+	],
 	"cldr": "wing",
 	"fromVersion": "15.0",
 	"glyph": "🪽",

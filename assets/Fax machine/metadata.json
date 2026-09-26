@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "fax",
+    "fax machine",
+    "传真机",
+    "物品"
+  ],
   "cldr": "fax machine",
   "fromVersion": "0.6",
   "glyph": "📠",

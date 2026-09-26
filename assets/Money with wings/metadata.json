@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "banknote",
+    "bill",
+    "fly",
+    "money",
+    "money with wings",
+    "wings",
+    "长翅膀的钱",
+    "带翅膀的钞票",
+    "物品"
+  ],
   "cldr": "money with wings",
   "fromVersion": "0.6",
   "glyph": "💸",

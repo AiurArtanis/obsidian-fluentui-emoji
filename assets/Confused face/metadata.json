@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "confused",
+    "face",
+    "meh",
+    "困惑",
+    "迷惑的脸",
+    "笑脸与情感"
+  ],
   "cldr": "confused face",
   "fromVersion": "1.0",
   "glyph": "😕",

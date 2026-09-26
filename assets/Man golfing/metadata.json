@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "golf",
+    "man",
+    "man golfing",
+    "男生打高尔夫",
+    "打高尔夫球的男人",
+    "人物与身体"
+  ],
   "cldr": "man golfing",
   "fromVersion": "4.0",
   "glyph": "🏌️‍♂️",

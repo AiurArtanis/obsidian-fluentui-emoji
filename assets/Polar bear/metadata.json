@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "arctic",
+    "bear",
+    "polar bear",
+    "white",
+    "北极熊",
+    "动物与自然"
+  ],
   "cldr": "polar bear",
   "fromVersion": "13.0",
   "glyph": "🐻‍❄️",

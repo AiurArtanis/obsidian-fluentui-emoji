@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "butter",
+    "dairy",
+    "黄油",
+    "牛油",
+    "食物与饮品"
+  ],
   "cldr": "butter",
   "fromVersion": "12.0",
   "glyph": "🧈",

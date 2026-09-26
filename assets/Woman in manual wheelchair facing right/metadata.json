@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "wheelchair",
+    "woman",
+    "woman in manual wheelchair",
+    "坐手动轮椅向右的女人",
+    "人物与身体"
+  ],
   "cldr": "woman in manual wheelchair facing right",
   "fromVersion": "15.1",
   "glyph": "👩‍🦽‍➡️",

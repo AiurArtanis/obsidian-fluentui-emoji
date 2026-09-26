@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "electrician",
+    "mechanic",
+    "plumber",
+    "tradesperson",
+    "技工",
+    "机械师",
+    "人物与身体"
+  ],
   "cldr": "mechanic",
   "fromVersion": "12.1",
   "glyph": "🧑‍🔧",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fruit",
+    "peach",
+    "桃子",
+    "桃",
+    "食物与饮品"
+  ],
   "cldr": "peach",
   "fromVersion": "0.6",
   "glyph": "🍑",

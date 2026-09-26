@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "beetle",
+    "insect",
+    "lady beetle",
+    "ladybird",
+    "ladybug",
+    "瓢虫",
+    "动物与自然"
+  ],
   "cldr": "lady beetle",
   "fromVersion": "0.6",
   "glyph": "🐞",

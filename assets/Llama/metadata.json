@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "alpaca",
+    "guanaco",
+    "llama",
+    "vicuña",
+    "wool",
+    "美洲驼",
+    "大羊驼",
+    "动物与自然"
+  ],
   "cldr": "llama",
   "fromVersion": "11.0",
   "glyph": "🦙",

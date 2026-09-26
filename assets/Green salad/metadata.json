@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "food",
+    "green",
+    "salad",
+    "沙拉",
+    "蔬菜沙拉",
+    "食物与饮品"
+  ],
   "cldr": "green salad",
   "fromVersion": "3.0",
   "glyph": "🥗",

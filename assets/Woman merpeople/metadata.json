@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "mermaid",
+    "merwoman",
+    "美人鱼",
+    "人物与身体"
+  ],
   "cldr": "mermaid",
   "fromVersion": "5.0",
   "glyph": "🧜‍♀️",

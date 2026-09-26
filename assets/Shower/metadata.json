@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "shower",
+    "water",
+    "淋浴",
+    "花洒",
+    "物品"
+  ],
   "cldr": "shower",
   "fromVersion": "1.0",
   "glyph": "🚿",

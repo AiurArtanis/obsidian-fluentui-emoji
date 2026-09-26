@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "crossbones",
+    "death",
+    "face",
+    "monster",
+    "skull",
+    "skull and crossbones",
+    "骷髅",
+    "骷髅与交叉骨",
+    "笑脸与情感"
+  ],
   "cldr": "skull and crossbones",
   "fromVersion": "1.0",
   "glyph": "☠️",

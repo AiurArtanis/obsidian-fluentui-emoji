@@ -1,4 +1,13 @@
 {
+	"alias": [
+		"bird",
+		"fowl",
+		"goose",
+		"honk",
+		"silly",
+		"鹅",
+		"动物与自然"
+	],
 	"cldr": "goose",
 	"fromVersion": "15.0",
 	"glyph": "🪿",

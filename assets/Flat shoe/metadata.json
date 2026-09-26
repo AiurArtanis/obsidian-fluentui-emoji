@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "ballet flat",
+    "flat shoe",
+    "slip-on",
+    "slipper",
+    "平底鞋",
+    "女式平底鞋",
+    "物品"
+  ],
   "cldr": "flat shoe",
   "fromVersion": "11.0",
   "glyph": "🥿",

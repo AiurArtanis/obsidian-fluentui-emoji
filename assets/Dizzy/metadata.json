@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "comic",
+    "dizzy",
+    "star",
+    "头晕",
+    "眩晕",
+    "笑脸与情感"
+  ],
   "cldr": "dizzy",
   "fromVersion": "0.6",
   "glyph": "💫",

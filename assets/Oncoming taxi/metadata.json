@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "oncoming",
+    "taxi",
+    "迎面驶来的出租车",
+    "旅行与地点"
+  ],
   "cldr": "oncoming taxi",
   "fromVersion": "1.0",
   "glyph": "🚖",

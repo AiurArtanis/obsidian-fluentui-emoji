@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "adult",
+    "gender-neutral",
+    "person",
+    "red hair",
+    "unspecified gender",
+    "红头发的人",
+    "红发的人",
+    "人物与身体"
+  ],
   "cldr": "person: red hair",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦰",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cat",
+    "cry",
+    "crying cat",
+    "face",
+    "sad",
+    "tear",
+    "哭泣的猫",
+    "笑脸与情感"
+  ],
   "cldr": "crying cat",
   "fromVersion": "0.6",
   "glyph": "😿",

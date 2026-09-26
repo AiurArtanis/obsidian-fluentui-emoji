@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "motor",
+    "scooter",
+    "小型摩托车",
+    "踏板摩托车",
+    "旅行与地点"
+  ],
   "cldr": "motor scooter",
   "fromVersion": "3.0",
   "glyph": "🛵",

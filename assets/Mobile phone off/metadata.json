@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cell",
+    "mobile",
+    "off",
+    "phone",
+    "telephone",
+    "手机关机",
+    "关机",
+    "符号"
+  ],
   "cldr": "mobile phone off",
   "fromVersion": "0.6",
   "glyph": "📴",

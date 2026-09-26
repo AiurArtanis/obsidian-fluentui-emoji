@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "metro",
+    "subway",
+    "地铁",
+    "旅行与地点"
+  ],
   "cldr": "metro",
   "fromVersion": "0.6",
   "glyph": "🚇",

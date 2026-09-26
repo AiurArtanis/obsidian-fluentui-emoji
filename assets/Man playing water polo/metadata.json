@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man",
+    "man playing water polo",
+    "water polo",
+    "男生玩水球",
+    "打水球的男人",
+    "人物与身体"
+  ],
   "cldr": "man playing water polo",
   "fromVersion": "4.0",
   "glyph": "🤽‍♂️",

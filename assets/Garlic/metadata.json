@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flavoring",
+    "garlic",
+    "大蒜",
+    "蒜头",
+    "食物与饮品"
+  ],
   "cldr": "garlic",
   "fromVersion": "12.0",
   "glyph": "🧄",

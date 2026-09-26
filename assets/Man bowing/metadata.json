@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "apology",
+    "bowing",
+    "favor",
+    "gesture",
+    "man",
+    "sorry",
+    "男生鞠躬",
+    "鞠躬的男人",
+    "人物与身体"
+  ],
   "cldr": "man bowing",
   "fromVersion": "4.0",
   "glyph": "🙇‍♂️",

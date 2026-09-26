@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "ball",
+    "baseball",
+    "棒球",
+    "活动"
+  ],
   "cldr": "baseball",
   "fromVersion": "0.6",
   "glyph": "⚾",

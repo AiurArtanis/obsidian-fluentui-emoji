@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "note",
+    "pad",
+    "spiral",
+    "spiral notepad",
+    "线圈本",
+    "螺旋笔记本",
+    "物品"
+  ],
   "cldr": "spiral notepad",
   "fromVersion": "0.7",
   "glyph": "🗒️",

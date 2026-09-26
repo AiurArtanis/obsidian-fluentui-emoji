@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bar",
+    "bottle",
+    "bottle with popping cork",
+    "cork",
+    "drink",
+    "popping",
+    "香槟",
+    "香槟瓶",
+    "食物与饮品"
+  ],
   "cldr": "bottle with popping cork",
   "fromVersion": "1.0",
   "glyph": "🍾",

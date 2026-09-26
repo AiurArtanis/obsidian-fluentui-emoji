@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "hang-glide",
+    "parachute",
+    "parasail",
+    "skydive",
+    "降落伞",
+    "旅行与地点"
+  ],
   "cldr": "parachute",
   "fromVersion": "12.0",
   "glyph": "🪂",

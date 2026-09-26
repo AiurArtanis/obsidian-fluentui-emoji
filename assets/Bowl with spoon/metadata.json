@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bowl with spoon",
+    "breakfast",
+    "cereal",
+    "congee",
+    "碗和勺子",
+    "麦片碗",
+    "食物与饮品"
+  ],
   "cldr": "bowl with spoon",
   "fromVersion": "5.0",
   "glyph": "🥣",

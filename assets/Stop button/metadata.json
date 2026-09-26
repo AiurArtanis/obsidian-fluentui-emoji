@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "square",
+    "stop",
+    "stop button",
+    "停止按钮",
+    "符号"
+  ],
   "cldr": "stop button",
   "fromVersion": "0.7",
   "glyph": "⏹️",

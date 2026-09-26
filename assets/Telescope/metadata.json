@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "science",
+    "telescope",
+    "tool",
+    "望远镜",
+    "物品"
+  ],
   "cldr": "telescope",
   "fromVersion": "1.0",
   "glyph": "🔭",

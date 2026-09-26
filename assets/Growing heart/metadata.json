@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "excited",
+    "growing",
+    "growing heart",
+    "nervous",
+    "pulse",
+    "跳动的心",
+    "心动",
+    "笑脸与情感"
+  ],
   "cldr": "growing heart",
   "fromVersion": "0.6",
   "glyph": "💗",

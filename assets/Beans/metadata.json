@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "beans",
+    "food",
+    "kidney",
+    "legume",
+    "豆子",
+    "豆类",
+    "食物与饮品"
+  ],
   "cldr": "beans",
   "fromVersion": "14.0",
   "glyph": "🫘",

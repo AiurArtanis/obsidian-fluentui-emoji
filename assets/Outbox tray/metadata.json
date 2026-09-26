@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "box",
+    "letter",
+    "mail",
+    "outbox",
+    "sent",
+    "tray",
+    "发件箱",
+    "发件托盘",
+    "物品"
+  ],
   "cldr": "outbox tray",
   "fromVersion": "0.6",
   "glyph": "📤",

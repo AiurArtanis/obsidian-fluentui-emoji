@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "arrow",
+    "left arrow curving right",
+    "左转弯箭头",
+    "带钩向右箭头",
+    "符号"
+  ],
   "cldr": "left arrow curving right",
   "fromVersion": "0.6",
   "glyph": "↪️",

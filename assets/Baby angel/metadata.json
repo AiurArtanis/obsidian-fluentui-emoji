@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "angel",
+    "baby",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "小天使",
+    "带光环的婴儿",
+    "人物与身体"
+  ],
   "cldr": "baby angel",
   "fromVersion": "0.6",
   "glyph": "👼",

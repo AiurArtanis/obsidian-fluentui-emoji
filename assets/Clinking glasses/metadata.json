@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "celebrate",
+    "clink",
+    "clinking glasses",
+    "drink",
+    "glass",
+    "碰杯",
+    "举杯",
+    "食物与饮品"
+  ],
   "cldr": "clinking glasses",
   "fromVersion": "3.0",
   "glyph": "🥂",

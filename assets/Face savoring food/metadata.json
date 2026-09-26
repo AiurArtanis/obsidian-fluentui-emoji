@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "delicious",
+    "face",
+    "face savoring food",
+    "savouring",
+    "smile",
+    "yum",
+    "好吃",
+    "美味",
+    "笑脸与情感"
+  ],
   "cldr": "face savoring food",
   "fromVersion": "0.6",
   "glyph": "😋",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "distrust",
+    "face with raised eyebrow",
+    "skeptic",
+    "挑眉",
+    "扬眉质疑",
+    "笑脸与情感"
+  ],
   "cldr": "face with raised eyebrow",
   "fromVersion": "5.0",
   "glyph": "🤨",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bubbles",
+    "burp",
+    "clean",
+    "soap",
+    "underwater",
+    "气泡",
+    "泡泡",
+    "物品"
+  ],
   "cldr": "bubbles",
   "fromVersion": "14.0",
   "glyph": "🫧",

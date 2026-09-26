@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "clockwise",
+    "once",
+    "repeat single button",
+    "单曲循环",
+    "重复一次按钮",
+    "符号"
+  ],
   "cldr": "repeat single button",
   "fromVersion": "1.0",
   "glyph": "🔂",

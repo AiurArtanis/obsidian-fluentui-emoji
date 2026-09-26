@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "octagonal",
+    "sign",
+    "stop",
+    "停止标志",
+    "停车标志",
+    "旅行与地点"
+  ],
   "cldr": "stop sign",
   "fromVersion": "3.0",
   "glyph": "🛑",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "ball",
+    "bat",
+    "cricket game",
+    "game",
+    "板球",
+    "活动"
+  ],
   "cldr": "cricket game",
   "fromVersion": "1.0",
   "glyph": "🏏",

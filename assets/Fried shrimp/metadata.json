@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "fried",
+    "prawn",
+    "shrimp",
+    "tempura",
+    "炸虾",
+    "天妇罗",
+    "食物与饮品"
+  ],
   "cldr": "fried shrimp",
   "fromVersion": "0.6",
   "glyph": "🍤",

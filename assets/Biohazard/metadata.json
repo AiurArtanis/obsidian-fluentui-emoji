@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "biohazard",
+    "sign",
+    "生物危害",
+    "生物危害标志",
+    "符号"
+  ],
   "cldr": "biohazard",
   "fromVersion": "1.0",
   "glyph": "☣️",

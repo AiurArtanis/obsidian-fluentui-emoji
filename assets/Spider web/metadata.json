@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "spider",
+    "web",
+    "蜘蛛网",
+    "动物与自然"
+  ],
   "cldr": "spider web",
   "fromVersion": "0.7",
   "glyph": "🕸️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "amusement park",
+    "coaster",
+    "roller",
+    "过山车",
+    "云霄飞车",
+    "旅行与地点"
+  ],
   "cldr": "roller coaster",
   "fromVersion": "0.6",
   "glyph": "🎢",

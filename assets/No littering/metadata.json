@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "forbidden",
+    "litter",
+    "no",
+    "no littering",
+    "not",
+    "prohibited",
+    "禁止乱扔垃圾",
+    "禁止丢弃垃圾",
+    "符号"
+  ],
   "cldr": "no littering",
   "fromVersion": "1.0",
   "glyph": "🚯",

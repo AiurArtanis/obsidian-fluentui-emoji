@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "octopus",
+    "章鱼",
+    "动物与自然"
+  ],
   "cldr": "octopus",
   "fromVersion": "0.6",
   "glyph": "🐙",

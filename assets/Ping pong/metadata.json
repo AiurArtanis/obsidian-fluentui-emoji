@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "ball",
+    "bat",
+    "game",
+    "paddle",
+    "ping pong",
+    "table tennis",
+    "乒乓球",
+    "活动"
+  ],
   "cldr": "ping pong",
   "fromVersion": "1.0",
   "glyph": "🏓",

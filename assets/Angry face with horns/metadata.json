@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "angry face with horns",
+    "demon",
+    "devil",
+    "face",
+    "fantasy",
+    "imp",
+    "生气的恶魔",
+    "恶魔脸",
+    "笑脸与情感"
+  ],
   "cldr": "angry face with horns",
   "fromVersion": "0.6",
   "glyph": "👿",

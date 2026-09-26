@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "help",
+    "sos",
+    "SOS button",
+    "SOS按钮",
+    "紧急求助",
+    "符号"
+  ],
   "cldr": "SOS button",
   "fromVersion": "0.6",
   "glyph": "🆘",

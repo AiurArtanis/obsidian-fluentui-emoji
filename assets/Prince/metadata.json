@@ -5,6 +5,11 @@
   "glyphAsUtfInEmoticons": ["prince"],
   "group": "People & Body",
   "keywords": ["prince"],
+  "alias": [
+    "prince",
+    "王子",
+    "人物与身体"
+  ],
   "mappedToEmoticons": ["prince"],
   "tts": "prince",
   "unicode": "1f934",

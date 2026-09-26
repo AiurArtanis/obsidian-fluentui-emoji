@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "lowered",
+    "mail",
+    "mailbox",
+    "open",
+    "open mailbox with lowered flag",
+    "postbox",
+    "无新信件",
+    "旗子放下的信箱",
+    "物品"
+  ],
   "cldr": "open mailbox with lowered flag",
   "fromVersion": "0.7",
   "glyph": "📭",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "bicycle",
+    "bike",
+    "forbidden",
+    "no",
+    "no bicycles",
+    "prohibited",
+    "禁止自行车",
+    "禁止骑车",
+    "符号"
+  ],
   "cldr": "no bicycles",
   "fromVersion": "1.0",
   "glyph": "🚳",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "medium",
+    "speaker medium volume",
+    "中等音量的扬声器",
+    "中音量喇叭",
+    "物品"
+  ],
   "cldr": "speaker medium volume",
   "fromVersion": "1.0",
   "glyph": "🔉",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "diving",
+    "oyster",
+    "pearl",
+    "牡蛎",
+    "生蚝",
+    "食物与饮品"
+  ],
   "cldr": "oyster",
   "fromVersion": "12.0",
   "glyph": "🦪",

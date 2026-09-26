@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "mexican",
+    "taco",
+    "墨西哥卷饼",
+    "塔可",
+    "食物与饮品"
+  ],
   "cldr": "taco",
   "fromVersion": "1.0",
   "glyph": "🌮",

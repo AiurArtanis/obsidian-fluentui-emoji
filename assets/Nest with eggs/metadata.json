@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "nest with eggs",
+    "nesting",
+    "有蛋的巢",
+    "鸟巢",
+    "动物与自然"
+  ],
   "cldr": "nest with eggs",
   "fromVersion": "14.0",
   "glyph": "🪺",

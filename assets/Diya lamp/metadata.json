@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "diya",
+    "lamp",
+    "oil",
+    "印度油灯",
+    "油灯",
+    "物品"
+  ],
   "cldr": "diya lamp",
   "fromVersion": "12.0",
   "glyph": "🪔",

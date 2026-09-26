@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "left",
+    "reverse",
+    "reverse button",
+    "triangle",
+    "倒退按钮",
+    "倒回按钮",
+    "符号"
+  ],
   "cldr": "reverse button",
   "fromVersion": "0.6",
   "glyph": "◀️",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "*",
+    "asterisk",
+    "eight-spoked asterisk",
+    "八辐条星号",
+    "八角星号",
+    "符号"
+  ],
   "cldr": "eight-spoked asterisk",
   "fromVersion": "0.6",
   "glyph": "✳️",

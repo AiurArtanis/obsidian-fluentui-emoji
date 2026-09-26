@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "arrow",
+    "double",
+    "fast",
+    "fast-forward button",
+    "forward",
+    "快进按钮",
+    "快速前进按钮",
+    "符号"
+  ],
   "cldr": "fast-forward button",
   "fromVersion": "0.6",
   "glyph": "⏩",

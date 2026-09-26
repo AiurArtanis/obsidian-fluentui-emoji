@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "baby",
+    "bird",
+    "chick",
+    "front-facing baby chick",
+    "正面朝向的小鸡",
+    "动物与自然"
+  ],
   "cldr": "front-facing baby chick",
   "fromVersion": "0.6",
   "glyph": "🐥",

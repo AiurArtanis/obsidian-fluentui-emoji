@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“passing grade”",
+    "ideograph",
+    "Japanese",
+    "Japanese “passing grade” button",
+    "合",
+    "日文合格按钮",
+    "合格",
+    "符号"
+  ],
   "cldr": "Japanese “passing grade” button",
   "fromVersion": "0.6",
   "glyph": "🈴",

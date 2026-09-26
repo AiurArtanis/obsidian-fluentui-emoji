@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "flag",
+    "light blue",
+    "pink",
+    "transgender",
+    "white",
+    "跨性别旗",
+    "旗帜"
+  ],
   "cldr": "transgender flag",
   "fromVersion": "13.0",
   "glyph": "🏳️‍⚧️",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cloud",
+    "weather",
+    "云",
+    "云朵",
+    "旅行与地点"
+  ],
   "cldr": "cloud",
   "fromVersion": "0.6",
   "glyph": "☁️",

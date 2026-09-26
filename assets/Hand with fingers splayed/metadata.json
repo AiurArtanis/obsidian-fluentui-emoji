@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "finger",
+    "hand",
+    "hand with fingers splayed",
+    "splayed",
+    "张开手指的手",
+    "五指张开的手",
+    "人物与身体"
+  ],
   "cldr": "hand with fingers splayed",
   "fromVersion": "0.7",
   "glyph": "🖐️",

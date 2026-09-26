@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "doctor",
+    "hospital",
+    "medicine",
+    "医院",
+    "旅行与地点"
+  ],
   "cldr": "hospital",
   "fromVersion": "0.6",
   "glyph": "🏥",

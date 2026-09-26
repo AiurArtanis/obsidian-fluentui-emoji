@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "face",
+    "frog",
+    "青蛙",
+    "动物与自然"
+  ],
   "cldr": "frog",
   "fromVersion": "0.6",
   "glyph": "🐸",

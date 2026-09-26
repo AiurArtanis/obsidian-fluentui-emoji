@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "hindu",
+    "temple",
+    "印度寺庙",
+    "印度教寺庙",
+    "旅行与地点"
+  ],
   "cldr": "hindu temple",
   "fromVersion": "12.0",
   "glyph": "🛕",

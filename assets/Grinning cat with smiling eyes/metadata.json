@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cat",
+    "eye",
+    "face",
+    "grin",
+    "grinning cat with smiling eyes",
+    "smile",
+    "微笑的猫",
+    "笑眯眯的猫",
+    "笑脸与情感"
+  ],
   "cldr": "grinning cat with smiling eyes",
   "fromVersion": "0.6",
   "glyph": "😸",

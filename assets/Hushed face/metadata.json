@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "face",
+    "hushed",
+    "stunned",
+    "surprised",
+    "缄默",
+    "说不出话",
+    "笑脸与情感"
+  ],
   "cldr": "hushed face",
   "fromVersion": "1.0",
   "glyph": "😯",

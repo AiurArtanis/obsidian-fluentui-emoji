@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "adult",
+    "gender-neutral",
+    "person",
+    "unspecified gender",
+    "white hair",
+    "白头发的人",
+    "白发的人",
+    "人物与身体"
+  ],
   "cldr": "person: white hair",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦳",

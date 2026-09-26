@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "exclamation",
+    "heart exclamation",
+    "mark",
+    "punctuation",
+    "心形感叹号",
+    "心叹号",
+    "笑脸与情感"
+  ],
   "cldr": "heart exclamation",
   "fromVersion": "1.0",
   "glyph": "❣️",

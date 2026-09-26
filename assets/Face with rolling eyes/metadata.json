@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "eyeroll",
+    "eyes",
+    "face",
+    "face with rolling eyes",
+    "rolling",
+    "翻白眼",
+    "无语翻眼",
+    "笑脸与情感"
+  ],
   "cldr": "face with rolling eyes",
   "fromVersion": "1.0",
   "glyph": "🙄",

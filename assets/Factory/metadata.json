@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "building",
+    "factory",
+    "工厂",
+    "旅行与地点"
+  ],
   "cldr": "factory",
   "fromVersion": "0.6",
   "glyph": "🏭",

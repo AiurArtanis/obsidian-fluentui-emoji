@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "board",
+    "skateboard",
+    "滑板",
+    "旅行与地点"
+  ],
   "cldr": "skateboard",
   "fromVersion": "11.0",
   "glyph": "🛹",

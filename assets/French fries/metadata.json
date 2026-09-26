@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "french",
+    "fries",
+    "薯条",
+    "炸薯条",
+    "食物与饮品"
+  ],
   "cldr": "french fries",
   "fromVersion": "0.6",
   "glyph": "🍟",

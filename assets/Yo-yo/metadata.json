@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "fluctuate",
+    "toy",
+    "yo-yo",
+    "悠悠球",
+    "溜溜球",
+    "活动"
+  ],
   "cldr": "yo-yo",
   "fromVersion": "12.0",
   "glyph": "🪀",

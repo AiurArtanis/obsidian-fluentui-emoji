@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "berry",
+    "fruit",
+    "strawberry",
+    "草莓",
+    "食物与饮品"
+  ],
   "cldr": "strawberry",
   "fromVersion": "0.6",
   "glyph": "🍓",

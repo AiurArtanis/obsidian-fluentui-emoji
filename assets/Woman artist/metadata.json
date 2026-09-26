@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "artist",
+    "palette",
+    "woman",
+    "女艺术家",
+    "女画家",
+    "人物与身体"
+  ],
   "cldr": "woman artist",
   "fromVersion": "4.0",
   "glyph": "👩‍🎨",

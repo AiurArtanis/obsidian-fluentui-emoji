@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "automobile",
+    "car",
+    "oncoming",
+    "迎面驶来的汽车",
+    "旅行与地点"
+  ],
   "cldr": "oncoming automobile",
   "fromVersion": "0.7",
   "glyph": "🚘",

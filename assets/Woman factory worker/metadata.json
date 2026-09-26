@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "assembly",
+    "factory",
+    "industrial",
+    "woman",
+    "worker",
+    "女工人",
+    "工厂女工",
+    "人物与身体"
+  ],
   "cldr": "woman factory worker",
   "fromVersion": "4.0",
   "glyph": "👩‍🏭",

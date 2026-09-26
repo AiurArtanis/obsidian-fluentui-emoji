@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "celebration",
+    "halloween",
+    "jack",
+    "jack-o-lantern",
+    "lantern",
+    "南瓜灯",
+    "活动"
+  ],
   "cldr": "jack-o-lantern",
   "fromVersion": "0.6",
   "glyph": "🎃",

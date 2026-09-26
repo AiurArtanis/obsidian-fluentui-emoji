@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "computer",
+    "disk",
+    "minidisk",
+    "optical",
+    "电脑光盘",
+    "磁光盘",
+    "物品"
+  ],
   "cldr": "computer disk",
   "fromVersion": "0.6",
   "glyph": "💽",

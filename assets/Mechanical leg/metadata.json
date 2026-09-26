@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "mechanical leg",
+    "prosthetic",
+    "机械腿",
+    "假肢腿",
+    "人物与身体"
+  ],
   "cldr": "mechanical leg",
   "fromVersion": "12.0",
   "glyph": "🦿",

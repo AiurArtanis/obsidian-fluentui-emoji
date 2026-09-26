@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cloud",
+    "rain",
+    "sun",
+    "sun behind rain cloud",
+    "晴转雨",
+    "太阳雨",
+    "旅行与地点"
+  ],
   "cldr": "sun behind rain cloud",
   "fromVersion": "0.7",
   "glyph": "🌦️",

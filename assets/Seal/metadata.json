@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "sea lion",
+    "seal",
+    "海豹",
+    "动物与自然"
+  ],
   "cldr": "seal",
   "fromVersion": "13.0",
   "glyph": "🦭",

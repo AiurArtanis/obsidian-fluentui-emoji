@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "face",
+    "face with thermometer",
+    "ill",
+    "sick",
+    "thermometer",
+    "发烧",
+    "含体温计的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with thermometer",
   "fromVersion": "1.0",
   "glyph": "🤒",

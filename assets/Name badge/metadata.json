@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "badge",
+    "name",
+    "姓名牌",
+    "名牌",
+    "符号"
+  ],
   "cldr": "name badge",
   "fromVersion": "0.6",
   "glyph": "📛",

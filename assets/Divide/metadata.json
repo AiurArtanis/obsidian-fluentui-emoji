@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "÷",
+    "divide",
+    "division",
+    "math",
+    "sign",
+    "除号",
+    "除法符号",
+    "符号"
+  ],
   "cldr": "divide",
   "fromVersion": "0.6",
   "glyph": "➗",

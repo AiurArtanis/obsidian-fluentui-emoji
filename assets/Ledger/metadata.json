@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ledger",
+    "notebook",
+    "账本",
+    "账簿",
+    "物品"
+  ],
   "cldr": "ledger",
   "fromVersion": "0.6",
   "glyph": "📒",

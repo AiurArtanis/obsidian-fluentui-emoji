@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "burrito",
+    "mexican",
+    "wrap",
+    "墨西哥玉米煎饼",
+    "墨西哥卷饼",
+    "食物与饮品"
+  ],
   "cldr": "burrito",
   "fromVersion": "1.0",
   "glyph": "🌯",

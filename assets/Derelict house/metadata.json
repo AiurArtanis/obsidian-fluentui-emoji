@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "derelict",
+    "house",
+    "废弃房屋",
+    "废墟",
+    "旅行与地点"
+  ],
   "cldr": "derelict house",
   "fromVersion": "0.7",
   "glyph": "🏚️",

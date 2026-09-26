@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "keycap",
+    "ten",
+    "按键 10",
+    "数字键 10",
+    "符号"
+  ],
   "cldr": "keycap: 10",
   "fromVersion": "0.6",
   "glyph": "🔟",

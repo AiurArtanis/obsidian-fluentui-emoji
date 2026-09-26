@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bell",
+    "bellhop",
+    "hotel",
+    "服务铃",
+    "旅行与地点"
+  ],
   "cldr": "bellhop bell",
   "fromVersion": "0.7",
   "glyph": "🛎️",

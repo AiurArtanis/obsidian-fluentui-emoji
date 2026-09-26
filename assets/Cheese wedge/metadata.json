@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "cheese",
+    "cheese wedge",
+    "奶酪",
+    "芝士",
+    "食物与饮品"
+  ],
   "cldr": "cheese wedge",
   "fromVersion": "1.0",
   "glyph": "🧀",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "chemist",
+    "chemistry",
+    "experiment",
+    "lab",
+    "science",
+    "test tube",
+    "试管",
+    "物品"
+  ],
   "cldr": "test tube",
   "fromVersion": "11.0",
   "glyph": "🧪",

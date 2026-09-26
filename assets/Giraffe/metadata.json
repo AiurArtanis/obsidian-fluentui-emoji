@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "giraffe",
+    "spots",
+    "长颈鹿",
+    "动物与自然"
+  ],
   "cldr": "giraffe",
   "fromVersion": "5.0",
   "glyph": "🦒",

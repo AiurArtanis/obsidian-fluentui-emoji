@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "diesel",
+    "fuel",
+    "fuelpump",
+    "gas",
+    "pump",
+    "station",
+    "油泵",
+    "加油站",
+    "旅行与地点"
+  ],
   "cldr": "fuel pump",
   "fromVersion": "0.6",
   "glyph": "⛽",

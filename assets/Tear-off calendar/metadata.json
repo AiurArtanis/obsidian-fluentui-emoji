@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "calendar",
+    "tear-off calendar",
+    "手撕日历",
+    "台历",
+    "物品"
+  ],
   "cldr": "tear-off calendar",
   "fromVersion": "0.6",
   "glyph": "📆",

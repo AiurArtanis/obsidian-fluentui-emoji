@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "building",
+    "office building",
+    "办公楼",
+    "写字楼",
+    "旅行与地点"
+  ],
   "cldr": "office building",
   "fromVersion": "0.6",
   "glyph": "🏢",

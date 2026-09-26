@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "circle",
+    "geometric",
+    "red",
+    "红色圆圈",
+    "符号"
+  ],
   "cldr": "red circle",
   "fromVersion": "0.6",
   "glyph": "🔴",

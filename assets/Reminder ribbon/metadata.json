@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "celebration",
+    "reminder",
+    "ribbon",
+    "提示丝带",
+    "活动"
+  ],
   "cldr": "reminder ribbon",
   "fromVersion": "0.7",
   "glyph": "🎗️",

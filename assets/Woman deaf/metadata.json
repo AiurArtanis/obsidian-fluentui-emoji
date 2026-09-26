@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "deaf",
+    "woman",
+    "失聪的女人",
+    "耳聋的女人",
+    "人物与身体"
+  ],
   "cldr": "deaf woman",
   "fromVersion": "12.0",
   "glyph": "🧏‍♀️",

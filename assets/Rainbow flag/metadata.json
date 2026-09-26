@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "pride",
+    "rainbow",
+    "rainbow flag",
+    "彩虹旗",
+    "旗帜"
+  ],
   "cldr": "rainbow flag",
   "fromVersion": "4.0",
   "glyph": "🏳️‍🌈",

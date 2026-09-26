@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "heart with ribbon",
+    "ribbon",
+    "valentine",
+    "系缎带的心",
+    "蝴蝶结爱心",
+    "笑脸与情感"
+  ],
   "cldr": "heart with ribbon",
   "fromVersion": "0.6",
   "glyph": "💝",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "haircut",
+    "man",
+    "man getting haircut",
+    "男生理发",
+    "理发的男人",
+    "人物与身体"
+  ],
   "cldr": "man getting haircut",
   "fromVersion": "4.0",
   "glyph": "💇‍♂️",

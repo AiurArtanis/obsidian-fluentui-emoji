@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cop",
+    "man",
+    "officer",
+    "police",
+    "男警察",
+    "人物与身体"
+  ],
   "cldr": "man police officer",
   "fromVersion": "4.0",
   "glyph": "👮‍♂️",

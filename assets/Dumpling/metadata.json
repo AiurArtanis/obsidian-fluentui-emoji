@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "dumpling",
+    "empanada",
+    "gyōza",
+    "jiaozi",
+    "pierogi",
+    "potsticker",
+    "饺子",
+    "水饺",
+    "食物与饮品"
+  ],
   "cldr": "dumpling",
   "fromVersion": "5.0",
   "glyph": "🥟",

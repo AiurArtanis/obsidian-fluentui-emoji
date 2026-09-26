@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "filling",
+    "pastry",
+    "pie",
+    "派",
+    "馅饼",
+    "食物与饮品"
+  ],
   "cldr": "pie",
   "fromVersion": "5.0",
   "glyph": "🥧",

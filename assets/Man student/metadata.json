@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "graduate",
+    "man",
+    "student",
+    "男学生",
+    "人物与身体"
+  ],
   "cldr": "man student",
   "fromVersion": "4.0",
   "glyph": "👨‍🎓",

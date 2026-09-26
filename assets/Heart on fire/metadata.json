@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "burn",
+    "heart",
+    "heart on fire",
+    "love",
+    "lust",
+    "sacred heart",
+    "燃烧的心",
+    "火上之心",
+    "笑脸与情感"
+  ],
   "cldr": "heart on fire",
   "fromVersion": "13.1",
   "glyph": "❤️‍🔥",

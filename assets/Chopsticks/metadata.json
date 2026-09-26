@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "chopsticks",
+    "hashi",
+    "筷子",
+    "食物与饮品"
+  ],
   "cldr": "chopsticks",
   "fromVersion": "5.0",
   "glyph": "🥢",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "ball",
+    "game",
+    "volleyball",
+    "排球",
+    "活动"
+  ],
   "cldr": "volleyball",
   "fromVersion": "1.0",
   "glyph": "🏐",

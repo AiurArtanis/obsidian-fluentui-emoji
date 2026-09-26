@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "man",
+    "man in manual wheelchair",
+    "wheelchair",
+    "坐手动轮椅的男人: 面向右边",
+    "人物与身体"
+  ],
   "cldr": "man in manual wheelchair facing right",
   "fromVersion": "15.1",
   "glyph": "👨‍🦽‍➡️",

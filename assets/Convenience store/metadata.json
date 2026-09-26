@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "convenience",
+    "store",
+    "便利店",
+    "旅行与地点"
+  ],
   "cldr": "convenience store",
   "fromVersion": "0.6",
   "glyph": "🏪",

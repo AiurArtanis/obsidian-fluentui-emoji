@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "marathon",
+    "person running",
+    "running",
+    "跑步的人",
+    "奔跑的人",
+    "人物与身体"
+  ],
   "cldr": "person running",
   "fromVersion": "0.6",
   "glyph": "🏃",

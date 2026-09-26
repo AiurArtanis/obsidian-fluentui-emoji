@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "first quarter moon",
+    "moon",
+    "quarter",
+    "上弦月",
+    "旅行与地点"
+  ],
   "cldr": "first quarter moon",
   "fromVersion": "0.6",
   "glyph": "🌓",

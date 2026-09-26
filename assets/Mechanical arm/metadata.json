@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "mechanical arm",
+    "prosthetic",
+    "机械手臂",
+    "假肢手臂",
+    "人物与身体"
+  ],
   "cldr": "mechanical arm",
   "fromVersion": "12.0",
   "glyph": "🦾",

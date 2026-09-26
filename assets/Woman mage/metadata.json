@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "sorceress",
+    "witch",
+    "woman mage",
+    "女法师",
+    "女巫师",
+    "人物与身体"
+  ],
   "cldr": "woman mage",
   "fromVersion": "5.0",
   "glyph": "🧙‍♀️",

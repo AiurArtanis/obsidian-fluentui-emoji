@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "✓",
+    "box",
+    "check",
+    "check box with check",
+    "勾选框",
+    "已勾选的复选框",
+    "符号"
+  ],
   "cldr": "check box with check",
   "fromVersion": "0.6",
   "glyph": "☑️",

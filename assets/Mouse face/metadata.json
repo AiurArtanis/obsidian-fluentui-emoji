@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "face",
+    "mouse",
+    "老鼠头",
+    "老鼠脸",
+    "动物与自然"
+  ],
   "cldr": "mouse face",
   "fromVersion": "0.6",
   "glyph": "🐭",

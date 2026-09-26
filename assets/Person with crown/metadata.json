@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "monarch",
+    "noble",
+    "person with crown",
+    "regal",
+    "royalty",
+    "戴王冠的人",
+    "戴皇冠的人",
+    "人物与身体"
+  ],
   "cldr": "person with crown",
   "fromVersion": "14.0",
   "glyph": "🫅",

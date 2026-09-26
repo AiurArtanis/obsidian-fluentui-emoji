@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "fish",
+    "fishing pole",
+    "pole",
+    "钓鱼竿",
+    "活动"
+  ],
   "cldr": "fishing pole",
   "fromVersion": "0.6",
   "glyph": "🎣",

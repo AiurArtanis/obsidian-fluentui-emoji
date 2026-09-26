@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "chest",
+    "mechanic",
+    "tool",
+    "toolbox",
+    "工具箱",
+    "物品"
+  ],
   "cldr": "toolbox",
   "fromVersion": "11.0",
   "glyph": "🧰",

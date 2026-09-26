@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "farmer",
+    "gardener",
+    "man",
+    "rancher",
+    "农夫",
+    "男农民",
+    "人物与身体"
+  ],
   "cldr": "man farmer",
   "fromVersion": "4.0",
   "glyph": "👨‍🌾",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "boy",
+    "young",
+    "男孩",
+    "小男孩",
+    "人物与身体"
+  ],
   "cldr": "boy",
   "fromVersion": "0.6",
   "glyph": "👦",

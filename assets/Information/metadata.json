@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "i",
+    "information",
+    "信息",
+    "信息标志",
+    "符号"
+  ],
   "cldr": "information",
   "fromVersion": "️0.6",
   "glyph": "ℹ️",

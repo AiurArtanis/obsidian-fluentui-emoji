@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "“not free of charge”",
+    "ideograph",
+    "Japanese",
+    "Japanese “not free of charge” button",
+    "有",
+    "日文收费按钮",
+    "收费",
+    "符号"
+  ],
   "cldr": "Japanese “not free of charge” button",
   "fromVersion": "0.6",
   "glyph": "🈶",

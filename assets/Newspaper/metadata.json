@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "news",
+    "newspaper",
+    "paper",
+    "报纸",
+    "物品"
+  ],
   "cldr": "newspaper",
   "fromVersion": "0.6",
   "glyph": "📰",

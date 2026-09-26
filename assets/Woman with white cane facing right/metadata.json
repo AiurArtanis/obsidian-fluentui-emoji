@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "accessibility",
+    "blind",
+    "woman",
+    "woman with white cane",
+    "拄盲杖向右的女人",
+    "人物与身体"
+  ],
   "cldr": "woman with white cane facing right",
   "fromVersion": "15.1",
   "glyph": "👩‍🦯‍➡️",

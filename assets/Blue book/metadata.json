@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "blue",
+    "book",
+    "蓝色书本",
+    "蓝色书籍",
+    "物品"
+  ],
   "cldr": "blue book",
   "fromVersion": "0.6",
   "glyph": "📘",

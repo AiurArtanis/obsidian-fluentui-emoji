@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bagel",
+    "bakery",
+    "breakfast",
+    "schmear",
+    "面包圈",
+    "贝果",
+    "食物与饮品"
+  ],
   "cldr": "bagel",
   "fromVersion": "11.0",
   "glyph": "🥯",

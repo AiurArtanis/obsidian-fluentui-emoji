@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bolt",
+    "nut",
+    "nut and bolt",
+    "tool",
+    "螺母与螺栓",
+    "螺帽和螺栓",
+    "物品"
+  ],
   "cldr": "nut and bolt",
   "fromVersion": "0.6",
   "glyph": "🔩",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "expensive",
+    "hand with index finger and thumb crossed",
+    "heart",
+    "love",
+    "money",
+    "snap",
+    "食指与拇指交叉的手",
+    "比心手势",
+    "人物与身体"
+  ],
   "cldr": "hand with index finger and thumb crossed",
   "fromVersion": "14.0",
   "glyph": "🫰",

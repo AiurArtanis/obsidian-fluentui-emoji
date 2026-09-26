@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "rain",
+    "sun",
+    "umbrella",
+    "umbrella on ground",
+    "阳伞",
+    "遮阳伞",
+    "旅行与地点"
+  ],
   "cldr": "umbrella on ground",
   "fromVersion": "0.7",
   "glyph": "⛱️",

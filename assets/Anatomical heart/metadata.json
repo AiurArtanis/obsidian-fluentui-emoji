@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "anatomical",
+    "cardiology",
+    "heart",
+    "organ",
+    "pulse",
+    "心脏",
+    "心脏器官",
+    "人物与身体"
+  ],
   "cldr": "anatomical heart",
   "fromVersion": "13.0",
   "glyph": "🫀",

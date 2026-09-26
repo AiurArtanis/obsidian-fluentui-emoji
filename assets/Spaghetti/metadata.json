@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "pasta",
+    "spaghetti",
+    "意大利面",
+    "意面",
+    "食物与饮品"
+  ],
   "cldr": "spaghetti",
   "fromVersion": "0.6",
   "glyph": "🍝",

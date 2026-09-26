@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bowl",
+    "noodle",
+    "ramen",
+    "steaming",
+    "面条",
+    "拉面",
+    "食物与饮品"
+  ],
   "cldr": "steaming bowl",
   "fromVersion": "0.6",
   "glyph": "🍜",

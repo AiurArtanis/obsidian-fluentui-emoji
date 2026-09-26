@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "absorbing",
+    "cleaning",
+    "porous",
+    "sponge",
+    "海绵",
+    "物品"
+  ],
   "cldr": "sponge",
   "fromVersion": "11.0",
   "glyph": "🧽",

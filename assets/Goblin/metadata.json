@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "goblin",
+    "monster",
+    "妖怪",
+    "小妖精",
+    "笑脸与情感"
+  ],
   "cldr": "goblin",
   "fromVersion": "0.6",
   "glyph": "👺",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "can",
+    "canned food",
+    "罐头食品",
+    "罐头",
+    "食物与饮品"
+  ],
   "cldr": "canned food",
   "fromVersion": "5.0",
   "glyph": "🥫",

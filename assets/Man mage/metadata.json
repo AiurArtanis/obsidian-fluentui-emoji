@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man mage",
+    "sorcerer",
+    "wizard",
+    "男法师",
+    "男巫师",
+    "人物与身体"
+  ],
   "cldr": "man mage",
   "fromVersion": "5.0",
   "glyph": "🧙‍♂️",

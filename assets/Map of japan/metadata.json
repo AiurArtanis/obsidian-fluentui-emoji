@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "Japan",
+    "map",
+    "map of Japan",
+    "日本地图",
+    "旅行与地点"
+  ],
   "cldr": "map of Japan",
   "fromVersion": "0.6",
   "glyph": "🗾",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "bamboo",
+    "celebration",
+    "Japanese",
+    "pine",
+    "pine decoration",
+    "门松",
+    "活动"
+  ],
   "cldr": "pine decoration",
   "fromVersion": "0.6",
   "glyph": "🎍",

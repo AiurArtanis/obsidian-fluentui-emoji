@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "clown",
+    "face",
+    "小丑脸",
+    "小丑",
+    "笑脸与情感"
+  ],
   "cldr": "clown face",
   "fromVersion": "3.0",
   "glyph": "🤡",

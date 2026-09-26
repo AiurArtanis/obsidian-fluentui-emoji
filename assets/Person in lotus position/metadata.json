@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "meditation",
+    "person in lotus position",
+    "yoga",
+    "打坐的人",
+    "盘腿冥想的人",
+    "人物与身体"
+  ],
   "cldr": "person in lotus position",
   "fromVersion": "5.0",
   "glyph": "🧘",

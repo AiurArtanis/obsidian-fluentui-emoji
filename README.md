@@ -16,6 +16,8 @@ Fluent Emoji are a collection of familiar, friendly, and modern emoji from Micro
 
 The first release, [`icon-pack-v1`](../../releases/tag/icon-pack-v1), contains one complete ZIP for each style, one ZIP per upstream group, and `fluent-emoji-for-obsidian-plugin.zip`. The plugin pack contains only SVGs in `3d/` (upstream Color), `flat/`, and `high-contrast/`, with one root `metadata.json` containing all metadata as JSONL.
 
+[`icon-pack-v2`](../../releases/tag/v2) retains those archive layouts and adds reviewed English/Chinese `alias` lists to all 1,595 source metadata files. Every packaged JSONL record preserves `alias` and any other source metadata fields, with `emojiName` first and `emojiStyle` last.
+
 ### Build a pack locally
 
 Python 3.10+ is sufficient; no third-party dependency is required.
@@ -49,6 +51,8 @@ Fluent Emoji 是 Microsoft 提供的一套熟悉、友好且现代的 Emoji。�
 - `scripts/package_emojis.py` 按视觉风格和 `metadata.group` 打包完整 SVG/PNG 资源，并在每个资源目录写入合并的 `metadata.jsonl`，同时保留上游 MIT 许可证。
 
 首个发布版本 [`icon-pack-v1`](../../releases/tag/icon-pack-v1) 包含四个全量风格包、每个上游主题各一个 ZIP，以及 `fluent-emoji-for-obsidian-plugin.zip`。插件专用包仅收录 SVG，目录为 `3d/`（上游 Color）、`flat/`、`high-contrast/`；根目录的 `metadata.json` 保存全量 JSONL 元数据。
+
+[`icon-pack-v2`](../../releases/tag/v2) 保持上述 ZIP 结构，为全部 1,595 份源元数据加入经审查的中英文 `alias`。包内每条 JSONL 元数据保留 `alias` 及源文件中的其他新增字段，且仍以 `emojiName` 为首字段、`emojiStyle` 为末字段。
 
 ### 本地打包
 

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "falling",
+    "shooting",
+    "star",
+    "流星",
+    "划过的流星",
+    "旅行与地点"
+  ],
   "cldr": "shooting star",
   "fromVersion": "0.6",
   "glyph": "🌠",

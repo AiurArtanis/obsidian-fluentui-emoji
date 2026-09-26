@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "chess",
+    "chess pawn",
+    "dupe",
+    "expendable",
+    "国际象棋兵",
+    "活动"
+  ],
   "cldr": "chess pawn",
   "fromVersion": "11.0",
   "glyph": "♟️",

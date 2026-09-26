@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "tuxedo",
+    "woman",
+    "woman in tuxedo",
+    "穿燕尾服的女人",
+    "穿礼服的女人",
+    "人物与身体"
+  ],
   "cldr": "woman in tuxedo",
   "fromVersion": "13.0",
   "glyph": "🤵‍♀️",

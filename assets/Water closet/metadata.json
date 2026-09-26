@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "closet",
+    "lavatory",
+    "restroom",
+    "water",
+    "wc",
+    "厕所",
+    "洗手间",
+    "符号"
+  ],
   "cldr": "water closet",
   "fromVersion": "0.6",
   "glyph": "🚾",

@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "calendar",
+    "date",
+    "日历",
+    "物品"
+  ],
   "cldr": "calendar",
   "fromVersion": "0.6",
   "glyph": "📅",

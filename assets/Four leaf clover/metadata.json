@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "4",
+    "clover",
+    "four",
+    "four-leaf clover",
+    "leaf",
+    "四叶草",
+    "动物与自然"
+  ],
   "cldr": "four leaf clover",
   "fromVersion": "0.6",
   "glyph": "🍀",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "face",
+    "face with open mouth",
+    "mouth",
+    "open",
+    "sympathy",
+    "吃惊",
+    "张大嘴的脸",
+    "笑脸与情感"
+  ],
   "cldr": "face with open mouth",
   "fromVersion": "1.0",
   "glyph": "😮",

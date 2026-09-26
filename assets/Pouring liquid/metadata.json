@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "drink",
+    "empty",
+    "glass",
+    "pouring liquid",
+    "spill",
+    "倒液体",
+    "倾倒液体",
+    "食物与饮品"
+  ],
   "cldr": "pouring liquid",
   "fromVersion": "14.0",
   "glyph": "🫗",

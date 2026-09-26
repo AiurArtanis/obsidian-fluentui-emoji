@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "man",
+    "man swimming",
+    "swim",
+    "男生游泳",
+    "游泳的男人",
+    "人物与身体"
+  ],
   "cldr": "man swimming",
   "fromVersion": "4.0",
   "glyph": "🏊‍♂️",

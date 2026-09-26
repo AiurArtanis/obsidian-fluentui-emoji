@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "pilot",
+    "plane",
+    "woman",
+    "女飞行员",
+    "人物与身体"
+  ],
   "cldr": "woman pilot",
   "fromVersion": "4.0",
   "glyph": "👩‍✈️",

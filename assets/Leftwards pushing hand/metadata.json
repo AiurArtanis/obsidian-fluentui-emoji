@@ -1,4 +1,16 @@
 {
+	"alias": [
+		"high five",
+		"leftward",
+		"leftwards pushing hand",
+		"push",
+		"refuse",
+		"stop",
+		"wait",
+		"向左推的手",
+		"拒绝手势",
+		"人物与身体"
+	],
 	"cldr": "leftwards pushing hand",
 	"fromVersion": "15.0",
 	"glyph": "🫷",

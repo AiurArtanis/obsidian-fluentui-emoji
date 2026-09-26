@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "brachiosaurus",
+    "brontosaurus",
+    "diplodocus",
+    "sauropod",
+    "蜥脚类恐龙",
+    "长颈恐龙",
+    "动物与自然"
+  ],
   "cldr": "sauropod",
   "fromVersion": "5.0",
   "glyph": "🦕",

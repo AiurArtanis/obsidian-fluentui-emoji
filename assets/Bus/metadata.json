@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "bus",
+    "vehicle",
+    "公交车",
+    "巴士",
+    "旅行与地点"
+  ],
   "cldr": "bus",
   "fromVersion": "0.6",
   "glyph": "🚌",

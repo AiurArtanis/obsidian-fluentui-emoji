@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "Jolly Roger",
+    "pirate",
+    "pirate flag",
+    "plunder",
+    "treasure",
+    "海盗旗",
+    "旗帜"
+  ],
   "cldr": "pirate flag",
   "fromVersion": "11.0",
   "glyph": "🏴‍☠️",

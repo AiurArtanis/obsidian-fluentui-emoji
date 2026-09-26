@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "drink",
+    "pot",
+    "tea",
+    "teapot",
+    "茶壶",
+    "食物与饮品"
+  ],
   "cldr": "teapot",
   "fromVersion": "13.0",
   "glyph": "🫖",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "brown mushroom",
+    "food",
+    "fungus",
+    "nature",
+    "vegetable",
+    "褐色蘑菇",
+    "食物与饮品"
+  ],
   "cldr": "brown mushroom",
   "fromVersion": "15.1",
   "glyph": "🍄‍🟫",

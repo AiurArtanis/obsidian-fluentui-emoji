@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "arrow",
+    "right arrow curving up",
+    "右上弯箭头",
+    "符号"
+  ],
   "cldr": "right arrow curving up",
   "fromVersion": "0.6",
   "glyph": "⤴️",

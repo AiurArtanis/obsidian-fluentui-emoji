@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "undead",
+    "walking dead",
+    "woman zombie",
+    "女僵尸",
+    "人物与身体"
+  ],
   "cldr": "woman zombie",
   "fromVersion": "5.0",
   "glyph": "🧟‍♀️",

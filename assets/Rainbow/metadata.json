@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "rain",
+    "rainbow",
+    "彩虹",
+    "旅行与地点"
+  ],
   "cldr": "rainbow",
   "fromVersion": "0.6",
   "glyph": "🌈",

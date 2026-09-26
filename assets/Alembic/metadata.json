@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "alembic",
+    "chemistry",
+    "tool",
+    "蒸馏器",
+    "蒸馏瓶",
+    "物品"
+  ],
   "cldr": "alembic",
   "fromVersion": "1.0",
   "glyph": "⚗️",

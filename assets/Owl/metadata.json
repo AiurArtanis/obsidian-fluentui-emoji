@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bird",
+    "owl",
+    "wise",
+    "猫头鹰",
+    "鸮",
+    "动物与自然"
+  ],
   "cldr": "owl",
   "fromVersion": "3.0",
   "glyph": "🦉",

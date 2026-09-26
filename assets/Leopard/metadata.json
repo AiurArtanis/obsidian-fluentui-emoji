@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "leopard",
+    "豹子",
+    "花豹",
+    "动物与自然"
+  ],
   "cldr": "leopard",
   "fromVersion": "1.0",
   "glyph": "🐆",

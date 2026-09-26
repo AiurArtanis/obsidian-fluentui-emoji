@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "hike",
+    "person walking",
+    "walk",
+    "walking",
+    "面向右边走路的人",
+    "人物与身体"
+  ],
   "cldr": "person walking facing right",
   "fromVersion": "15.1",
   "glyph": "🚶‍➡️",

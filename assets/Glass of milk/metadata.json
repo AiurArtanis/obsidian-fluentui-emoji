@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "drink",
+    "glass",
+    "glass of milk",
+    "milk",
+    "一杯牛奶",
+    "牛奶",
+    "食物与饮品"
+  ],
   "cldr": "glass of milk",
   "fromVersion": "3.0",
   "glyph": "🥛",

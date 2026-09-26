@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "djinn",
+    "woman genie",
+    "女妖怪",
+    "女灯神",
+    "人物与身体"
+  ],
   "cldr": "woman genie",
   "fromVersion": "5.0",
   "glyph": "🧞‍♀️",

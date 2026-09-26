@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "beach",
+    "beach with umbrella",
+    "umbrella",
+    "海滩遮阳伞",
+    "旅行与地点"
+  ],
   "cldr": "beach with umbrella",
   "fromVersion": "0.7",
   "glyph": "🏖️",

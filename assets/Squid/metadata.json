@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "food",
+    "mollusc",
+    "squid",
+    "乌贼",
+    "鱿鱼",
+    "食物与饮品"
+  ],
   "cldr": "squid",
   "fromVersion": "3.0",
   "glyph": "🦑",
@@ -8,7 +16,7 @@
   "group": "Food & Drink",
   "keywords": [
     "food",
-    "molusc",
+    "mollusc",
     "squid"
   ],
   "mappedToEmoticons": [

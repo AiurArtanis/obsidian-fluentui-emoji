@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "burger",
+    "hamburger",
+    "汉堡",
+    "汉堡包",
+    "食物与饮品"
+  ],
   "cldr": "hamburger",
   "fromVersion": "0.6",
   "glyph": "🍔",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "criminal",
+    "evil",
+    "superpower",
+    "villain",
+    "woman",
+    "woman supervillain",
+    "女超级反派",
+    "女超级坏蛋",
+    "人物与身体"
+  ],
   "cldr": "woman supervillain",
   "fromVersion": "11.0",
   "glyph": "🦹‍♀️",

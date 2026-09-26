@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "balance",
+    "justice",
+    "Libra",
+    "scale",
+    "zodiac",
+    "天平",
+    "秤",
+    "物品"
+  ],
   "cldr": "balance scale",
   "fromVersion": "1.0",
   "glyph": "⚖️",

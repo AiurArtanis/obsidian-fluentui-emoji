@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bookmark",
+    "mark",
+    "书签",
+    "物品"
+  ],
   "cldr": "bookmark",
   "fromVersion": "0.6",
   "glyph": "🔖",

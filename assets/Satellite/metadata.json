@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "satellite",
+    "space",
+    "卫星",
+    "人造卫星",
+    "旅行与地点"
+  ],
   "cldr": "satellite",
   "fromVersion": "0.7",
   "glyph": "🛰️",

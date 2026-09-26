@@ -11,6 +11,14 @@
     "officer",
     "police"
   ],
+  "alias": [
+    "cop",
+    "officer",
+    "police",
+    "警察",
+    "警官",
+    "人物与身体"
+  ],
   "mappedToEmoticons": [
     "police_officer"
   ],

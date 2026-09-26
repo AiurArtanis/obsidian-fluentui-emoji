@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "flower",
+    "white flower",
+    "白花",
+    "白色花朵",
+    "动物与自然"
+  ],
   "cldr": "white flower",
   "fromVersion": "0.6",
   "glyph": "💮",

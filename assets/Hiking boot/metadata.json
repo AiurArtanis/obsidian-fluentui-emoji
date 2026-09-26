@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "backpacking",
+    "boot",
+    "camping",
+    "hiking",
+    "登山靴",
+    "徒步靴",
+    "物品"
+  ],
   "cldr": "hiking boot",
   "fromVersion": "11.0",
   "glyph": "🥾",

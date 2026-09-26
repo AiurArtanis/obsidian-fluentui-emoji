@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "fencer",
+    "fencing",
+    "person fencing",
+    "sword",
+    "击剑的人",
+    "击剑选手",
+    "人物与身体"
+  ],
   "cldr": "person fencing",
   "fromVersion": "3.0",
   "glyph": "🤺",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "aerial",
+    "cable",
+    "car",
+    "gondola",
+    "tramway",
+    "索道",
+    "旅行与地点"
+  ],
   "cldr": "aerial tramway",
   "fromVersion": "1.0",
   "glyph": "🚡",

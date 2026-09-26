@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "kick",
+    "leg",
+    "limb",
+    "腿",
+    "腿部",
+    "人物与身体"
+  ],
   "cldr": "leg",
   "fromVersion": "11.0",
   "glyph": "🦵",

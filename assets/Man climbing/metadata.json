@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "climber",
+    "man climbing",
+    "攀爬的男人",
+    "人物与身体"
+  ],
   "cldr": "man climbing",
   "fromVersion": "5.0",
   "glyph": "🧗‍♂️",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "balance",
+    "juggle",
+    "multitask",
+    "person juggling",
+    "skill",
+    "抛接杂耍的人",
+    "玩杂耍的人",
+    "人物与身体"
+  ],
   "cldr": "person juggling",
   "fromVersion": "3.0",
   "glyph": "🤹",

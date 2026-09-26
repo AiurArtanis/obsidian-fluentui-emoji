@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cup with straw",
+    "juice",
+    "soda",
+    "带吸管杯",
+    "吸管杯",
+    "食物与饮品"
+  ],
   "cldr": "cup with straw",
   "fromVersion": "5.0",
   "glyph": "🥤",

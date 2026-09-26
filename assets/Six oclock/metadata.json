@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "00",
+    "6",
+    "6:00",
+    "clock",
+    "o’clock",
+    "six",
+    "六点",
+    "六点整",
+    "旅行与地点"
+  ],
   "cldr": "six o’clock",
   "fromVersion": "0.6",
   "glyph": "🕕",

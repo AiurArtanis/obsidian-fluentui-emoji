@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "antenna",
+    "dish",
+    "satellite",
+    "卫星天线",
+    "卫星锅",
+    "物品"
+  ],
   "cldr": "satellite antenna",
   "fromVersion": "0.6",
   "glyph": "📡",

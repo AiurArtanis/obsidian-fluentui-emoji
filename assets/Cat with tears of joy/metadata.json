@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "cat",
+    "cat with tears of joy",
+    "face",
+    "joy",
+    "tear",
+    "笑出眼泪的猫",
+    "笑哭的猫",
+    "笑脸与情感"
+  ],
   "cldr": "cat with tears of joy",
   "fromVersion": "0.6",
   "glyph": "😹",

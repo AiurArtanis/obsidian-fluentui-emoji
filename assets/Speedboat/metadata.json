@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "boat",
+    "speedboat",
+    "快艇",
+    "高速快艇",
+    "旅行与地点"
+  ],
   "cldr": "speedboat",
   "fromVersion": "0.6",
   "glyph": "🚤",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "brown",
+    "heart",
+    "棕心",
+    "棕色爱心",
+    "笑脸与情感"
+  ],
   "cldr": "brown heart",
   "fromVersion": "12.0",
   "glyph": "🤎",

@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "arrow",
+    "clockwise",
+    "clockwise vertical arrows",
+    "reload",
+    "顺时针垂直箭头",
+    "刷新箭头",
+    "符号"
+  ],
   "cldr": "clockwise vertical arrows",
   "fromVersion": "0.6",
   "glyph": "🔃",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "dog",
+    "poodle",
+    "贵宾犬",
+    "贵宾狗",
+    "动物与自然"
+  ],
   "cldr": "poodle",
   "fromVersion": "0.6",
   "glyph": "🐩",

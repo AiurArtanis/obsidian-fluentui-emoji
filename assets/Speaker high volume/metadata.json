@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "loud",
+    "speaker high volume",
+    "高音量的扬声器",
+    "大音量喇叭",
+    "物品"
+  ],
   "cldr": "speaker high volume",
   "fromVersion": "0.6",
   "glyph": "🔊",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "celebration",
+    "fireworks",
+    "烟花",
+    "焰火",
+    "活动"
+  ],
   "cldr": "fireworks",
   "fromVersion": "0.6",
   "glyph": "🎆",

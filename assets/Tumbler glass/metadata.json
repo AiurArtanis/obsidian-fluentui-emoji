@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "glass",
+    "liquor",
+    "shot",
+    "tumbler",
+    "whisky",
+    "平底杯",
+    "威士忌杯",
+    "食物与饮品"
+  ],
   "cldr": "tumbler glass",
   "fromVersion": "3.0",
   "glyph": "🥃",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "cold",
+    "snow",
+    "snowman",
+    "雪与雪人",
+    "雪中的雪人",
+    "旅行与地点"
+  ],
   "cldr": "snowman",
   "fromVersion": "0.7",
   "glyph": "☃️",

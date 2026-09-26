@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "hole",
+    "洞",
+    "洞口",
+    "笑脸与情感"
+  ],
   "cldr": "hole",
   "fromVersion": "0.7",
   "glyph": "🕳️",

@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "card",
+    "flower",
+    "flower playing cards",
+    "game",
+    "Japanese",
+    "playing",
+    "花牌",
+    "活动"
+  ],
   "cldr": "flower playing cards",
   "fromVersion": "0.6",
   "glyph": "🎴",

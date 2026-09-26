@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "celebration",
+    "party",
+    "popper",
+    "tada",
+    "拉炮",
+    "活动"
+  ],
   "cldr": "party popper",
   "fromVersion": "0.6",
   "glyph": "🎉",

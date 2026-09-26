@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "peace",
+    "peace symbol",
+    "和平符号",
+    "和平标志",
+    "符号"
+  ],
   "cldr": "peace symbol",
   "fromVersion": "1.0",
   "glyph": "☮️",

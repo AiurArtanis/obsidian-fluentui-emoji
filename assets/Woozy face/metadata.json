@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "dizzy",
+    "intoxicated",
+    "tipsy",
+    "uneven eyes",
+    "wavy mouth",
+    "woozy face",
+    "头昏眼花",
+    "醉醺醺",
+    "笑脸与情感"
+  ],
   "cldr": "woozy face",
   "fromVersion": "11.0",
   "glyph": "🥴",

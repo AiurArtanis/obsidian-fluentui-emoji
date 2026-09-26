@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "astronaut",
+    "rocket",
+    "宇航员",
+    "航天员",
+    "人物与身体"
+  ],
   "cldr": "astronaut",
   "fromVersion": "12.1",
   "glyph": "🧑‍🚀",

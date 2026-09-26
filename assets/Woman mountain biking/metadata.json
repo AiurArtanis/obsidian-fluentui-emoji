@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "bicycle",
+    "bike",
+    "biking",
+    "cyclist",
+    "mountain",
+    "woman",
+    "骑山地车的女人",
+    "人物与身体"
+  ],
   "cldr": "woman mountain biking",
   "fromVersion": "4.0",
   "glyph": "🚵‍♀️",

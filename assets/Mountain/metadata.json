@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "mountain",
+    "山",
+    "山峰",
+    "旅行与地点"
+  ],
   "cldr": "mountain",
   "fromVersion": "0.7",
   "glyph": "⛰️",

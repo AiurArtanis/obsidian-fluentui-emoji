@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "doctor",
+    "healthcare",
+    "nurse",
+    "therapist",
+    "woman",
+    "woman health worker",
+    "女卫生工作者",
+    "女医护人员",
+    "人物与身体"
+  ],
   "cldr": "woman health worker",
   "fromVersion": "4.0",
   "glyph": "👩‍⚕️",

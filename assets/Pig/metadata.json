@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "pig",
+    "sow",
+    "猪",
+    "动物与自然"
+  ],
   "cldr": "pig",
   "fromVersion": "1.0",
   "glyph": "🐖",

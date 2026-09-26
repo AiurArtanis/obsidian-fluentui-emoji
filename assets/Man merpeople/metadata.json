@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "merman",
+    "Triton",
+    "男人鱼",
+    "人物与身体"
+  ],
   "cldr": "merman",
   "fromVersion": "5.0",
   "glyph": "🧜‍♂️",

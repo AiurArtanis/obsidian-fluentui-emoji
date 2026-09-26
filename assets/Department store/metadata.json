@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "department",
+    "store",
+    "商场",
+    "百货商店",
+    "旅行与地点"
+  ],
   "cldr": "department store",
   "fromVersion": "0.6",
   "glyph": "🏬",

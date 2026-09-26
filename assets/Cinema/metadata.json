@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "camera",
+    "cinema",
+    "film",
+    "movie",
+    "电影院",
+    "影院",
+    "符号"
+  ],
   "cldr": "cinema",
   "fromVersion": "0.6",
   "glyph": "🎦",

@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "Scorpio",
+    "scorpion",
+    "scorpius",
+    "zodiac",
+    "天蝎座",
+    "符号"
+  ],
   "cldr": "Scorpio",
   "fromVersion": "0.6",
   "glyph": "♏",

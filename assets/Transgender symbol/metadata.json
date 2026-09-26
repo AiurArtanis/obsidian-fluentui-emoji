@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "transgender",
+    "transgender symbol",
+    "跨性别符号",
+    "跨性别标志",
+    "符号"
+  ],
   "cldr": "transgender symbol",
   "fromVersion": "13.0",
   "glyph": "⚧️",

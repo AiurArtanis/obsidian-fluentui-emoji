@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "automobile",
+    "car",
+    "汽车",
+    "轿车",
+    "旅行与地点"
+  ],
   "cldr": "automobile",
   "fromVersion": "0.6",
   "glyph": "🚗",

@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "doctor",
+    "healthcare",
+    "man",
+    "man health worker",
+    "nurse",
+    "therapist",
+    "男医生",
+    "男医护人员",
+    "人物与身体"
+  ],
   "cldr": "man health worker",
   "fromVersion": "4.0",
   "glyph": "👨‍⚕️",

@@ -1,4 +1,9 @@
 {
+  "alias": [
+    "sushi",
+    "寿司",
+    "食物与饮品"
+  ],
   "cldr": "sushi",
   "fromVersion": "0.6",
   "glyph": "🍣",

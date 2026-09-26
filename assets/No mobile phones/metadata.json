@@ -1,4 +1,15 @@
 {
+  "alias": [
+    "cell",
+    "forbidden",
+    "mobile",
+    "no",
+    "no mobile phones",
+    "phone",
+    "禁止使用手机",
+    "禁用手机",
+    "符号"
+  ],
   "cldr": "no mobile phones",
   "fromVersion": "1.0",
   "glyph": "📵",

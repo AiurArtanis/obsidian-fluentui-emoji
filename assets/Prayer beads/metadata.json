@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "beads",
+    "clothing",
+    "necklace",
+    "prayer",
+    "religion",
+    "念珠",
+    "佛珠",
+    "物品"
+  ],
   "cldr": "prayer beads",
   "fromVersion": "1.0",
   "glyph": "📿",

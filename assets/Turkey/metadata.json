@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bird",
+    "turkey",
+    "火鸡",
+    "动物与自然"
+  ],
   "cldr": "turkey",
   "fromVersion": "1.0",
   "glyph": "🦃",

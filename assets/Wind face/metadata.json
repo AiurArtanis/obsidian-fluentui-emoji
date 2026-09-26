@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "blow",
+    "cloud",
+    "face",
+    "wind",
+    "大风",
+    "吹风的脸",
+    "旅行与地点"
+  ],
   "cldr": "wind face",
   "fromVersion": "0.7",
   "glyph": "🌬️",

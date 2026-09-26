@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "crescent",
+    "moon",
+    "waxing",
+    "蛾眉月",
+    "娥眉月",
+    "旅行与地点"
+  ],
   "cldr": "waxing crescent moon",
   "fromVersion": "1.0",
   "glyph": "🌒",

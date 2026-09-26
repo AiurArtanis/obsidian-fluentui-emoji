@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "baseball cap",
+    "billed cap",
+    "鸭舌帽",
+    "棒球帽",
+    "物品"
+  ],
   "cldr": "billed cap",
   "fromVersion": "5.0",
   "glyph": "🧢",

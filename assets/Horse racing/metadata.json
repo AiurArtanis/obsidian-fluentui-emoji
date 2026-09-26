@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "horse",
+    "jockey",
+    "racehorse",
+    "racing",
+    "赛马",
+    "赛马骑手",
+    "人物与身体"
+  ],
   "cldr": "horse racing",
   "fromVersion": "1.0",
   "glyph": "🏇",

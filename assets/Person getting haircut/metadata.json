@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "barber",
+    "beauty",
+    "haircut",
+    "parlor",
+    "person getting haircut",
+    "理发的人",
+    "剪头发的人",
+    "人物与身体"
+  ],
   "cldr": "person getting haircut",
   "fromVersion": "0.6",
   "glyph": "💇",

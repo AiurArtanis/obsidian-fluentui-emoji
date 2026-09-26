@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "bright",
+    "bright button",
+    "brightness",
+    "高亮度按钮",
+    "增亮按钮",
+    "符号"
+  ],
   "cldr": "bright button",
   "fromVersion": "1.0",
   "glyph": "🔆",

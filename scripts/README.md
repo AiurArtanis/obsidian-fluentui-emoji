@@ -128,6 +128,8 @@ fluent-emoji-for-obsidian-plugin.zip
 
 每个包含图片的叶子目录只会生成一个 `metadata.jsonl`。这是 UTF-8 的 JSON Lines 文件：一行代表一个 Emoji／风格组合，按 `emojiName` 升序排列；肤色变体不会重复写同一条元数据。每行保留完整的上游 `metadata.json`，并额外遵守两个固定字段位置：首字段为 `emojiName`，末字段为 `emojiStyle`。
 
+`icon-pack-v2` 的 JSONL 会保留全部 1,595 份源元数据中的 `alias`，以及将来新增的其他字段；插件包根目录的 `metadata.json` 也遵守同一保留规则。
+
 ```jsonl
 {"emojiName":"Video game","cldr":"video game","fromVersion":"0.6","glyph":"🎮","group":"Activities","keywords":["controller","game","video game"],"tts":"video game","unicode":"1f3ae","emojiStyle":"flat"}
 ```

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "European",
+    "post",
+    "post office",
+    "邮局",
+    "旅行与地点"
+  ],
   "cldr": "post office",
   "fromVersion": "1.0",
   "glyph": "🏤",

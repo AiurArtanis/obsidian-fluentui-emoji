@@ -1,4 +1,14 @@
 {
+  "alias": [
+    "agreement",
+    "hand",
+    "handshake",
+    "meeting",
+    "shake",
+    "握手",
+    "握手礼",
+    "人物与身体"
+  ],
   "cldr": "handshake",
   "fromVersion": "3.0",
   "glyph": "🤝",

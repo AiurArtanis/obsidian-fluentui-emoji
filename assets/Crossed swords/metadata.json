@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "crossed",
+    "swords",
+    "weapon",
+    "交叉放置的剑",
+    "双剑交叉",
+    "物品"
+  ],
   "cldr": "crossed swords",
   "fromVersion": "1.0",
   "glyph": "⚔️",

@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "accessibility",
+    "ear with hearing aid",
+    "hard of hearing",
+    "戴助听器的耳朵",
+    "人物与身体"
+  ],
   "cldr": "ear with hearing aid",
   "fromVersion": "12.0",
   "glyph": "🦻",

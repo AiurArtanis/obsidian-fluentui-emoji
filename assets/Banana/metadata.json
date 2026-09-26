@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "banana",
+    "fruit",
+    "香蕉",
+    "食物与饮品"
+  ],
   "cldr": "banana",
   "fromVersion": "0.6",
   "glyph": "🍌",

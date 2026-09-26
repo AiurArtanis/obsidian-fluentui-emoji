@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "box",
+    "card",
+    "file",
+    "卡片盒",
+    "档案盒",
+    "物品"
+  ],
   "cldr": "card file box",
   "fromVersion": "0.7",
   "glyph": "🗃️",

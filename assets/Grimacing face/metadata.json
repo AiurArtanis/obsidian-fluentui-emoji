@@ -1,4 +1,12 @@
 {
+  "alias": [
+    "face",
+    "grimace",
+    "grimacing face",
+    "龇牙咧嘴",
+    "尴尬的笑",
+    "笑脸与情感"
+  ],
   "cldr": "grimacing face",
   "fromVersion": "1.0",
   "glyph": "😬",

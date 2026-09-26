@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "warning",
+    "警告",
+    "警示",
+    "符号"
+  ],
   "cldr": "warning",
   "fromVersion": "0.6",
   "glyph": "⚠️",

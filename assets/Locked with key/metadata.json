@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "closed",
+    "key",
+    "lock",
+    "locked with key",
+    "secure",
+    "钥匙和锁",
+    "物品"
+  ],
   "cldr": "locked with key",
   "fromVersion": "0.6",
   "glyph": "🔐",

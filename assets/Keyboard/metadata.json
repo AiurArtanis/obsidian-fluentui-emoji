@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "computer",
+    "keyboard",
+    "键盘",
+    "物品"
+  ],
   "cldr": "keyboard",
   "fromVersion": "1.0",
   "glyph": "⌨️",

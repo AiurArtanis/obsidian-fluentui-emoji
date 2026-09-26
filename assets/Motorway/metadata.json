@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "highway",
+    "motorway",
+    "road",
+    "高速公路",
+    "旅行与地点"
+  ],
   "cldr": "motorway",
   "fromVersion": "0.7",
   "glyph": "🛣️",

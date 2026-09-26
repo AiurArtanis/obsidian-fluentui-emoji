@@ -1,4 +1,13 @@
 {
+  "alias": [
+    "cloud",
+    "cloud with lightning and rain",
+    "rain",
+    "thunder",
+    "雷阵雨",
+    "雷雨",
+    "旅行与地点"
+  ],
   "cldr": "cloud with lightning and rain",
   "fromVersion": "0.7",
   "glyph": "⛈️",

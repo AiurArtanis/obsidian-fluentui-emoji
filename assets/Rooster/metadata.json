@@ -1,4 +1,10 @@
 {
+  "alias": [
+    "bird",
+    "rooster",
+    "公鸡",
+    "动物与自然"
+  ],
   "cldr": "rooster",
   "fromVersion": "1.0",
   "glyph": "🐓",

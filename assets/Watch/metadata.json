@@ -1,4 +1,11 @@
 {
+  "alias": [
+    "clock",
+    "watch",
+    "手表",
+    "腕表",
+    "旅行与地点"
+  ],
   "cldr": "watch",
   "fromVersion": "0.6",
   "glyph": "⌚",
