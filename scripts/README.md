@@ -138,6 +138,20 @@ fluent-emoji-for-obsidian-plugin.zip
 
 写入时先创建临时 ZIP，完成 CRC 校验后才原子替换目标文件。已有目标 ZIP 默认不会被覆盖。
 
+### 元数据名称与实际路径
+
+自 `v2.0.1` 起，`emojiName` 优先保留与文件名匹配的原目录名称；若不匹配，仅当 `cldr` 或 `tts` 与该 Emoji 的所有真实风格、肤色文件名均一致时才采用该名称。例如目录 `O button blood type` 对应 `emojiName: "O button (blood type)"`。不会批量重命名图片或修改源元数据。插件模式会拒绝无法按名称解析的文件及发生冲突后改名的文件。
+
+独立校验器不导入打包器，使用插件相同的名称转路径规则，检查全部 JSONL 行、肤色文件、空行、重复记录、大小写／Unicode 规范化歧义、ZIP 路径安全、根结构和 CRC。传入源仓库时，还逐条比较全部源元数据字段、许可内容及图片大小／CRC；不计算文件或 ZIP SHA。
+
+```powershell
+py scripts/validate_emoji_archive.py dist/fluent-emoji-for-obsidian-plugin.zip --source-root .
+py scripts/test_validate_emoji_archive.py
+py scripts/build_release.py
+```
+
+`build_release.py` 重建现有十四种正式资源包，并生成 `dist/release/validation-report.json`，拒绝覆盖同名产物。发布工作流只响应本 Fork 的新版本 tag，先创建草稿、下载并复核全部资产，再发布正式 Release；不会覆盖已有 Release。
+
 ## 测试
 
 测试完全使用临时目录和合成资源，不会读取或修改真实 Emoji 素材：

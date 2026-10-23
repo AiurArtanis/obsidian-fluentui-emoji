@@ -15,7 +15,7 @@ import sys
 import tempfile
 import zipfile
 from collections import Counter, defaultdict
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime
 from pathlib import Path, PurePosixPath
 from typing import Any, Iterable, Sequence
@@ -138,6 +138,7 @@ def discover_assets(
         group = _safe_path_component(group.strip(), label="metadata.group")
 
         asset_directory = metadata_path.parent
+        emoji_records: list[AssetFile] = []
         for source_path in sorted(asset_directory.rglob("*")):
             if not source_path.is_file() or source_path.suffix.lower() not in IMAGE_SUFFIXES:
                 continue
@@ -153,7 +154,7 @@ def discover_assets(
                 raise PackageError(
                     f"资源文件不在仓库根目录内：{source_path}"
                 ) from error
-            records.append(
+            emoji_records.append(
                 AssetFile(
                     source_path=source_path,
                     source_relative_path=source_relative_path,
@@ -165,9 +166,32 @@ def discover_assets(
                 )
             )
 
+        # A directory label is not always the filename stem (for example,
+        # O button blood type omits parentheses). Only use a metadata name
+        # when every real style/skin-tone filename confirms the same mapping.
+        candidates = [asset_directory.name, metadata.get("cldr"), metadata.get("tts")]
+        for candidate in candidates:
+            if not isinstance(candidate, str) or not candidate.strip():
+                continue
+            candidate = candidate.strip()
+            if emoji_records and all(
+                record.source_path.name == _asset_filename(record, candidate)
+                for record in emoji_records
+            ):
+                emoji_records = [replace(record, emoji_name=candidate) for record in emoji_records]
+                break
+        records.extend(emoji_records)
+
     if not records:
         raise PackageError(f"在 {assets_directory} 中没有找到可打包的 SVG 或 PNG 资源")
     return records
+
+
+def _asset_filename(asset: AssetFile, emoji_name: str) -> str:
+    slug = emoji_name.strip().lower().replace(" ", "_")
+    suffix = asset.style.replace("-", "_")
+    tone = f"_{asset.skin_tone.lower()}" if asset.metadata.get("unicodeSkintones") else ""
+    return f"{slug}_{suffix}{tone}{asset.source_path.suffix}"
 
 
 def _split_selection(value: str) -> list[str]:
@@ -311,6 +335,13 @@ def build_obsidian_plugin_plan(records: Iterable[AssetFile]) -> list[PlannedFile
         if planned_file.asset.source_path.suffix.lower() != ".svg":
             raise PackageError(
                 f"Obsidian 插件资源包只接受 SVG：{planned_file.asset.source_relative_path}"
+            )
+        expected_name = _asset_filename(planned_file.asset, planned_file.asset.emoji_name)
+        if planned_file.archive_path.name != expected_name:
+            raise PackageError(
+                "Obsidian 元数据无法唯一指向实际文件："
+                f"{planned_file.asset.emoji_name} ({planned_file.asset.style})；"
+                f"期望 {expected_name}，实际 {planned_file.archive_path.name}"
             )
         archive_path = planned_file.archive_path
         if planned_file.asset.style == "color":

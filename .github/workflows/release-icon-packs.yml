@@ -1,0 +1,76 @@
+name: Release icon packs
+
+on:
+  push:
+    tags: ["v[0-9]*"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: icon-release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    if: github.repository == 'AiurArtanis/obsidian-fluentui-emoji'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@7f4fc3e22c37d6ff65e88745f38bd3157c663f7c # v4.9.1
+        with:
+          python-version: "3.12"
+      - name: Check tag and run regressions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git merge-base --is-ancestor "$GITHUB_SHA" origin/main
+          test -f "release-notes/$GITHUB_REF_NAME.md"
+          python scripts/check_assets.py assets
+          python scripts/test_package_emojis.py
+          python scripts/test_validate_emoji_archive.py
+      - name: Build and independently validate all release archives
+        run: python scripts/build_release.py
+      - name: Create a new draft, download and validate, then publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          cp "release-notes/$GITHUB_REF_NAME.md" /tmp/icon-release-notes.md
+          printf '\nSource commit: `%s`.\n' "$GITHUB_SHA" >> /tmp/icon-release-notes.md
+          gh release create "$GITHUB_REF_NAME" dist/release/*.zip \
+            --repo "$GITHUB_REPOSITORY" --verify-tag --draft \
+            --title "icon-pack-$GITHUB_REF_NAME" --notes-file /tmp/icon-release-notes.md
+          gh release download "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" \
+            --pattern '*.zip' --dir dist/downloaded
+          python scripts/validate_emoji_archive.py dist/downloaded/*.zip \
+            --source-root . --report dist/downloaded/validation-report.json
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          built = {p.name: p for p in Path('dist/release').glob('*.zip')}
+          downloaded = {p.name: p for p in Path('dist/downloaded').glob('*.zip')}
+          assert built.keys() == downloaded.keys(), 'Release asset set mismatch'
+          for name, source in built.items():
+              target = downloaded[name]
+              assert source.stat().st_size == target.stat().st_size, name
+              with zipfile.ZipFile(source) as a, zipfile.ZipFile(target) as b:
+                  assert [(x.filename, x.file_size, x.CRC) for x in a.infolist()] == [
+                      (x.filename, x.file_size, x.CRC) for x in b.infolist()], name
+          PY
+          gh release edit "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" \
+            --draft=false --prerelease=false --latest
+          mkdir dist/published
+          curl --fail --location --retry 2 \
+            "https://github.com/$GITHUB_REPOSITORY/releases/download/$GITHUB_REF_NAME/fluent-emoji-for-obsidian-plugin.zip" \
+            --output dist/published/fluent-emoji-for-obsidian-plugin.zip
+          python scripts/validate_emoji_archive.py dist/published/fluent-emoji-for-obsidian-plugin.zip \
+            --source-root . --report dist/published/validation-report.json
+          gh release view "$GITHUB_REF_NAME" --repo "$GITHUB_REPOSITORY" \
+            --json url,isDraft,isPrerelease,assets

@@ -13,6 +13,7 @@ from pathlib import Path
 
 from package_emojis import (
     PackageError,
+    build_obsidian_plugin_plan,
     build_plan,
     discover_assets,
     main,
@@ -168,6 +169,19 @@ class PackageEmojiTests(unittest.TestCase):
             self.assertNotIn("flat/Activities/game_flat.svg", archive.namelist())
 
     def test_obsidian_plugin_pack_has_three_svg_styles_and_one_root_jsonl(self) -> None:
+        # The generic collision fixtures deliberately have unrelated filenames;
+        # plugin packs require filenames that the consumer can resolve.
+        for old, new in {
+            "Tool/Flat/shared_flat.svg": "Tool/Flat/tool_flat.svg",
+            "Hand/Default/Flat/shared_flat.svg": "Hand/Default/Flat/hand_flat_default.svg",
+            "Hand/Default/Color/hand_color.svg": "Hand/Default/Color/hand_color_default.svg",
+            "Hand/Light/Flat/hand_light_flat.svg": "Hand/Light/Flat/hand_flat_light.svg",
+        }.items():
+            (self.assets / old).rename(self.assets / new)
+        hand_metadata = self.assets / "Hand/metadata.json"
+        metadata = json.loads(hand_metadata.read_text())
+        metadata["unicodeSkintones"] = ["fixture"]
+        hand_metadata.write_text(json.dumps(metadata))
         self._add_asset(
             "Game",
             "Activities",
@@ -195,6 +209,52 @@ class PackageEmojiTests(unittest.TestCase):
         self.assertEqual({"3d", "flat", "high-contrast"}, {item["emojiStyle"] for item in records if item["emojiName"] == "Game"})
         self.assertEqual(["Game", "Game", "Game", "Hand", "Hand", "Tool"], [item["emojiName"] for item in records])
         self.assertTrue(all(next(iter(item)) == "emojiName" and next(reversed(item)) == "emojiStyle" for item in records))
+
+    def test_metadata_name_uses_asset_confirmed_cldr_without_renaming_images(self) -> None:
+        self._add_asset("O button blood type", "Symbols", {
+            "3D/o_button_(blood_type)_3d.png": b"png",
+            "Color/o_button_(blood_type)_color.svg": b"<svg/>",
+            "Flat/o_button_(blood_type)_flat.svg": b"<svg/>",
+            "High Contrast/o_button_(blood_type)_high_contrast.svg": b"<svg/>",
+        })
+        path = self.assets / "O button blood type/metadata.json"
+        metadata = json.loads(path.read_text())
+        metadata["cldr"] = "O button (blood type)"
+        path.write_text("\n" + json.dumps(metadata))
+        assets = discover_assets(self.assets, self.root)
+        blood_type = [a for a in assets if a.group == "Symbols"]
+        self.assertEqual(4, len(blood_type))
+        self.assertEqual({"O button (blood type)"}, {a.emoji_name for a in blood_type})
+        output = self._write(build_plan(blood_type, parse_style_selection("ALL"), parse_group_selection("NONE", ("Symbols",))))
+        with zipfile.ZipFile(output) as archive:
+            for style in ("3d", "color", "flat", "high-contrast"):
+                row = json.loads(archive.read(f"{style}/metadata.jsonl"))
+                self.assertEqual("O button (blood type)", row["emojiName"])
+                self.assertEqual(metadata["alias"], row["alias"])
+                self.assertEqual(metadata["futureField"], row["futureField"])
+        self.assertEqual("O button (blood type)", metadata["cldr"])
+
+    def test_plugin_rejects_unresolvable_or_style_inconsistent_metadata(self) -> None:
+        self._add_asset("Broken", "Objects", {
+            "Flat/broken_flat.svg": b"<svg/>",
+            "Color/different_color.svg": b"<svg/>",
+        })
+        records = [a for a in discover_assets(self.assets, self.root) if a.emoji_name == "Broken"]
+        with self.assertRaisesRegex(PackageError, "无法唯一指向"):
+            build_obsidian_plugin_plan(records)
+
+    def test_metadata_names_do_not_apply_unverified_cldr_or_case_folding(self) -> None:
+        self._add_asset("Correct", "Objects", {"Flat/correct_flat.svg": b"<svg/>"})
+        path = self.assets / "Correct/metadata.json"
+        metadata = json.loads(path.read_text())
+        metadata["cldr"] = "incorrect"
+        path.write_text(json.dumps(metadata))
+        records = [a for a in discover_assets(self.assets, self.root) if a.source_path.parent.parent.name == "Correct"]
+        self.assertEqual("Correct", records[0].emoji_name)
+        records[0].source_path.rename(records[0].source_path.with_name("Correct_flat.svg"))
+        records = [a for a in discover_assets(self.assets, self.root) if a.emoji_name == "Correct"]
+        with self.assertRaises(PackageError):
+            build_obsidian_plugin_plan(records)
 
     def test_archive_includes_license_resources_and_leaf_jsonl(self) -> None:
         output = self._write(self._plan("flat,color", "ALL"))

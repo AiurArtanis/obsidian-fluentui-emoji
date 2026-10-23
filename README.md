@@ -18,6 +18,8 @@ The first release, [`icon-pack-v1`](../../releases/tag/icon-pack-v1), contains o
 
 [`icon-pack-v2`](../../releases/tag/v2) retains those archive layouts and adds reviewed English/Chinese `alias` lists to all 1,595 source metadata files. Every packaged JSONL record preserves `alias` and any other source metadata fields, with `emojiName` first and `emojiStyle` last.
 
+[`v2.0.1`](../../releases/tag/v2.0.1) fixes generated metadata names that differ from actual filenames, including the parentheses in O button (blood type), and validates every metadata path and skin-tone variant before release. Source artwork and metadata fields are preserved.
+
 ### Build a pack locally
 
 Python 3.10+ is sufficient; no third-party dependency is required.
@@ -53,6 +55,8 @@ Fluent Emoji 是 Microsoft 提供的一套熟悉、友好且现代的 Emoji。�
 首个发布版本 [`icon-pack-v1`](../../releases/tag/icon-pack-v1) 包含四个全量风格包、每个上游主题各一个 ZIP，以及 `fluent-emoji-for-obsidian-plugin.zip`。插件专用包仅收录 SVG，目录为 `3d/`（上游 Color）、`flat/`、`high-contrast/`；根目录的 `metadata.json` 保存全量 JSONL 元数据。
 
 [`icon-pack-v2`](../../releases/tag/v2) 保持上述 ZIP 结构，为全部 1,595 份源元数据加入经审查的中英文 `alias`。包内每条 JSONL 元数据保留 `alias` 及源文件中的其他新增字段，且仍以 `emojiName` 为首字段、`emojiStyle` 为末字段。
+
+[`v2.0.1`](../../releases/tag/v2.0.1) 修复生成的元数据名称与真实文件名不一致的问题（包括 O 型血按钮的括号），并在发布前逐条验证元数据路径和全部肤色变体。保留源图片及元数据字段。
 
 ### 本地打包
 
